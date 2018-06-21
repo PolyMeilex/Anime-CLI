@@ -1,7 +1,7 @@
 {
-  "name": "animecli",
-  "version": "1.0.0",
-  "description": "",
+  "name": "anime-cli",
+  "version": "0.0.2",
+  "description": "CLI for downloading anime",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,11 @@
   ],
   "preferGlobal": true,
   "bin": {
-    "AnimeCli": "index.js"
+    "Anime-Cli": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PolyMagic/Anime-CLI.git"
   },
   "dependencies": {
     "chalk": "^2.4.1",
@@ -27,5 +31,5 @@
     "zombie": "^6.1.2"
   },
   "author": "Poly",
-  "license": "ISC"
+  "license": "OSL"
 }
