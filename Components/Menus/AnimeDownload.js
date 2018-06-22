@@ -39,6 +39,10 @@ module.exports = async () => {
   if (ans.location == "Current Directory")
     global.DownloadPath = path.resolve("./");
 
+  try {
+    fs.mkdirSync(DownloadPath + "/Downloads");
+  } catch (e) {}
+
   clear();
 
   const CLI = require("clui"),

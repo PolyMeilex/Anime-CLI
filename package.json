@@ -1,6 +1,6 @@
 {
   "name": "anime-cli",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "CLI for downloading anime",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   ],
   "preferGlobal": true,
   "bin": {
-    "Anime-Cli": "index.js"
+    "anime-cli": "index.js"
   },
   "repository": {
     "type": "git",
