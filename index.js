@@ -75,11 +75,12 @@ const start = async () => {
     current = file.version;
   } catch (e) {}
 
-  if (latest != current)
-    inquirerMenager.OpenMainMenu(
-      chalk.red("This version is outdated, run 'npm i -g anime-cli' ")
+  if (latest != current) {
+    process.stdout.write(
+      chalk.red("  This version is outdated, run 'npm i -g anime-cli' ")
     );
-  else inquirerMenager.OpenMainMenu("Ctrl + B -> Back To Main Menu");
+  }
 };
 
 start();
+inquirerMenager.OpenMainMenu("Ctrl + B -> Back To Main Menu");

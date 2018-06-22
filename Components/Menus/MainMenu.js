@@ -31,7 +31,7 @@ module.exports = async message => {
         "Download Anime",
         new inquirerMenager.Separator(),
         "Open Settings",
-        "Debug"
+        new inquirerMenager.Separator()
       ],
       default: 0
     }
@@ -39,11 +39,8 @@ module.exports = async message => {
 
   const action = MainQ.action;
 
-  let Debug = () => inquirerMenager.OpenMainMenu("Debug");
-
   if (action === "Add New Anime") AddNewAnime();
   else if (action === "Watch Anime") AnimePlay();
   else if (action === "Download Anime") AnimeDownload();
   else if (action === "Open Settings") SettingsMenu();
-  else if (action === "Debug") Debug();
 };

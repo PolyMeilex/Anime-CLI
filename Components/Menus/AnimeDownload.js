@@ -14,6 +14,7 @@ const path = require("path");
 
 module.exports = async () => {
   let obj = await AnimeSelect();
+  const AnimeName = obj.name;
 
   clear();
   console.log("");
@@ -41,6 +42,10 @@ module.exports = async () => {
 
   try {
     fs.mkdirSync(DownloadPath + "/Downloads");
+  } catch (e) {}
+
+  try {
+    fs.mkdirSync(DownloadPath + "/Downloads/" + AnimeName);
   } catch (e) {}
 
   clear();
@@ -111,8 +116,6 @@ module.exports = async () => {
   if (!o.e) {
     list = o.data;
   }
-
-  const AnimeName = obj.name;
 
   clear();
 
@@ -192,10 +195,6 @@ module.exports = async () => {
         this.InitDownload(this.LastDownloading + 1);
       });
 
-      try {
-        fs.mkdirSync(DownloadPath + "/Downloads/" + AnimeName);
-      } catch (e) {}
-
       d.progress.pipe(
         fs.createWriteStream(
           DownloadPath + "/Downloads/" + AnimeName + "/" + d.name + ".mp4"
@@ -223,8 +222,36 @@ module.exports = async () => {
 
   list = list.map(ep => new Dobject(ep));
 
-  let dm = new DownloadMenager(list);
-  dm.draw();
+  let Allowed = true;
 
-  for (let i = 0; i < Conf.Read("Max-Downloads"); i++) dm.InitDownload(i);
+  try {
+    const dir = fs.readdirSync(DownloadPath + "/Downloads/" + AnimeName);
+    const over = dir.find(file => {
+      for (let i = 0; i < list.length; i++) {
+        const ep = list[i];
+        if (ep.name == path.basename(file, path.extname(file))) return true;
+      }
+
+      return false;
+    });
+
+    const ans = await inquirerMenager.prompt([
+      {
+        type: "confirm",
+        name: "c",
+        message: `${over} Will Be Overwriten`,
+        default: true
+      }
+    ]);
+
+    if (ans.c) Allowed = true;
+    else if (!ans.c) Allowed = false;
+  } catch (e) {}
+
+  if (Allowed) {
+    let dm = new DownloadMenager(list);
+    dm.draw();
+
+    for (let i = 0; i < Conf.Read("Max-Downloads"); i++) dm.InitDownload(i);
+  }
 };
