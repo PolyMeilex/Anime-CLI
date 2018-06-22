@@ -8,7 +8,7 @@ Hi I'm Placeholder
 
 Install Node form nodejs.org (Version 10 is recommended)
 
-Run this command it terminal.
+Run this command in terminal.
 
 ```
 npm i -g anime-cli
