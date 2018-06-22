@@ -57,7 +57,29 @@ try {
 } catch (e) {}
 
 //
-// Init
+// Version Check
 //
+const rp = require("request-promise-native");
 
-inquirerMenager.OpenMainMenu("Ctrl + B -> Back To Main Menu");
+const start = async () => {
+  let latest = null;
+  let current = null;
+
+  try {
+    const body = await rp("https://registry.npmjs.org/anime-cli/latest/");
+    let json = JSON.parse(body);
+    latest = json.version;
+
+    let file = fs.readFileSync(Root + "/package.json", "utf8");
+    file = JSON.parse(file);
+    current = file.version;
+  } catch (e) {}
+
+  if (latest != current)
+    inquirerMenager.OpenMainMenu(
+      chalk.red("This version is outdated, run 'npm i -g anime-cli' ")
+    );
+  else inquirerMenager.OpenMainMenu("Ctrl + B -> Back To Main Menu");
+};
+
+start();

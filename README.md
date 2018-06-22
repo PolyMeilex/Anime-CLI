@@ -11,7 +11,7 @@ Install Node form nodejs.org (Version 10 is recommended)
 Run this command it terminal.
 
 ```
-npm i -g Anime-CLI
+npm i -g anime-cli
 ```
 
 If you are on linux you need to use sudo for this command;
