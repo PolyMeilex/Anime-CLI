@@ -2,7 +2,7 @@
 
 # Anime-CLI
 
-Hi I'm Placeholder
+![Preview](https://i.imgur.com/CfebORF.png)
 
 # Instalation
 
