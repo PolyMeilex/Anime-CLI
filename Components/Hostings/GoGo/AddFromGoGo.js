@@ -16,7 +16,6 @@ module.exports = async () => {
 
   const obj = await EpParser(find);
 
-  console.log(obj);
   if (!obj) {
     inquirerMenager.OpenMainMenu(
       chalk.red("Sorry but something went wrong, please try again")
