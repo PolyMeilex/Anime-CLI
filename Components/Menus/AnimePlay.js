@@ -40,7 +40,9 @@ module.exports = async () => {
   let i = choice.indexOf(answer.ep);
 
   if (obj.host == "KA" || obj.host == null) {
-    let RawLink = await require("../LinkParsers/GetRawLink")(obj.eps[i].link);
+    let RawLink = await require("../Hostings/KA/LinkParsers/GetRawLink")(
+      obj.eps[i].link
+    );
     obj.eps[i].rawLink = RawLink;
   }
 

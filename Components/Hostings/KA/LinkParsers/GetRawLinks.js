@@ -3,7 +3,7 @@ const Spinner = CLI.Spinner;
 const rp = require("request-promise-native");
 const cheerio = require("cheerio");
 
-const Conf = require("../Settings/Settings");
+const Conf = require("../../../Settings/Settings");
 
 const GetRawLinks = eps => {
   return new Promise((res, rej) => {

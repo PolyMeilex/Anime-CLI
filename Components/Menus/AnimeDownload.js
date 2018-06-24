@@ -219,7 +219,7 @@ module.exports = async () => {
   }
 
   if (obj.host == "KA" || obj.host == null) {
-    const GetRawLinks = require("../LinkParsers/GetRawLinks");
+    const GetRawLinks = require("../Hostings/KA/LinkParsers/GetRawLinks");
     list = await GetRawLinks(list);
   }
 
