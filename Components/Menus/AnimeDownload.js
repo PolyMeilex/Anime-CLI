@@ -217,8 +217,11 @@ module.exports = async () => {
       this.progress = progress(request(this.rawLink));
     }
   }
-  const GetRawLinks = require("../LinkParsers/GetRawLinks");
-  list = await GetRawLinks(list);
+
+  if (obj.host == "KA" || obj.host == null) {
+    const GetRawLinks = require("../LinkParsers/GetRawLinks");
+    list = await GetRawLinks(list);
+  }
 
   list = list.map(ep => new Dobject(ep));
 
@@ -235,17 +238,21 @@ module.exports = async () => {
       return false;
     });
 
-    const ans = await inquirerMenager.prompt([
-      {
-        type: "confirm",
-        name: "c",
-        message: `${over} Will Be Overwriten`,
-        default: true
-      }
-    ]);
+    if (!over) {
+      Allowed = true;
+    } else {
+      const ans = await inquirerMenager.prompt([
+        {
+          type: "confirm",
+          name: "c",
+          message: `${over} Will Be Overwriten`,
+          default: true
+        }
+      ]);
 
-    if (ans.c) Allowed = true;
-    else if (!ans.c) Allowed = false;
+      if (ans.c) Allowed = true;
+      else if (!ans.c) Allowed = false;
+    }
   } catch (e) {}
 
   if (Allowed) {

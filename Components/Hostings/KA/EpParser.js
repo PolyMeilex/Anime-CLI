@@ -5,7 +5,7 @@ const path = require("path");
 const CLI = require("clui");
 const Spinner = CLI.Spinner;
 
-const Conf = require("../Settings/Settings");
+const Conf = require("../../Settings/Settings");
 
 const EpisodeParser = async (AnimeName, Cookie) => {
   if (!Cookie) return;

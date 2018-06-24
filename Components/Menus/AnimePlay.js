@@ -11,11 +11,6 @@ module.exports = async () => {
 
   clear();
 
-  let CLI = require("clui");
-  let clc = require("cli-color");
-
-  let Progress = CLI.Progress;
-
   //   require("../Utils/EpDisplay")(obj);
   console.log(CliLogo);
 
@@ -44,8 +39,10 @@ module.exports = async () => {
 
   let i = choice.indexOf(answer.ep);
 
-  let RawLink = await require("../LinkParsers/GetRawLink")(obj.eps[i].link);
-  obj.eps[i].rawLink = RawLink;
+  if (obj.host == "KA" || obj.host == null) {
+    let RawLink = await require("../LinkParsers/GetRawLink")(obj.eps[i].link);
+    obj.eps[i].rawLink = RawLink;
+  }
 
   opn(obj.eps[i].rawLink);
 

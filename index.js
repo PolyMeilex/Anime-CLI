@@ -29,22 +29,6 @@ global.CliLogo = fs.readFileSync(Root + "/colLogo.txt", "utf8");
 global.inquirerMenager = require("./Components/Utils/inquirerMenager");
 
 //
-// Keyboard Listener
-//
-
-const readline = require("readline");
-readline.emitKeypressEvents(process.stdin);
-process.stdin.setRawMode(true);
-process.stdin.resume();
-
-process.stdin.on("keypress", (str, key) => {
-  if (key.ctrl && key.name == "c") process.exit(1);
-  else if (key.ctrl && key.name == "b") {
-    inquirerMenager.OpenMainMenu("");
-  }
-});
-
-//
 // Dir Check
 //
 
@@ -83,4 +67,7 @@ const start = async () => {
 };
 
 start();
-inquirerMenager.OpenMainMenu("Ctrl + B -> Back To Main Menu");
+
+inquirerMenager.OpenMainMenu(" ");
+
+// require("./Components/Menus/AddAnime")();
