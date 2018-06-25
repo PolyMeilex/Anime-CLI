@@ -24,8 +24,14 @@ Run
 anime-cli
 ```
 
-And again sadly anime-cli require sudo becouse of location of config files
-It will be fixed in future (-:
+# Supported Hostings
+- KissAnime
+- Anime GOGo
+- ~~HorribleSubs Torrents~~ (Coming Soon)
+
+
+~~And again sadly anime-cli require sudo becouse of location of config files
+It will be fixed in future (-:~~
 
 # Small Notes
 
