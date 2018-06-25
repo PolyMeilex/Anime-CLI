@@ -44,7 +44,8 @@ module.exports = async message => {
   if (action === "Add New Anime") AddNewAnime();
   else if (action === "Watch Anime") AnimePlay();
   else if (action === "Download Anime") AnimeDownload();
-  else if (action === "Open Downloads Folder") require("opn")(DownloadPath);
+  else if (action === "Open Downloads Folder")
+    require("opn")(DownloadPath + "/Downloads");
   else if (action === "Open Anime Folder") require("opn")(Root + "/Anime");
   else if (action === "Open Settings") SettingsMenu();
 };
