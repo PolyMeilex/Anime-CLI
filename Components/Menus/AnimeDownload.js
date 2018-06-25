@@ -40,12 +40,13 @@ module.exports = async () => {
   if (ans.location == "Current Directory")
     global.DownloadPath = path.resolve("./");
 
+  const mkdirp = require("mkdirp");
   try {
-    fs.mkdirSync(DownloadPath + "/Downloads");
+    mkdirp.sync(DownloadPath + "/Downloads");
   } catch (e) {}
 
   try {
-    fs.mkdirSync(DownloadPath + "/Downloads/" + AnimeName);
+    mkdirp.sync(DownloadPath + "/Downloads/" + AnimeName);
   } catch (e) {}
 
   clear();

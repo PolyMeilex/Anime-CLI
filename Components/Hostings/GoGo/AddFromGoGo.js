@@ -26,7 +26,7 @@ module.exports = async () => {
   obj.host = "GoGo";
 
   fs.writeFileSync(
-    Root + "/Anime/" + obj.name + ".json",
+    cfgPath + "/Anime/" + obj.name + ".json",
     JSON.stringify(obj, null, "\t")
   );
   inquirerMenager.OpenMainMenu(

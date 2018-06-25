@@ -25,7 +25,7 @@ module.exports = async () => {
     .output();
   new Line()
     .column("Max-Downloads", 20, [clc.white])
-    .column("2", 20, [clc.white])
+    .column("1", 20, [clc.white])
     .column(`${Conf.Read("Max-Downloads")}`, 20, [clc.white])
     .output();
 
@@ -81,7 +81,4 @@ module.exports = async () => {
     ]);
     if (q) Conf.Write(setting, value);
   } else Conf.Write(setting, value);
-
-  console.log(setting);
-  console.log(value);
 };

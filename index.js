@@ -9,8 +9,9 @@ inquirer.registerPrompt(
   require("inquirer-autocomplete-prompt")
 );
 
-const Conf = require("./Components/Settings/Settings");
-Conf.Int();
+const mkdirp = require("mkdirp");
+
+const applicationConfigPath = require("application-config-path");
 
 //
 // GLOBALS
@@ -18,8 +19,29 @@ Conf.Int();
 global.userAgent =
   "Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.183 Mobile Safari/537.36";
 
+global.cfgPath = applicationConfigPath("anime-cli");
+
 global.Root = path.resolve(__dirname);
-global.DownloadPath = Root;
+global.DownloadPath = cfgPath;
+
+//
+// Dir Check
+//
+
+try {
+  mkdirp.sync(cfgPath);
+} catch (e) {}
+
+try {
+  mkdirp.sync(cfgPath + "/Anime");
+} catch (e) {}
+
+try {
+  mkdirp.sync(cfgPath + "/Downloads");
+} catch (e) {}
+
+const Conf = require("./Components/Settings/Settings");
+Conf.Int();
 
 global.chalk = require("chalk");
 global.OpenMainMenu = require("./Components/Menus/MainMenu");
@@ -27,18 +49,6 @@ global.clear = require("clear");
 global.CliLogo = fs.readFileSync(Root + "/colLogo.txt", "utf8");
 
 global.inquirerMenager = require("./Components/Utils/inquirerMenager");
-
-//
-// Dir Check
-//
-
-try {
-  fs.mkdirSync(Root + "/Anime");
-} catch (e) {}
-
-try {
-  fs.mkdirSync(DownloadPath + "/Downloads");
-} catch (e) {}
 
 //
 // Version Check

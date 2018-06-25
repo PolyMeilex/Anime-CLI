@@ -36,7 +36,7 @@ module.exports = async () => {
   obj.host = "KA";
 
   fs.writeFileSync(
-    Root + "/Anime/" + obj.name + ".json",
+    cfgPath + "/Anime/" + obj.name + ".json",
     JSON.stringify(obj, null, "\t")
   );
 

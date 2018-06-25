@@ -51,7 +51,8 @@ const main = async () => {
       try {
         body = await rp(link);
       } catch (e) {
-        obj[i].broken = true;
+        // obj[i].broken = true;
+        // obj[i].id = 99999;
         console.log(el.name);
         return;
       }
@@ -74,6 +75,21 @@ const main = async () => {
       );
     })();
   }
+
+  await sort();
 };
 
+const sort = () => {
+  const file = fs.readFileSync(__dirname + "/list.json", "utf8");
+  let obj = JSON.parse(file);
+
+  obj = obj.sort((a, b) => a.id - b.id);
+  fs.writeFileSync(
+    __dirname + "/HS-Sorted.json",
+    JSON.stringify(obj, null, "\t")
+  );
+};
 main();
+
+// http://horriblesubs.info/lib/getshows.php?type=show&showid=
+// http://horriblesubs.info/lib/getshows.php?type=batch&showid=

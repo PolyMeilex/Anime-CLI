@@ -1,48 +1,8 @@
 [
 	{
-		"name": "18if",
-		"link": "/shows/18if",
-		"id": 928
-	},
-	{
-		"name": "3-gatsu no Lion",
-		"link": "/shows/3-gatsu-no-lion",
-		"id": 800
-	},
-	{
-		"name": "3-Nen D-Gumi Glass no Kamen",
-		"link": "/shows/3-nen-d-gumi-glass-no-kamen",
-		"id": 808
-	},
-	{
-		"name": "3D Kanojo Real Girl",
-		"link": "/shows/3d-kanojo-real-girl",
-		"id": 1067
-	},
-	{
-		"name": "91 Days",
-		"link": "/shows/91-days",
-		"id": 731
-	},
-	{
-		"name": "A.I.C.O. - Incarnation",
-		"link": "/shows/a-i-c-o-incarnation",
-		"id": 1054
-	},
-	{
 		"name": "Absolute Duo",
 		"link": "/shows/absolute-duo",
 		"id": 1
-	},
-	{
-		"name": "ACCA - 13-ku Kansatsu-ka",
-		"link": "/shows/acca-13-ku-kansatsu-ka",
-		"id": 838
-	},
-	{
-		"name": "Ace Attorney",
-		"link": "/shows/ace-attorney",
-		"id": 654
 	},
 	{
 		"name": "Ace of Diamond",
@@ -55,26 +15,6 @@
 		"id": 3
 	},
 	{
-		"name": "Action Heroine Cheer Fruits",
-		"link": "/shows/action-heroine-cheer-fruits",
-		"id": 933
-	},
-	{
-		"name": "Active Raid",
-		"link": "/shows/active-raid",
-		"id": 608
-	},
-	{
-		"name": "Active Raid S2",
-		"link": "/shows/active-raid-s2",
-		"id": 738
-	},
-	{
-		"name": "Aho Girl",
-		"link": "/shows/aho-girl",
-		"id": 916
-	},
-	{
 		"name": "Ai-Mai-Mi",
 		"link": "/shows/ai-mai-mi",
 		"id": 4
@@ -83,11 +23,6 @@
 		"name": "Ai-Mai-Mi - Mousou Catastrophie",
 		"link": "/shows/ai-mai-mi-mousou-catastrophie",
 		"id": 5
-	},
-	{
-		"name": "Ai-Mai-Mi - Surgical Friends",
-		"link": "/shows/ai-mai-mi-surgical-friends",
-		"id": 817
 	},
 	{
 		"name": "AIURA",
@@ -115,16 +50,6 @@
 		"id": 10
 	},
 	{
-		"name": "Akiba's Trip The Animation",
-		"link": "/shows/akibas-trip-the-animation",
-		"id": 818
-	},
-	{
-		"name": "Akkun to Kanojo",
-		"link": "/shows/akkun-to-kanojo",
-		"id": 1075
-	},
-	{
 		"name": "Aku no Hana",
 		"link": "/shows/aku-no-hana",
 		"id": 11
@@ -135,49 +60,9 @@
 		"id": 12
 	},
 	{
-		"name": "Alderamin on the Sky",
-		"link": "/shows/alderamin-on-the-sky",
-		"id": 730
-	},
-	{
 		"name": "Aldnoah Zero",
 		"link": "/shows/aldnoah-zero",
 		"id": 13
-	},
-	{
-		"name": "Alice or Alice",
-		"link": "/shows/alice-or-alice",
-		"id": 1069
-	},
-	{
-		"name": "Alice to Zouroku",
-		"link": "/shows/alice-to-zouroku",
-		"id": 859
-	},
-	{
-		"name": "All Out!!",
-		"link": "/shows/all-out",
-		"id": 792
-	},
-	{
-		"name": "Amaama to Inazuma",
-		"link": "/shows/amaama-to-inazuma",
-		"id": 713
-	},
-	{
-		"name": "Amanchu!",
-		"link": "/shows/amanchu",
-		"id": 729
-	},
-	{
-		"name": "Amanchu! Advance",
-		"link": "/shows/amanchu-advance",
-		"id": 1083
-	},
-	{
-		"name": "Ame-con!!",
-		"link": "/shows/ame-con",
-		"id": 969
 	},
 	{
 		"name": "Ame-iro Cocoa",
@@ -185,44 +70,14 @@
 		"id": 14
 	},
 	{
-		"name": "Ame-iro Cocoa S2",
-		"link": "/shows/ame-iro-cocoa-s2",
-		"id": 581
-	},
-	{
 		"name": "Amnesia",
 		"link": "/shows/amnesia",
 		"id": 15
 	},
 	{
-		"name": "Ange Vierge",
-		"link": "/shows/ange-vierge",
-		"id": 737
-	},
-	{
-		"name": "Ani Tore! EX",
-		"link": "/shows/ani-tore-ex",
-		"id": 583
-	},
-	{
-		"name": "Ani Tore! XX",
-		"link": "/shows/ani-tore-xx",
-		"id": 782
-	},
-	{
 		"name": "Anime de Wakaru Shinryounaika",
 		"link": "/shows/anime-de-wakaru-shinryounaika",
 		"id": 16
-	},
-	{
-		"name": "Animegataris",
-		"link": "/shows/animegataris",
-		"id": 993
-	},
-	{
-		"name": "Anne Happy",
-		"link": "/shows/anne-happy",
-		"id": 673
 	},
 	{
 		"name": "Ano Natsu de Matteru",
@@ -243,26 +98,6 @@
 		"name": "Ao Haru Ride",
 		"link": "/shows/ao-haru-ride",
 		"id": 20
-	},
-	{
-		"name": "Ao no Exorcist - Kyoto Fujouou-hen",
-		"link": "/shows/ao-no-exorcist-kyoto-fujouou-hen",
-		"id": 825
-	},
-	{
-		"name": "Ao no Kanata no Four Rhythm",
-		"link": "/shows/ao-no-kanata-no-four-rhythm",
-		"id": 638
-	},
-	{
-		"name": "Ao Oni The Animation",
-		"link": "/shows/ao-oni-the-animation",
-		"id": 769
-	},
-	{
-		"name": "Ao Oni The Animation Movie",
-		"link": "/shows/ao-oni-the-animation-movie",
-		"id": 852
 	},
 	{
 		"name": "Aoharu x Kikanjuu",
@@ -315,26 +150,6 @@
 		"id": 29
 	},
 	{
-		"name": "Assassination Classroom S2",
-		"link": "/shows/assassination-classroom-s2",
-		"id": 609
-	},
-	{
-		"name": "Atom - The Beginning",
-		"link": "/shows/atom-the-beginning",
-		"id": 898
-	},
-	{
-		"name": "B - The Beginning",
-		"link": "/shows/b-the-beginning",
-		"id": 1053
-	},
-	{
-		"name": "B-Project",
-		"link": "/shows/b-project",
-		"id": 704
-	},
-	{
 		"name": "Baby Steps",
 		"link": "/shows/baby-steps",
 		"id": 30
@@ -355,44 +170,9 @@
 		"id": 33
 	},
 	{
-		"name": "Bakuon!!",
-		"link": "/shows/bakuon",
-		"id": 665
-	},
-	{
-		"name": "Ballroom e Youkoso",
-		"link": "/shows/ballroom-e-youkoso",
-		"id": 926
-	},
-	{
-		"name": "Bananya",
-		"link": "/shows/bananya",
-		"id": 710
-	},
-	{
-		"name": "BanG Dream!",
-		"link": "/shows/bang-dream",
-		"id": 851
-	},
-	{
 		"name": "Barakamon",
 		"link": "/shows/barakamon",
 		"id": 34
-	},
-	{
-		"name": "Basilisk - Ouka Ninpouchou",
-		"link": "/shows/basilisk-ouka-ninpouchou",
-		"id": 1027
-	},
-	{
-		"name": "Battery",
-		"link": "/shows/battery",
-		"id": 744
-	},
-	{
-		"name": "Battle Girl High School",
-		"link": "/shows/battle-girl-high-school",
-		"id": 912
 	},
 	{
 		"name": "Battle Girls - Time Paradox",
@@ -400,29 +180,9 @@
 		"id": 35
 	},
 	{
-		"name": "Beatless",
-		"link": "/shows/beatless",
-		"id": 1047
-	},
-	{
 		"name": "Beelzebub",
 		"link": "/shows/beelzebub",
 		"id": 36
-	},
-	{
-		"name": "Bernard Jou Iwaku.",
-		"link": "/shows/bernard-jou-iwaku",
-		"id": 793
-	},
-	{
-		"name": "Berserk",
-		"link": "/shows/berserk",
-		"id": 696
-	},
-	{
-		"name": "Big Order",
-		"link": "/shows/big-order",
-		"id": 688
 	},
 	{
 		"name": "Bikini Warriors",
@@ -435,54 +195,14 @@
 		"id": 38
 	},
 	{
-		"name": "Binan Koukou Chikyuu Bouei-bu Love! Love! Love!",
-		"link": "/shows/binan-koukou-chikyuu-bouei-bu-love-love-love",
-		"id": 1005
-	},
-	{
-		"name": "Binan Koukou Chikyuu Bouei-bu Love! S2",
-		"link": "/shows/binan-koukou-chikyuu-bouei-bu-love-s2",
-		"id": 726
-	},
-	{
-		"name": "Binan Koukou Chikyuu Bouei-bu Love! S3",
-		"link": "/shows/binan-koukou-chikyuu-bouei-bu-love-s3",
-		"id": 1088
-	},
-	{
-		"name": "Bishoujo Yuugi Unit Crane Game Girls",
-		"link": "/shows/bishoujo-yuugi-unit-crane-game-girls",
-		"id": 671
-	},
-	{
-		"name": "Bishoujo Yuugi Unit Crane Game Girls Galaxy",
-		"link": "/shows/bishoujo-yuugi-unit-crane-game-girls-galaxy",
-		"id": 784
-	},
-	{
 		"name": "Black Bullet",
 		"link": "/shows/black-bullet",
 		"id": 39
 	},
 	{
-		"name": "Black Clover",
-		"link": "/shows/black-clover",
-		"id": 959
-	},
-	{
 		"name": "Blade and Soul",
 		"link": "/shows/blade-and-soul",
 		"id": 40
-	},
-	{
-		"name": "Blade Runner Black Out 2022",
-		"link": "/shows/blade-runner-black-out-2022",
-		"id": 955
-	},
-	{
-		"name": "Blame! Movie",
-		"link": "/shows/blame-movie",
-		"id": 899
 	},
 	{
 		"name": "BlazBlue - Alter Memory",
@@ -495,11 +215,6 @@
 		"id": 42
 	},
 	{
-		"name": "Blend S",
-		"link": "/shows/blend-s",
-		"id": 987
-	},
-	{
 		"name": "Blood Lad",
 		"link": "/shows/blood-lad",
 		"id": 43
@@ -510,29 +225,9 @@
 		"id": 44
 	},
 	{
-		"name": "Bloodivores",
-		"link": "/shows/bloodivores",
-		"id": 756
-	},
-	{
-		"name": "Boku dake ga Inai Machi",
-		"link": "/shows/boku-dake-ga-inai-machi",
-		"id": 611
-	},
-	{
-		"name": "Boku no Hero Academia",
-		"link": "/shows/boku-no-hero-academia",
-		"id": 659
-	},
-	{
 		"name": "Boku no Imouto wa Osaka Okan",
 		"link": "/shows/boku-no-imouto-wa-osaka-okan",
 		"id": 45
-	},
-	{
-		"name": "Boku no Kanojo ga Majimesugiru Sho-bitch na Ken",
-		"link": "/shows/boku-no-kanojo-ga-majimesugiru-sho-bitch-na-ken",
-		"id": 1001
 	},
 	{
 		"name": "Bokura wa Minna Kawaisou",
@@ -545,27 +240,7 @@
 		"id": 47
 	},
 	{
-		"name": "Bonobono",
-		"link": "/shows/bonobono",
-		"id": 694
-	},
-	{
-		"name": "Boruto - Naruto Next Generations",
-		"link": "/shows/boruto-naruto-next-generations",
-		"id": 869
-	},
-	{
-		"name": "Bottom Biting Bug",
-		"link": "/shows/bottom-biting-bug",
-		"id": 48
-	},
-	{
 		"name": "Bottom Biting Bug S2",
-		"link": "/shows/bottom-biting-bug",
-		"id": 48
-	},
-	{
-		"name": "Bottom Biting Bug S3",
 		"link": "/shows/bottom-biting-bug",
 		"id": 48
 	},
@@ -575,24 +250,19 @@
 		"id": 48
 	},
 	{
+		"name": "Bottom Biting Bug S3",
+		"link": "/shows/bottom-biting-bug",
+		"id": 48
+	},
+	{
+		"name": "Bottom Biting Bug",
+		"link": "/shows/bottom-biting-bug",
+		"id": 48
+	},
+	{
 		"name": "Brave 10",
 		"link": "/shows/brave-10",
 		"id": 52
-	},
-	{
-		"name": "Brave Beats",
-		"link": "/shows/brave-beats",
-		"id": 582
-	},
-	{
-		"name": "Brave Witches",
-		"link": "/shows/brave-witches",
-		"id": 788
-	},
-	{
-		"name": "Brotherhood - Final Fantasy XV",
-		"link": "/shows/brotherhood-final-fantasy-xv",
-		"id": 647
 	},
 	{
 		"name": "Brothers Conflict",
@@ -610,11 +280,6 @@
 		"id": 55
 	},
 	{
-		"name": "Bubuki Buranki",
-		"link": "/shows/bubuki-buranki",
-		"id": 626
-	},
-	{
 		"name": "Buddy Complex",
 		"link": "/shows/buddy-complex",
 		"id": 56
@@ -623,26 +288,6 @@
 		"name": "Buddy Complex Final Chapter",
 		"link": "/shows/buddy-complex",
 		"id": 56
-	},
-	{
-		"name": "Bungou Stray Dogs",
-		"link": "/shows/bungou-stray-dogs",
-		"id": 670
-	},
-	{
-		"name": "Busou Shoujo Machiavellianism",
-		"link": "/shows/busou-shoujo-machiavellianism",
-		"id": 871
-	},
-	{
-		"name": "Butlers - Chitose Momotose Monogatari",
-		"link": "/shows/butlers-chitose-momotose-monogatari",
-		"id": 1094
-	},
-	{
-		"name": "Caligula",
-		"link": "/shows/caligula",
-		"id": 1086
 	},
 	{
 		"name": "Campione!",
@@ -655,9 +300,9 @@
 		"id": 59
 	},
 	{
-		"name": "Cardcaptor Sakura Clear Card",
-		"link": "/shows/cardcaptor-sakura-clear-card",
-		"id": 1020
+		"name": "Cardfight!! Vanguard Legion Mate",
+		"link": "/shows/cardfight-vanguard",
+		"id": 60
 	},
 	{
 		"name": "Cardfight!! Vanguard",
@@ -670,54 +315,14 @@
 		"id": 60
 	},
 	{
-		"name": "Cardfight!! Vanguard G",
-		"link": "/shows/cardfight-vanguard-g",
-		"id": 62
-	},
-	{
-		"name": "Cardfight!! Vanguard G GIRS Crisis",
-		"link": "/shows/cardfight-vanguard-g-girs-crisis",
-		"id": 580
-	},
-	{
-		"name": "Cardfight!! Vanguard G NEXT",
-		"link": "/shows/cardfight-vanguard-g-next",
-		"id": 762
-	},
-	{
-		"name": "Cardfight!! Vanguard G Stride Gate",
-		"link": "/shows/cardfight-vanguard-g-girs-crisis",
-		"id": 580
-	},
-	{
-		"name": "Cardfight!! Vanguard G Z",
-		"link": "/shows/cardfight-vanguard-g-z",
-		"id": 992
-	},
-	{
-		"name": "Cardfight!! Vanguard Legion Mate",
-		"link": "/shows/cardfight-vanguard",
-		"id": 60
-	},
-	{
 		"name": "Cardfight!! Vanguard Link Joker",
 		"link": "/shows/cardfight-vanguard",
 		"id": 60
 	},
 	{
-		"name": "Centaur no Nayami",
-		"link": "/shows/centaur-no-nayami",
-		"id": 931
-	},
-	{
-		"name": "Chain Chronicle - Haecceitas no Hikari (Movie)",
-		"link": "/shows/chain-chronicle-haecceitas-no-hikari-movie",
-		"id": 814
-	},
-	{
-		"name": "Chain Chronicle - Haecceitas no Hikari (TV)",
-		"link": "/shows/chain-chronicle-haecceitas-no-hikari-tv",
-		"id": 831
+		"name": "Cardfight!! Vanguard G",
+		"link": "/shows/cardfight-vanguard-g",
+		"id": 62
 	},
 	{
 		"name": "Chaos Dragon",
@@ -725,29 +330,9 @@
 		"id": 65
 	},
 	{
-		"name": "ChaoS;Child",
-		"link": "/shows/chaoschild",
-		"id": 845
-	},
-	{
 		"name": "Charlotte",
 		"link": "/shows/charlotte",
 		"id": 66
-	},
-	{
-		"name": "Cheating Craft",
-		"link": "/shows/cheating-craft",
-		"id": 778
-	},
-	{
-		"name": "Cheer Danshi!!",
-		"link": "/shows/cheer-danshi",
-		"id": 716
-	},
-	{
-		"name": "Chi's Sweet Adventure S2",
-		"link": "/shows/chis-sweet-adventure-s2",
-		"id": 1089
 	},
 	{
 		"name": "Chihayafuru",
@@ -760,11 +345,6 @@
 		"id": 68
 	},
 	{
-		"name": "Chiruran - Nibun no Ichi",
-		"link": "/shows/chiruran-nibun-no-ichi",
-		"id": 836
-	},
-	{
 		"name": "Chitose Get You!",
 		"link": "/shows/chitose-get-you",
 		"id": 69
@@ -775,34 +355,9 @@
 		"id": 70
 	},
 	{
-		"name": "Citrus",
-		"link": "/shows/citrus",
-		"id": 1017
-	},
-	{
-		"name": "ClassicaLoid",
-		"link": "/shows/classicaloid",
-		"id": 798
-	},
-	{
-		"name": "ClassicaLoid S2",
-		"link": "/shows/classicaloid-s2",
-		"id": 982
-	},
-	{
 		"name": "Classroom Crisis",
 		"link": "/shows/classroom-crisis",
 		"id": 71
-	},
-	{
-		"name": "Clione no Akari",
-		"link": "/shows/clione-no-akari",
-		"id": 938
-	},
-	{
-		"name": "Clockwork Planet",
-		"link": "/shows/clockwork-planet",
-		"id": 876
 	},
 	{
 		"name": "Code Breaker",
@@ -810,19 +365,9 @@
 		"id": 72
 	},
 	{
-		"name": "Code Realize - Sousei no Himegimi",
-		"link": "/shows/code-realize-sousei-no-himegimi",
-		"id": 980
-	},
-	{
 		"name": "Comet Lucifer",
 		"link": "/shows/comet-lucifer",
 		"id": 73
-	},
-	{
-		"name": "Comic Girls",
-		"link": "/shows/comic-girls",
-		"id": 1072
 	},
 	{
 		"name": "Concrete Revolutio",
@@ -850,34 +395,14 @@
 		"id": 78
 	},
 	{
-		"name": "Cutie Honey Universe",
-		"link": "/shows/cutie-honey-universe",
-		"id": 1087
-	},
-	{
 		"name": "D-Frag!",
 		"link": "/shows/d-frag",
 		"id": 79
 	},
 	{
-		"name": "D.Gray-man Hallow",
-		"link": "/shows/d-gray-man-hallow",
-		"id": 714
-	},
-	{
 		"name": "Da Capo III",
 		"link": "/shows/da-capo-iii",
 		"id": 80
-	},
-	{
-		"name": "Dagashi Kashi",
-		"link": "/shows/dagashi-kashi",
-		"id": 639
-	},
-	{
-		"name": "Dagashi Kashi S2",
-		"link": "/shows/dagashi-kashi-s2",
-		"id": 1046
 	},
 	{
 		"name": "Daimidaler",
@@ -888,11 +413,6 @@
 		"name": "Daitoshokan no Hitsujikai",
 		"link": "/shows/daitoshokan-no-hitsujikai",
 		"id": 82
-	},
-	{
-		"name": "Dame x Prince Anime Caravan",
-		"link": "/shows/dame-x-prince-anime-caravan",
-		"id": 1033
 	},
 	{
 		"name": "Dance with Devils",
@@ -910,29 +430,9 @@
 		"id": 85
 	},
 	{
-		"name": "Danganronpa 3 - Despair Arc",
-		"link": "/shows/danganronpa-3-despair-arc",
-		"id": 743
-	},
-	{
-		"name": "Danganronpa 3 - Future Arc",
-		"link": "/shows/danganronpa-3-future-arc",
-		"id": 740
-	},
-	{
-		"name": "Danganronpa 3 - Hope Arc",
-		"link": "/shows/danganronpa-3-hope-arc",
-		"id": 754
-	},
-	{
 		"name": "DanMachi",
 		"link": "/shows/danmachi",
 		"id": 86
-	},
-	{
-		"name": "DanMachi Gaiden - Sword Oratoria",
-		"link": "/shows/danmachi-gaiden-sword-oratoria",
-		"id": 894
 	},
 	{
 		"name": "Danna ga Nani wo Itteiru ka Wakaranai Ken",
@@ -955,24 +455,9 @@
 		"id": 90
 	},
 	{
-		"name": "Darling in the FranXX",
-		"link": "/shows/darling-in-the-franxx",
-		"id": 1045
-	},
-	{
 		"name": "Date A Live S2",
 		"link": "/shows/date-a-live-s2",
 		"id": 91
-	},
-	{
-		"name": "DAYS",
-		"link": "/shows/days",
-		"id": 705
-	},
-	{
-		"name": "DD Hokuto no Ken",
-		"link": "/shows/dd-hokuto-no-ken",
-		"id": 645
 	},
 	{
 		"name": "DD Hokuto no Ken 2 - Ichigo Aji+",
@@ -985,19 +470,9 @@
 		"id": 93
 	},
 	{
-		"name": "Death March kara Hajimaru Isekai Kyousoukyoku",
-		"link": "/shows/death-march-kara-hajimaru-isekai-kyousoukyoku",
-		"id": 1035
-	},
-	{
 		"name": "Death Parade",
 		"link": "/shows/death-parade",
 		"id": 94
-	},
-	{
-		"name": "Demi-chan wa Kataritai",
-		"link": "/shows/demi-chan-wa-kataritai",
-		"id": 830
 	},
 	{
 		"name": "Denki-gai no Honya-san",
@@ -1020,16 +495,6 @@
 		"id": 98
 	},
 	{
-		"name": "Devilman Crybaby",
-		"link": "/shows/devilman-crybaby",
-		"id": 1011
-	},
-	{
-		"name": "Devils Line",
-		"link": "/shows/devils-line",
-		"id": 1080
-	},
-	{
 		"name": "Diabolik Lovers",
 		"link": "/shows/diabolik-lovers",
 		"id": 99
@@ -1038,41 +503,6 @@
 		"name": "Diabolik Lovers More, Blood",
 		"link": "/shows/diabolik-lovers-more-blood",
 		"id": 100
-	},
-	{
-		"name": "Dies Irae",
-		"link": "/shows/dies-irae",
-		"id": 974
-	},
-	{
-		"name": "Digimon Adventure tri",
-		"link": "/shows/digimon-adventure-tri",
-		"id": 588
-	},
-	{
-		"name": "Digimon Xros Wars",
-		"link": "/shows/digimon-xros-wars",
-		"id": 590
-	},
-	{
-		"name": "Digimon Xros Wars S2",
-		"link": "/shows/digimon-xros-wars",
-		"id": 590
-	},
-	{
-		"name": "Dimension W",
-		"link": "/shows/dimension-w",
-		"id": 631
-	},
-	{
-		"name": "Dive!!",
-		"link": "/shows/dive",
-		"id": 921
-	},
-	{
-		"name": "Divine Gate",
-		"link": "/shows/divine-gate",
-		"id": 618
 	},
 	{
 		"name": "Dog Days S2",
@@ -1090,16 +520,6 @@
 		"id": 104
 	},
 	{
-		"name": "Dorei-ku The Animation",
-		"link": "/shows/dorei-ku-the-animation",
-		"id": 1097
-	},
-	{
-		"name": "Dragon Ball Super",
-		"link": "/shows/dragon-ball-super",
-		"id": 809
-	},
-	{
 		"name": "Dragon Collection",
 		"link": "/shows/dragon-collection",
 		"id": 105
@@ -1108,26 +528,6 @@
 		"name": "DRAMAtical Murder",
 		"link": "/shows/dramatical-murder",
 		"id": 106
-	},
-	{
-		"name": "Dream Festival!",
-		"link": "/shows/dream-festival",
-		"id": 751
-	},
-	{
-		"name": "Dream Festival! R",
-		"link": "/shows/dream-festival-r",
-		"id": 952
-	},
-	{
-		"name": "Drifters",
-		"link": "/shows/drifters",
-		"id": 794
-	},
-	{
-		"name": "Durarara!!",
-		"link": "/shows/durarara",
-		"id": 603
 	},
 	{
 		"name": "Durarara!! X2",
@@ -1140,29 +540,9 @@
 		"id": 108
 	},
 	{
-		"name": "Dynamic Chord",
-		"link": "/shows/dynamic-chord",
-		"id": 983
-	},
-	{
 		"name": "Ebiten",
 		"link": "/shows/ebiten",
 		"id": 109
-	},
-	{
-		"name": "elDLIVE",
-		"link": "/shows/eldlive",
-		"id": 834
-	},
-	{
-		"name": "Emiya-san Chi no Kyou no Gohan",
-		"link": "/shows/emiya-san-chi-no-kyou-no-gohan",
-		"id": 1051
-	},
-	{
-		"name": "Endride",
-		"link": "/shows/endride",
-		"id": 657
 	},
 	{
 		"name": "Engaged to the Unidentified",
@@ -1170,24 +550,9 @@
 		"id": 110
 	},
 	{
-		"name": "Enmusubi no Youko-chan",
-		"link": "/shows/enmusubi-no-youko-chan",
-		"id": 907
-	},
-	{
-		"name": "Eromanga-sensei",
-		"link": "/shows/eromanga-sensei",
-		"id": 882
-	},
-	{
 		"name": "Etotama",
 		"link": "/shows/etotama",
 		"id": 111
-	},
-	{
-		"name": "Evil or Live",
-		"link": "/shows/evil-or-live",
-		"id": 999
 	},
 	{
 		"name": "Eyeshield 21",
@@ -1210,11 +575,6 @@
 		"id": 115
 	},
 	{
-		"name": "Fate Grand Order - First Order",
-		"link": "/shows/fate-grand-order-first-order",
-		"id": 816
-	},
-	{
 		"name": "Fate Kaleid Liner PRISMA ILLYA",
 		"link": "/shows/fate-kaleid-liner-prisma-illya",
 		"id": 116
@@ -1228,11 +588,6 @@
 		"name": "Fate Kaleid Liner PRISMA ILLYA 2wei!",
 		"link": "/shows/fate-kaleid-liner-prisma-illya-2wei",
 		"id": 118
-	},
-	{
-		"name": "Fate Kaleid Liner PRISMA ILLYA 3rei!!",
-		"link": "/shows/fate-kaleid-liner-prisma-illya-3rei",
-		"id": 724
 	},
 	{
 		"name": "Fate Stay Night - Unlimited Blade Works",
@@ -1250,37 +605,17 @@
 		"id": 120
 	},
 	{
-		"name": "Flip Flappers",
-		"link": "/shows/flip-flappers",
-		"id": 790
-	},
-	{
-		"name": "Flying Witch",
-		"link": "/shows/flying-witch",
-		"id": 679
-	},
-	{
 		"name": "Folktales from Japan",
 		"link": "/shows/folktales-from-japan",
 		"id": 122
 	},
 	{
-		"name": "Folktales from Japan S2",
-		"link": "/shows/folktales-from-japan-s2",
-		"id": 857
-	},
-	{
-		"name": "Frame Arms Girl",
-		"link": "/shows/frame-arms-girl",
-		"id": 864
-	},
-	{
-		"name": "Free!",
+		"name": "Free! (Dub)",
 		"link": "/shows/free",
 		"id": 123
 	},
 	{
-		"name": "Free! (Dub)",
+		"name": "Free!",
 		"link": "/shows/free",
 		"id": 123
 	},
@@ -1295,31 +630,6 @@
 		"id": 125
 	},
 	{
-		"name": "Fudanshi Koukou Seikatsu",
-		"link": "/shows/fudanshi-koukou-seikatsu",
-		"id": 717
-	},
-	{
-		"name": "Fukigen na Mononokean",
-		"link": "/shows/fukigen-na-mononokean",
-		"id": 708
-	},
-	{
-		"name": "Fukumenkei Noise",
-		"link": "/shows/fukumenkei-noise",
-		"id": 888
-	},
-	{
-		"name": "Full Metal Panic! Invisible Victory",
-		"link": "/shows/full-metal-panic-invisible-victory",
-		"id": 1100
-	},
-	{
-		"name": "Fumikiri Jikan",
-		"link": "/shows/fumikiri-jikan",
-		"id": 1091
-	},
-	{
 		"name": "Fuse Memoirs of the Hunter Girl",
 		"link": "/shows/fuse-memoirs-of-the-hunter-girl",
 		"id": 126
@@ -1330,34 +640,14 @@
 		"id": 127
 	},
 	{
-		"name": "Fuuka",
-		"link": "/shows/fuuka",
-		"id": 823
-	},
-	{
 		"name": "Fuuun Ishin Dai Shogun",
 		"link": "/shows/fuuun-ishin-dai-shogun",
 		"id": 128
 	},
 	{
-		"name": "Gabriel DropOut",
-		"link": "/shows/gabriel-dropout",
-		"id": 835
-	},
-	{
 		"name": "Gakkou Gurashi!",
 		"link": "/shows/gakkou-gurashi",
 		"id": 129
-	},
-	{
-		"name": "Gakuen Babysitters",
-		"link": "/shows/gakuen-babysitters",
-		"id": 1022
-	},
-	{
-		"name": "Gakuen Handsome",
-		"link": "/shows/gakuen-handsome",
-		"id": 770
 	},
 	{
 		"name": "Gakusen Toshi Asterisk",
@@ -1375,11 +665,6 @@
 		"id": 132
 	},
 	{
-		"name": "Gamers!",
-		"link": "/shows/gamers",
-		"id": 945
-	},
-	{
 		"name": "Gangsta",
 		"link": "/shows/gangsta",
 		"id": 133
@@ -1393,11 +678,6 @@
 		"name": "Garo - The Crimson Moon",
 		"link": "/shows/garo-the-crimson-moon",
 		"id": 135
-	},
-	{
-		"name": "Garo - Vanishing Line",
-		"link": "/shows/garo-vanishing-line",
-		"id": 981
 	},
 	{
 		"name": "Gatchaman Crowds",
@@ -1418,16 +698,6 @@
 		"name": "gdgd Fairies 2",
 		"link": "/shows/gdgd-fairies-2",
 		"id": 139
-	},
-	{
-		"name": "gdgd men's party",
-		"link": "/shows/gdgd-mens-party",
-		"id": 1049
-	},
-	{
-		"name": "Gegege no Kitarou (2018)",
-		"link": "/shows/gegege-no-kitarou-2018",
-		"id": 1058
 	},
 	{
 		"name": "Gekkan Shoujo Nozaki-kun",
@@ -1455,16 +725,6 @@
 		"id": 144
 	},
 	{
-		"name": "Gin no Guardian",
-		"link": "/shows/gin-no-guardian",
-		"id": 856
-	},
-	{
-		"name": "Gin no Guardian S2",
-		"link": "/shows/gin-no-guardian-s2",
-		"id": 1044
-	},
-	{
 		"name": "Gin no Saji",
 		"link": "/shows/gin-no-saji",
 		"id": 145
@@ -1480,11 +740,6 @@
 		"id": 147
 	},
 	{
-		"name": "Gintama",
-		"link": "/shows/gintama",
-		"id": 148
-	},
-	{
 		"name": "Gintama Jump Special Anime Festa 2015",
 		"link": "/shows/gintama",
 		"id": 148
@@ -1495,14 +750,14 @@
 		"id": 148
 	},
 	{
+		"name": "Gintama",
+		"link": "/shows/gintama",
+		"id": 148
+	},
+	{
 		"name": "Girl Friend Beta",
 		"link": "/shows/girl-friend-beta",
 		"id": 150
-	},
-	{
-		"name": "Girlish Number",
-		"link": "/shows/girlish-number",
-		"id": 806
 	},
 	{
 		"name": "GIRLS und PANZER",
@@ -1513,11 +768,6 @@
 		"name": "GJ-bu",
 		"link": "/shows/gj-bu",
 		"id": 152
-	},
-	{
-		"name": "Glass no Hana to Kowasu Sekai",
-		"link": "/shows/glass-no-hana-to-kowasu-sekai",
-		"id": 641
 	},
 	{
 		"name": "Glasslip",
@@ -1540,29 +790,9 @@
 		"id": 156
 	},
 	{
-		"name": "Godzilla - Kaijuu Wakusei",
-		"link": "/shows/godzilla-kaijuu-wakusei",
-		"id": 1050
-	},
-	{
-		"name": "Golden Kamuy",
-		"link": "/shows/golden-kamuy",
-		"id": 1090
-	},
-	{
 		"name": "Golden Time",
 		"link": "/shows/golden-time",
 		"id": 157
-	},
-	{
-		"name": "Granblue Fantasy The Animation",
-		"link": "/shows/granblue-fantasy-the-animation",
-		"id": 850
-	},
-	{
-		"name": "Grancrest Senki",
-		"link": "/shows/grancrest-senki",
-		"id": 1013
 	},
 	{
 		"name": "Grisaia no Kajitsu",
@@ -1585,34 +815,14 @@
 		"id": 161
 	},
 	{
-		"name": "Gundam Build Divers",
-		"link": "/shows/gundam-build-divers",
-		"id": 1063
-	},
-	{
 		"name": "Gundam Build Fighters",
 		"link": "/shows/gundam-build-fighters",
 		"id": 162
 	},
 	{
-		"name": "Gundam Build Fighters Battlogue",
-		"link": "/shows/gundam-build-fighters-battlogue",
-		"id": 949
-	},
-	{
-		"name": "Gundam Build Fighters GM's Counterattack",
-		"link": "/shows/gundam-build-fighters-gms-counterattack",
-		"id": 953
-	},
-	{
 		"name": "Gundam Build Fighters Try",
 		"link": "/shows/gundam-build-fighters-try",
 		"id": 163
-	},
-	{
-		"name": "Gundam Build Fighters Try Island Wars",
-		"link": "/shows/gundam-build-fighters-try-island-wars",
-		"id": 746
 	},
 	{
 		"name": "Gundam Reconguista in G",
@@ -1630,29 +840,9 @@
 		"id": 166
 	},
 	{
-		"name": "Gurazeni",
-		"link": "/shows/gurazeni",
-		"id": 1074
-	},
-	{
 		"name": "Hackadoll the Animation",
 		"link": "/shows/hackadoll-the-animation",
 		"id": 167
-	},
-	{
-		"name": "Hagane Orchestra",
-		"link": "/shows/hagane-orchestra",
-		"id": 812
-	},
-	{
-		"name": "Hai to Gensou no Grimgar",
-		"link": "/shows/hai-to-gensou-no-grimgar",
-		"id": 630
-	},
-	{
-		"name": "Haifuri",
-		"link": "/shows/haifuri",
-		"id": 681
 	},
 	{
 		"name": "Haikyuu!!",
@@ -1663,11 +853,6 @@
 		"name": "Haikyuu!! S2",
 		"link": "/shows/haikyuu-s2",
 		"id": 169
-	},
-	{
-		"name": "Haikyuu!! S3",
-		"link": "/shows/haikyuu-s3",
-		"id": 796
 	},
 	{
 		"name": "Haiyore! Nyaruko-san",
@@ -1685,16 +870,6 @@
 		"id": 172
 	},
 	{
-		"name": "Hajimete no Gal",
-		"link": "/shows/hajimete-no-gal",
-		"id": 939
-	},
-	{
-		"name": "Hakata Tonkotsu Ramens",
-		"link": "/shows/hakata-tonkotsu-ramens",
-		"id": 1040
-	},
-	{
 		"name": "Hakkenden - Eight Dogs of the East",
 		"link": "/shows/hakkenden-eight-dogs-of-the-east",
 		"id": 173
@@ -1705,19 +880,9 @@
 		"id": 174
 	},
 	{
-		"name": "Hakumei to Mikochi",
-		"link": "/shows/hakumei-to-mikochi",
-		"id": 1039
-	},
-	{
 		"name": "Hakuoki Reimeiroku",
 		"link": "/shows/hakuoki-reimeiroku",
 		"id": 175
-	},
-	{
-		"name": "Hakyuu Houshin Engi",
-		"link": "/shows/hakyuu-houshin-engi",
-		"id": 1042
 	},
 	{
 		"name": "Hamatora",
@@ -1738,31 +903,6 @@
 		"name": "Hanayamata",
 		"link": "/shows/hanayamata",
 		"id": 179
-	},
-	{
-		"name": "Hand Shakers",
-		"link": "/shows/hand-shakers",
-		"id": 839
-	},
-	{
-		"name": "Handa-kun",
-		"link": "/shows/handa-kun",
-		"id": 734
-	},
-	{
-		"name": "Haruchika",
-		"link": "/shows/haruchika",
-		"id": 607
-	},
-	{
-		"name": "Hataraku Onii-san!",
-		"link": "/shows/hataraku-onii-san",
-		"id": 1015
-	},
-	{
-		"name": "Hatsukoi Monster",
-		"link": "/shows/hatsukoi-monster",
-		"id": 703
 	},
 	{
 		"name": "Hayate no Gotoku! Can't Take My Eyes Off You",
@@ -1800,11 +940,6 @@
 		"id": 186
 	},
 	{
-		"name": "Heybot!",
-		"link": "/shows/heybot",
-		"id": 750
-	},
-	{
 		"name": "Hi-sCoool! SeHa Girl",
 		"link": "/shows/hi-scoool-seha-girl",
 		"id": 187
@@ -1815,34 +950,9 @@
 		"id": 188
 	},
 	{
-		"name": "Hibike! Euphonium S2",
-		"link": "/shows/hibike-euphonium-s2",
-		"id": 786
-	},
-	{
-		"name": "Hidan no Aria",
-		"link": "/shows/hidan-no-aria",
-		"id": 646
-	},
-	{
-		"name": "Hidan no Aria AA",
-		"link": "/shows/hidan-no-aria-aa",
-		"id": 585
-	},
-	{
-		"name": "High School DxD Hero",
-		"link": "/shows/high-school-dxd-hero",
-		"id": 1096
-	},
-	{
 		"name": "High School Star Musical",
 		"link": "/shows/high-school-star-musical",
 		"id": 189
-	},
-	{
-		"name": "High School Star Musical S2",
-		"link": "/shows/high-school-star-musical-s2",
-		"id": 863
 	},
 	{
 		"name": "Highschool DxD BorN",
@@ -1870,41 +980,6 @@
 		"id": 194
 	},
 	{
-		"name": "Himouto! Umaru-chan R",
-		"link": "/shows/himouto-umaru-chan-r",
-		"id": 995
-	},
-	{
-		"name": "Hina Logi - From Luck & Logic",
-		"link": "/shows/hina-logi-from-luck-logic",
-		"id": 904
-	},
-	{
-		"name": "Hinako Note",
-		"link": "/shows/hinako-note",
-		"id": 877
-	},
-	{
-		"name": "Hinamatsuri",
-		"link": "/shows/hinamatsuri",
-		"id": 1078
-	},
-	{
-		"name": "Hitori no Shita - The Outcast",
-		"link": "/shows/hitori-no-shita-the-outcast",
-		"id": 736
-	},
-	{
-		"name": "Hitori no Shita - The Outcast S2",
-		"link": "/shows/hitori-no-shita-the-outcast-s2",
-		"id": 1032
-	},
-	{
-		"name": "Hitorijime My Hero",
-		"link": "/shows/hitorijime-my-hero",
-		"id": 929
-	},
-	{
 		"name": "Hitsugi no Chaika",
 		"link": "/shows/hitsugi-no-chaika",
 		"id": 195
@@ -1920,24 +995,9 @@
 		"id": 197
 	},
 	{
-		"name": "Houseki no Kuni",
-		"link": "/shows/houseki-no-kuni",
-		"id": 989
-	},
-	{
 		"name": "Hozuki no Reitetsu",
 		"link": "/shows/hozuki-no-reitetsu",
 		"id": 198
-	},
-	{
-		"name": "Hozuki no Reitetsu S2",
-		"link": "/shows/hozuki-no-reitetsu-s2",
-		"id": 991
-	},
-	{
-		"name": "Hundred",
-		"link": "/shows/hundred",
-		"id": 664
 	},
 	{
 		"name": "Hunter x Hunter",
@@ -1955,26 +1015,6 @@
 		"id": 202
 	},
 	{
-		"name": "ID-0",
-		"link": "/shows/id-0",
-		"id": 978
-	},
-	{
-		"name": "Idol Jihen",
-		"link": "/shows/idol-jihen",
-		"id": 832
-	},
-	{
-		"name": "IDOLiSH7",
-		"link": "/shows/idolish7",
-		"id": 1004
-	},
-	{
-		"name": "Ikemen Sengoku",
-		"link": "/shows/ikemen-sengoku",
-		"id": 940
-	},
-	{
 		"name": "ImoCho - Another Shitty Sister LN Adaptation",
 		"link": "/shows/imocho-another-shitty-sister-manga-adaptation",
 		"id": 204
@@ -1983,11 +1023,6 @@
 		"name": "ImoCho - Another Shitty Sister Manga Adaptation",
 		"link": "/shows/imocho-another-shitty-sister-manga-adaptation",
 		"id": 204
-	},
-	{
-		"name": "Imouto sae Ireba Ii.",
-		"link": "/shows/imouto-sae-ireba-ii",
-		"id": 994
 	},
 	{
 		"name": "Inari, Konkon, Koi Iroha",
@@ -2020,26 +1055,6 @@
 		"id": 210
 	},
 	{
-		"name": "Inuyashiki",
-		"link": "/shows/inuyashiki",
-		"id": 1002
-	},
-	{
-		"name": "Isekai Izakaya - Koto Aitheria no Izakaya Nobu",
-		"link": "/shows/isekai-izakaya-koto-aitheria-no-izakaya-nobu",
-		"id": 1099
-	},
-	{
-		"name": "Isekai Shokudou",
-		"link": "/shows/isekai-shokudou",
-		"id": 913
-	},
-	{
-		"name": "Isekai wa Smartphone to Tomo ni.",
-		"link": "/shows/isekai-wa-smartphone-to-tomo-ni",
-		"id": 935
-	},
-	{
 		"name": "Ishida to Asakura",
 		"link": "/shows/ishida-to-asakura",
 		"id": 211
@@ -2050,34 +1065,14 @@
 		"id": 212
 	},
 	{
-		"name": "Ito Junji Collection",
-		"link": "/shows/ito-junji-collection",
-		"id": 1014
-	},
-	{
 		"name": "Itoshi no Muco",
 		"link": "/shows/itoshi-no-muco",
 		"id": 213
 	},
 	{
-		"name": "Itsudatte Bokura no Koi wa 10 cm Datta.",
-		"link": "/shows/itsudatte-bokura-no-koi-wa-10-cm-datta",
-		"id": 1007
-	},
-	{
 		"name": "Ixion Saga DT",
 		"link": "/shows/ixion-saga-dt",
 		"id": 214
-	},
-	{
-		"name": "Jigoku Shoujo - Yoi no Togi",
-		"link": "/shows/jigoku-shoujo-yoi-no-togi",
-		"id": 946
-	},
-	{
-		"name": "Jikan no Shihaisha",
-		"link": "/shows/jikan-no-shihaisha",
-		"id": 932
 	},
 	{
 		"name": "Jinrui wa Suitai Shimashita",
@@ -2095,19 +1090,9 @@
 		"id": 217
 	},
 	{
-		"name": "JoJo's Bizarre Adventure - Diamond is Unbreakable",
-		"link": "/shows/jojos-bizarre-adventure-diamond-is-unbreakable",
-		"id": 650
-	},
-	{
 		"name": "JoJo's Bizarre Adventure - Stardust Crusaders",
 		"link": "/shows/jojos-bizarre-adventure-stardust-crusaders",
 		"id": 218
-	},
-	{
-		"name": "Joker Game",
-		"link": "/shows/joker-game",
-		"id": 668
 	},
 	{
 		"name": "Jormungand",
@@ -2125,16 +1110,6 @@
 		"id": 222
 	},
 	{
-		"name": "Just Because!",
-		"link": "/shows/just-because",
-		"id": 968
-	},
-	{
-		"name": "Juuni Taisen",
-		"link": "/shows/juuni-taisen",
-		"id": 961
-	},
-	{
 		"name": "K",
 		"link": "/shows/k",
 		"id": 223
@@ -2148,16 +1123,6 @@
 		"name": "Kaasan Mom's Life",
 		"link": "/shows/kaasan-moms-life",
 		"id": 225
-	},
-	{
-		"name": "Kabaneri of the Iron Fortress",
-		"link": "/shows/kabaneri-of-the-iron-fortress",
-		"id": 676
-	},
-	{
-		"name": "Kabukibu!",
-		"link": "/shows/kabukibu",
-		"id": 880
 	},
 	{
 		"name": "Kagewani",
@@ -2180,24 +1145,9 @@
 		"id": 228
 	},
 	{
-		"name": "Kaijuu Girls",
-		"link": "/shows/kaijuu-girls",
-		"id": 753
-	},
-	{
-		"name": "Kaijuu Girls S2",
-		"link": "/shows/kaijuu-girls-s2",
-		"id": 1031
-	},
-	{
 		"name": "Kaitou Joker",
 		"link": "/shows/kaitou-joker",
 		"id": 229
-	},
-	{
-		"name": "Kakuriyo no Yadomeshi",
-		"link": "/shows/kakuriyo-no-yadomeshi",
-		"id": 1060
 	},
 	{
 		"name": "Kamigami no Asobi",
@@ -2240,29 +1190,9 @@
 		"id": 237
 	},
 	{
-		"name": "Karakai Jouzu no Takagi-san",
-		"link": "/shows/karakai-jouzu-no-takagi-san",
-		"id": 1025
-	},
-	{
 		"name": "Karen Senki",
 		"link": "/shows/karen-senki",
 		"id": 238
-	},
-	{
-		"name": "Kateikyoushi Hitman Reborn!",
-		"link": "/shows/kateikyoushi-hitman-reborn",
-		"id": 587
-	},
-	{
-		"name": "Katsugeki Touken Ranbu",
-		"link": "/shows/katsugeki-touken-ranbu",
-		"id": 908
-	},
-	{
-		"name": "Keijo!!!!!!!!",
-		"link": "/shows/keijo",
-		"id": 791
 	},
 	{
 		"name": "Kekkai Sensen",
@@ -2270,39 +1200,9 @@
 		"id": 239
 	},
 	{
-		"name": "Kekkai Sensen & Beyond",
-		"link": "/shows/kekkai-sensen-beyond",
-		"id": 990
-	},
-	{
-		"name": "Kemono Friends",
-		"link": "/shows/kemono-friends",
-		"id": 840
-	},
-	{
-		"name": "Kenka Banchou Otome - Girl Beats Boys",
-		"link": "/shows/kenka-banchou-otome-girl-beats-boys",
-		"id": 891
-	},
-	{
-		"name": "Keppeki Danshi! Aoyama-kun",
-		"link": "/shows/keppeki-danshi-aoyama-kun",
-		"id": 910
-	},
-	{
-		"name": "Kiitarou Shounen no Youkai Enikki",
-		"link": "/shows/kiitarou-shounen-no-youkai-enikki",
-		"id": 783
-	},
-	{
 		"name": "Kill la Kill",
 		"link": "/shows/kill-la-kill",
 		"id": 240
-	},
-	{
-		"name": "Killing Bites",
-		"link": "/shows/killing-bites",
-		"id": 1041
 	},
 	{
 		"name": "Kimi to Boku",
@@ -2330,49 +1230,9 @@
 		"id": 245
 	},
 	{
-		"name": "Kino no Tabi (2017)",
-		"link": "/shows/kino-no-tabi-2017",
-		"id": 973
-	},
-	{
 		"name": "Kitakubu Katsudou Kiroku",
 		"link": "/shows/kitakubu-katsudou-kiroku",
 		"id": 246
-	},
-	{
-		"name": "Kiznaiver",
-		"link": "/shows/kiznaiver",
-		"id": 655
-	},
-	{
-		"name": "Knight's & Magic",
-		"link": "/shows/knights-magic",
-		"id": 909
-	},
-	{
-		"name": "Kobayashi-san Chi no Maid Dragon",
-		"link": "/shows/kobayashi-san-chi-no-maid-dragon",
-		"id": 841
-	},
-	{
-		"name": "Koe no Katachi",
-		"link": "/shows/koe-no-katachi",
-		"id": 900
-	},
-	{
-		"name": "Koi to Uso",
-		"link": "/shows/koi-to-uso",
-		"id": 915
-	},
-	{
-		"name": "Koi wa Ameagari no You ni",
-		"link": "/shows/koi-wa-ameagari-no-you-ni",
-		"id": 1036
-	},
-	{
-		"name": "Kokkoku",
-		"link": "/shows/kokkoku",
-		"id": 1023
 	},
 	{
 		"name": "Kokoro Connect",
@@ -2385,44 +1245,9 @@
 		"id": 248
 	},
 	{
-		"name": "Konbini Kareshi",
-		"link": "/shows/konbini-kareshi",
-		"id": 922
-	},
-	{
-		"name": "Kono Bijutsubu ni wa Mondai ga Aru!",
-		"link": "/shows/kono-bijutsubu-ni-wa-mondai-ga-aru",
-		"id": 727
-	},
-	{
-		"name": "Kono Danshi, Mahou ga Oshigoto Desu",
-		"link": "/shows/kono-danshi-mahou-ga-oshigoto-desu",
-		"id": 643
-	},
-	{
 		"name": "Kono Naka ni Hitori, Imouto ga Iru!",
 		"link": "/shows/kono-naka-ni-hitori-imouto-ga-iru",
 		"id": 249
-	},
-	{
-		"name": "Kono Subarashii Sekai ni Shukufuku wo!",
-		"link": "/shows/kono-subarashii-sekai-ni-shukufuku-wo",
-		"id": 640
-	},
-	{
-		"name": "Kono Subarashii Sekai ni Shukufuku wo! 2",
-		"link": "/shows/kono-subarashii-sekai-ni-shukufuku-wo-2",
-		"id": 842
-	},
-	{
-		"name": "Konohana Kitan",
-		"link": "/shows/konohana-kitan",
-		"id": 965
-	},
-	{
-		"name": "Koro-sensei Quest!",
-		"link": "/shows/koro-sensei-quest",
-		"id": 815
 	},
 	{
 		"name": "Kotoura-san",
@@ -2435,17 +1260,7 @@
 		"id": 251
 	},
 	{
-		"name": "Koukaku no Pandora",
-		"link": "/shows/koukaku-no-pandora",
-		"id": 622
-	},
-	{
-		"name": "Kuma Miko",
-		"link": "/shows/kuma-miko",
-		"id": 662
-	},
-	{
-		"name": "Kuroko's Basketball",
+		"name": "Kuroko's Basketball 3",
 		"link": "/shows/kurokos-basketball",
 		"id": 252
 	},
@@ -2455,19 +1270,9 @@
 		"id": 252
 	},
 	{
-		"name": "Kuroko's Basketball 3",
+		"name": "Kuroko's Basketball",
 		"link": "/shows/kurokos-basketball",
 		"id": 252
-	},
-	{
-		"name": "Kuroko's Basketball Winter Cup Highlights",
-		"link": "/shows/kurokos-basketball-winter-cup-highlights",
-		"id": 810
-	},
-	{
-		"name": "Kuromukuro",
-		"link": "/shows/kuromukuro",
-		"id": 686
 	},
 	{
 		"name": "Kuroshitsuji - Book of Circus",
@@ -2478,11 +1283,6 @@
 		"name": "Kuusen Madoushi Kouhosei no Kyoukan",
 		"link": "/shows/kuusen-madoushi-kouhosei-no-kyoukan",
 		"id": 256
-	},
-	{
-		"name": "Kuzu no Honkai",
-		"link": "/shows/kuzu-no-honkai",
-		"id": 848
 	},
 	{
 		"name": "Kyoukai no Kanata",
@@ -2520,16 +1320,6 @@
 		"id": 263
 	},
 	{
-		"name": "Last Period - Owarinaki Rasen no Monogatari",
-		"link": "/shows/last-period-owarinaki-rasen-no-monogatari",
-		"id": 1093
-	},
-	{
-		"name": "Legend of the Galactic Heroes - Die Neue These",
-		"link": "/shows/legend-of-the-galactic-heroes-die-neue-these",
-		"id": 1064
-	},
-	{
 		"name": "Little Busters!",
 		"link": "/shows/little-busters",
 		"id": 264
@@ -2538,11 +1328,6 @@
 		"name": "Little Busters! Refrain",
 		"link": "/shows/little-busters-refrain",
 		"id": 265
-	},
-	{
-		"name": "Little Witch Academia",
-		"link": "/shows/little-witch-academia",
-		"id": 951
 	},
 	{
 		"name": "Little Witch Academia The Enchanted Parade",
@@ -2565,39 +1350,9 @@
 		"id": 269
 	},
 	{
-		"name": "Long Riders!",
-		"link": "/shows/long-riders",
-		"id": 799
-	},
-	{
-		"name": "Lostorage Conflated WIXOSS",
-		"link": "/shows/lostorage-conflated-wixoss",
-		"id": 1076
-	},
-	{
-		"name": "Lostorage incited WIXOSS",
-		"link": "/shows/lostorage-incited-wixoss",
-		"id": 795
-	},
-	{
-		"name": "Love Kome - We Love Rice",
-		"link": "/shows/love-kome-we-love-rice",
-		"id": 879
-	},
-	{
-		"name": "Love Kome S2",
-		"link": "/shows/love-kome-s2",
-		"id": 996
-	},
-	{
 		"name": "Love Lab",
 		"link": "/shows/love-lab",
 		"id": 270
-	},
-	{
-		"name": "Love Live! School Idol Project",
-		"link": "/shows/love-live-school-idol-project",
-		"id": 272
 	},
 	{
 		"name": "Love Live! School Idol Project S2",
@@ -2605,54 +1360,14 @@
 		"id": 271
 	},
 	{
-		"name": "Love Live! Sunshine!!",
-		"link": "/shows/love-live-sunshine",
-		"id": 700
-	},
-	{
-		"name": "Love Live! Sunshine!! S2",
-		"link": "/shows/love-live-sunshine-s2",
-		"id": 984
-	},
-	{
-		"name": "Love Live! The School Idol Movie",
-		"link": "/shows/love-live-the-school-idol-movie",
-		"id": 597
+		"name": "Love Live! School Idol Project",
+		"link": "/shows/love-live-school-idol-project",
+		"id": 272
 	},
 	{
 		"name": "Love Stage!!",
 		"link": "/shows/love-stage",
 		"id": 273
-	},
-	{
-		"name": "Luck & Logic",
-		"link": "/shows/luck-logic",
-		"id": 627
-	},
-	{
-		"name": "Lupin III (2015)",
-		"link": "/shows/lupin-iii-2015",
-		"id": 610
-	},
-	{
-		"name": "Lupin III Part I",
-		"link": "/shows/lupin-iii-part-i",
-		"id": 613
-	},
-	{
-		"name": "Lupin III Part II",
-		"link": "/shows/lupin-iii-part-ii",
-		"id": 614
-	},
-	{
-		"name": "Lupin III Part III",
-		"link": "/shows/lupin-iii-part-iii",
-		"id": 615
-	},
-	{
-		"name": "Lupin III Part V",
-		"link": "/shows/lupin-iii-part-v",
-		"id": 1066
 	},
 	{
 		"name": "Lychee Light Club",
@@ -2665,19 +1380,9 @@
 		"id": 275
 	},
 	{
-		"name": "Macross Delta",
-		"link": "/shows/macross-delta",
-		"id": 663
-	},
-	{
 		"name": "Madan no Ou to Vanadis",
 		"link": "/shows/madan-no-ou-to-vanadis",
 		"id": 276
-	},
-	{
-		"name": "Made in Abyss",
-		"link": "/shows/made-in-abyss",
-		"id": 924
 	},
 	{
 		"name": "Magi",
@@ -2695,11 +1400,6 @@
 		"id": 279
 	},
 	{
-		"name": "Magic-Kyun! Renaissance",
-		"link": "/shows/magic-kyun-renaissance",
-		"id": 766
-	},
-	{
 		"name": "Magical Girl Lyrical Nanoha The MOVIE 2nd",
 		"link": "/shows/magical-girl-lyrical-nanoha-the-movie-2nd",
 		"id": 280
@@ -2710,54 +1410,14 @@
 		"id": 281
 	},
 	{
-		"name": "Mahou Shoujo Ikusei Keikaku",
-		"link": "/shows/mahou-shoujo-ikusei-keikaku",
-		"id": 759
-	},
-	{
-		"name": "Mahou Shoujo Nante Mou Ii Desukara",
-		"link": "/shows/mahou-shoujo-nante-mou-ii-desukara",
-		"id": 635
-	},
-	{
-		"name": "Mahou Shoujo Nante Mou Ii Desukara S2",
-		"link": "/shows/mahou-shoujo-nante-mou-ii-desukara-s2",
-		"id": 781
-	},
-	{
-		"name": "Mahou Shoujo Naria Girls",
-		"link": "/shows/mahou-shoujo-naria-girls",
-		"id": 742
-	},
-	{
-		"name": "Mahou Shoujo Site",
-		"link": "/shows/mahou-shoujo-site",
-		"id": 1077
-	},
-	{
 		"name": "Mahou Shoujo Taisen",
 		"link": "/shows/mahou-shoujo-taisen",
 		"id": 282
 	},
 	{
-		"name": "Mahoujin Guru Guru (2017)",
-		"link": "/shows/mahoujin-guru-guru-2017",
-		"id": 937
-	},
-	{
 		"name": "Mahouka",
 		"link": "/shows/mahouka",
 		"id": 283
-	},
-	{
-		"name": "Mahoutsukai no Yome",
-		"link": "/shows/mahoutsukai-no-yome",
-		"id": 988
-	},
-	{
-		"name": "Mahoutsukai no Yome OVA",
-		"link": "/shows/mahoutsukai-no-yome-ova",
-		"id": 749
 	},
 	{
 		"name": "Majestic Prince",
@@ -2780,11 +1440,6 @@
 		"id": 287
 	},
 	{
-		"name": "Major 2nd",
-		"link": "/shows/major-2nd",
-		"id": 1079
-	},
-	{
 		"name": "Makai Ouji - Devils and Realist",
 		"link": "/shows/makai-ouji-devils-and-realist",
 		"id": 288
@@ -2793,11 +1448,6 @@
 		"name": "Maken-ki! Two",
 		"link": "/shows/maken-ki-two",
 		"id": 289
-	},
-	{
-		"name": "Makeruna!! Aku no Gundan!",
-		"link": "/shows/makeruna-aku-no-gundan",
-		"id": 887
 	},
 	{
 		"name": "Makura no Danshi",
@@ -2820,34 +1470,9 @@
 		"id": 293
 	},
 	{
-		"name": "Marchen Madchen",
-		"link": "/shows/marchen-madchen",
-		"id": 1037
-	},
-	{
-		"name": "Marginal#4 - Kiss kara Tsukuru Big Bang",
-		"link": "/shows/marginal4-kiss-kara-tsukuru-big-bang",
-		"id": 846
-	},
-	{
 		"name": "Maria the Virgin Witch",
 		"link": "/shows/maria-the-virgin-witch",
 		"id": 294
-	},
-	{
-		"name": "Masamune-kun no Revenge",
-		"link": "/shows/masamune-kun-no-revenge",
-		"id": 819
-	},
-	{
-		"name": "Masou Gakuen HxH",
-		"link": "/shows/masou-gakuen-hxh",
-		"id": 720
-	},
-	{
-		"name": "Mayoiga",
-		"link": "/shows/mayoiga",
-		"id": 653
 	},
 	{
 		"name": "Medaka Box",
@@ -2860,11 +1485,6 @@
 		"id": 296
 	},
 	{
-		"name": "Megalo Box",
-		"link": "/shows/megalo-box",
-		"id": 1071
-	},
-	{
 		"name": "Meganebu!",
 		"link": "/shows/meganebu",
 		"id": 297
@@ -2873,16 +1493,6 @@
 		"name": "Mekakucity Actors",
 		"link": "/shows/mekakucity-actors",
 		"id": 298
-	},
-	{
-		"name": "Micchiri Neko",
-		"link": "/shows/micchiri-neko",
-		"id": 1026
-	},
-	{
-		"name": "Miira no Kaikata",
-		"link": "/shows/miira-no-kaikata",
-		"id": 1038
 	},
 	{
 		"name": "Mikagura Gakuen Kumikyoku",
@@ -2900,11 +1510,6 @@
 		"id": 301
 	},
 	{
-		"name": "Minami Kamakura Koukou Joshi Jitensha-bu",
-		"link": "/shows/minami-kamakura-koukou-joshi-jitensha-bu",
-		"id": 822
-	},
-	{
 		"name": "Miss Monochrome",
 		"link": "/shows/miss-monochrome",
 		"id": 302
@@ -2920,21 +1525,6 @@
 		"id": 304
 	},
 	{
-		"name": "Mitsuboshi Colors",
-		"link": "/shows/mitsuboshi-colors",
-		"id": 1021
-	},
-	{
-		"name": "Mob Psycho 100",
-		"link": "/shows/mob-psycho-100",
-		"id": 741
-	},
-	{
-		"name": "Mob Pyscho 100 OVA",
-		"link": "/shows/mob-psycho-100",
-		"id": 741
-	},
-	{
 		"name": "Mobile Suit Gundam - Iron-Blooded Orphans",
 		"link": "/shows/mobile-suit-gundam-iron-blooded-orphans",
 		"id": 305
@@ -2945,24 +1535,9 @@
 		"id": 306
 	},
 	{
-		"name": "Mobile Suit Gundam Thunderbolt",
-		"link": "/shows/mobile-suit-gundam-thunderbolt",
-		"id": 602
-	},
-	{
-		"name": "Mobile Suit Gundam Unicorn RE 0096",
-		"link": "/shows/mobile-suit-gundam-unicorn-re-0096",
-		"id": 658
-	},
-	{
 		"name": "Momo Kyun Sword",
 		"link": "/shows/momo-kyun-sword",
 		"id": 307
-	},
-	{
-		"name": "Momokuri",
-		"link": "/shows/momokuri",
-		"id": 698
 	},
 	{
 		"name": "Mondaijitachi ga Isekai Kara Kuru Sou Desu yo",
@@ -2975,29 +1550,9 @@
 		"id": 309
 	},
 	{
-		"name": "Monster Hunter Stories Ride On",
-		"link": "/shows/monster-hunter-stories-ride-on",
-		"id": 763
-	},
-	{
 		"name": "Monster Musume no Iru Nichijou",
 		"link": "/shows/monster-musume-no-iru-nichijou",
 		"id": 310
-	},
-	{
-		"name": "Monster Strike 2",
-		"link": "/shows/monster-strike-2",
-		"id": 855
-	},
-	{
-		"name": "Monster Strike 3",
-		"link": "/shows/monster-strike-3",
-		"id": 985
-	},
-	{
-		"name": "Monster Strike The Movie",
-		"link": "/shows/monster-strike-the-movie",
-		"id": 902
 	},
 	{
 		"name": "Moretsu Pirates",
@@ -3013,16 +1568,6 @@
 		"name": "Moyashimon Returns",
 		"link": "/shows/moyashimon-returns",
 		"id": 313
-	},
-	{
-		"name": "Musaigen no Phantom World",
-		"link": "/shows/musaigen-no-phantom-world",
-		"id": 605
-	},
-	{
-		"name": "Musekinin Galaxy Tylor",
-		"link": "/shows/musekinin-galaxy-tylor",
-		"id": 943
 	},
 	{
 		"name": "Mushibugyo",
@@ -3065,16 +1610,6 @@
 		"id": 321
 	},
 	{
-		"name": "Nana Maru San Batsu",
-		"link": "/shows/nana-maru-san-batsu",
-		"id": 918
-	},
-	{
-		"name": "Nanbaka",
-		"link": "/shows/nanbaka",
-		"id": 777
-	},
-	{
 		"name": "Naruto SD - Rock Lee no Seishun Full-Power Ninden",
 		"link": "/shows/naruto-sd-rock-lee-no-seishun-full-power-ninden",
 		"id": 322
@@ -3083,31 +1618,6 @@
 		"name": "Naruto Shippuuden",
 		"link": "/shows/naruto-shippuuden",
 		"id": 323
-	},
-	{
-		"name": "Natsume Yuujinchou - Nyanko-sensei to Hajimete no Otsukai",
-		"link": "/shows/natsume-yuujinchou-nyanko-sensei-to-hajimete-no-otsukai",
-		"id": 811
-	},
-	{
-		"name": "Natsume Yuujinchou Go",
-		"link": "/shows/natsume-yuujinchou-go",
-		"id": 776
-	},
-	{
-		"name": "Natsume Yuujinchou Go Specials",
-		"link": "/shows/natsume-yuujinchou-go",
-		"id": 776
-	},
-	{
-		"name": "Natsume Yuujinchou Roku",
-		"link": "/shows/natsume-yuujinchou-roku",
-		"id": 890
-	},
-	{
-		"name": "Natsume Yuujinchou Roku Specials",
-		"link": "/shows/natsume-yuujinchou-roku",
-		"id": 890
 	},
 	{
 		"name": "Natsume Yuujinchou San",
@@ -3125,54 +1635,14 @@
 		"id": 326
 	},
 	{
-		"name": "Nazotokine",
-		"link": "/shows/nazotokine",
-		"id": 785
-	},
-	{
 		"name": "Nekogami Yaoyorozu",
 		"link": "/shows/nekogami-yaoyorozu",
 		"id": 327
 	},
 	{
-		"name": "Net-juu no Susume",
-		"link": "/shows/net-juu-no-susume",
-		"id": 972
-	},
-	{
-		"name": "Netoge no Yome wa Onnanoko ja Nai to Omotta",
-		"link": "/shows/netoge-no-yome-wa-onnanoko-ja-nai-to-omotta",
-		"id": 674
-	},
-	{
-		"name": "Netsuzou TRap - NTR",
-		"link": "/shows/netsuzou-trap-ntr",
-		"id": 919
-	},
-	{
-		"name": "New Game!",
-		"link": "/shows/new-game",
-		"id": 719
-	},
-	{
-		"name": "New Game!!",
-		"link": "/shows/new-game-2",
-		"id": 936
-	},
-	{
 		"name": "Nichijou",
 		"link": "/shows/nichijou",
 		"id": 328
-	},
-	{
-		"name": "Nijiiro Days",
-		"link": "/shows/nijiiro-days",
-		"id": 632
-	},
-	{
-		"name": "Nil Admirari no Tenbin - Teito Genwaku Kitan",
-		"link": "/shows/nil-admirari-no-tenbin-teito-genwaku-kitan",
-		"id": 1085
 	},
 	{
 		"name": "Ninja Slayer",
@@ -3210,19 +1680,9 @@
 		"id": 335
 	},
 	{
-		"name": "Noblesse - Awakening",
-		"link": "/shows/noblesse-awakening",
-		"id": 642
-	},
-	{
 		"name": "Nobunaga Concerto",
 		"link": "/shows/nobunaga-concerto",
 		"id": 336
-	},
-	{
-		"name": "Nobunaga no Shinobi",
-		"link": "/shows/nobunaga-no-shinobi",
-		"id": 773
 	},
 	{
 		"name": "Nobunaga the Fool",
@@ -3245,11 +1705,6 @@
 		"id": 340
 	},
 	{
-		"name": "Nora to Oujo to Noraneko Heart",
-		"link": "/shows/nora-to-oujo-to-noraneko-heart",
-		"id": 941
-	},
-	{
 		"name": "Noragami",
 		"link": "/shows/noragami",
 		"id": 341
@@ -3260,34 +1715,9 @@
 		"id": 342
 	},
 	{
-		"name": "Norn9 - Norn+Nonet",
-		"link": "/shows/norn9-norn-nonet",
-		"id": 616
-	},
-	{
 		"name": "NouKome",
 		"link": "/shows/noukome",
 		"id": 343
-	},
-	{
-		"name": "Nurse Witch Komugi-chan R",
-		"link": "/shows/nurse-witch-komugi-chan-r",
-		"id": 628
-	},
-	{
-		"name": "Nyanbo!",
-		"link": "/shows/nyanbo",
-		"id": 752
-	},
-	{
-		"name": "Nyanko Days",
-		"link": "/shows/nyanko-days",
-		"id": 833
-	},
-	{
-		"name": "Occultic;Nine",
-		"link": "/shows/occulticnine",
-		"id": 801
 	},
 	{
 		"name": "Oda Nobuna no Yabou",
@@ -3295,9 +1725,9 @@
 		"id": 344
 	},
 	{
-		"name": "Ojisan to Marshmallow",
-		"link": "/shows/ojisan-to-marshmallow",
-		"id": 612
+		"name": "Okusama ga Seitokaichou! (Uncensored)",
+		"link": "/shows/okusama-ga-seitokaichou",
+		"id": 345
 	},
 	{
 		"name": "Okusama ga Seitokaichou!",
@@ -3305,29 +1735,9 @@
 		"id": 345
 	},
 	{
-		"name": "Okusama ga Seitokaichou! (Uncensored)",
-		"link": "/shows/okusama-ga-seitokaichou",
-		"id": 345
-	},
-	{
-		"name": "Okusama ga Seitokaichou! S2 (Uncensored)",
-		"link": "/shows/okusama-ga-seitokaichou-s2-uncensored",
-		"id": 767
-	},
-	{
-		"name": "Omae wa Mada Gunma wo Shiranai",
-		"link": "/shows/omae-wa-mada-gunma-wo-shiranai",
-		"id": 1081
-	},
-	{
 		"name": "One Piece",
 		"link": "/shows/one-piece",
 		"id": 347
-	},
-	{
-		"name": "One Piece - Episode of East Blue",
-		"link": "/shows/one-piece-episode-of-east-blue",
-		"id": 954
 	},
 	{
 		"name": "One Piece - Episode of Sabo",
@@ -3335,19 +1745,9 @@
 		"id": 348
 	},
 	{
-		"name": "One Piece - Heart of Gold",
-		"link": "/shows/one-piece-heart-of-gold",
-		"id": 745
-	},
-	{
 		"name": "One Piece 3D2Y",
 		"link": "/shows/one-piece-3d2y",
 		"id": 349
-	},
-	{
-		"name": "One Room",
-		"link": "/shows/one-room",
-		"id": 843
 	},
 	{
 		"name": "One Week Friends",
@@ -3360,11 +1760,6 @@
 		"id": 351
 	},
 	{
-		"name": "Onigiri",
-		"link": "/shows/onigiri",
-		"id": 687
-	},
-	{
 		"name": "Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne",
 		"link": "/shows/onii-chan-dakedo-ai-sae-areba-kankeinai-yo-ne",
 		"id": 352
@@ -3375,24 +1770,9 @@
 		"id": 353
 	},
 	{
-		"name": "Onyankopon",
-		"link": "/shows/onyankopon",
-		"id": 1000
-	},
-	{
 		"name": "Ookami Shoujo to Kuro Ouji",
 		"link": "/shows/ookami-shoujo-to-kuro-ouji",
 		"id": 354
-	},
-	{
-		"name": "Ooyasan wa Shishunki!",
-		"link": "/shows/ooyasan-wa-shishunki",
-		"id": 629
-	},
-	{
-		"name": "Orange",
-		"link": "/shows/orange",
-		"id": 706
 	},
 	{
 		"name": "Ore Monogatari!!",
@@ -3425,39 +1805,9 @@
 		"id": 360
 	},
 	{
-		"name": "Osake wa Fuufu ni Natte Kara",
-		"link": "/shows/osake-wa-fuufu-ni-natte-kara",
-		"id": 963
-	},
-	{
-		"name": "Oshiete! Galko-chan",
-		"link": "/shows/oshiete-galko-chan",
-		"id": 619
-	},
-	{
 		"name": "Osomatsu-san",
 		"link": "/shows/osomatsu-san",
 		"id": 361
-	},
-	{
-		"name": "Osomatsu-san - Ouma de Kobanashi",
-		"link": "/shows/osomatsu-san-ouma-de-kobanashi",
-		"id": 813
-	},
-	{
-		"name": "Osomatsu-san S2",
-		"link": "/shows/osomatsu-san-s2",
-		"id": 957
-	},
-	{
-		"name": "Ousama Game",
-		"link": "/shows/ousama-game",
-		"id": 967
-	},
-	{
-		"name": "Oushitsu Kyoushi Haine",
-		"link": "/shows/oushitsu-kyoushi-haine",
-		"id": 868
 	},
 	{
 		"name": "Outbreak Company",
@@ -3470,34 +1820,14 @@
 		"id": 363
 	},
 	{
-		"name": "Overlord II",
-		"link": "/shows/overlord-ii",
-		"id": 1030
-	},
-	{
 		"name": "Owarimonogatari",
 		"link": "/shows/owarimonogatari",
 		"id": 364
 	},
 	{
-		"name": "Owarimonogatari S2",
-		"link": "/shows/owarimonogatari-s2",
-		"id": 950
-	},
-	{
 		"name": "Ozma",
 		"link": "/shows/ozma",
 		"id": 365
-	},
-	{
-		"name": "Ozmafia!!",
-		"link": "/shows/ozmafia",
-		"id": 723
-	},
-	{
-		"name": "Pan de Peace!",
-		"link": "/shows/pan-de-peace",
-		"id": 661
 	},
 	{
 		"name": "Papa no Iukoto wo Kikinasai!",
@@ -3520,21 +1850,6 @@
 		"id": 369
 	},
 	{
-		"name": "Persona 5 - THE DAY BREAKERS",
-		"link": "/shows/persona-5-the-day-breakers",
-		"id": 747
-	},
-	{
-		"name": "Persona 5 The Animation",
-		"link": "/shows/persona-5-the-animation",
-		"id": 1084
-	},
-	{
-		"name": "Phantasy Star Online 2 The Animation",
-		"link": "/shows/phantasy-star-online-2-the-animation",
-		"id": 625
-	},
-	{
 		"name": "Phi Brain S2",
 		"link": "/shows/phi-brain-s2",
 		"id": 370
@@ -3550,24 +1865,9 @@
 		"id": 372
 	},
 	{
-		"name": "Piace - Watashi no Italian",
-		"link": "/shows/piace-watashi-no-italian",
-		"id": 844
-	},
-	{
-		"name": "Pikotarou no Lullaby Lullaby (Web)",
-		"link": "/shows/pikotarou-no-lullaby-lullaby-web",
-		"id": 970
-	},
-	{
 		"name": "Ping Pong the Animation",
 		"link": "/shows/ping-pong-the-animation",
 		"id": 373
-	},
-	{
-		"name": "Planetarian",
-		"link": "/shows/planetarian",
-		"id": 728
 	},
 	{
 		"name": "Plastic Memories",
@@ -3580,34 +1880,19 @@
 		"id": 375
 	},
 	{
-		"name": "Pop Team Epic",
-		"link": "/shows/pop-team-epic",
-		"id": 1019
-	},
-	{
 		"name": "Poyopoyo",
 		"link": "/shows/poyopoyo",
 		"id": 376
 	},
 	{
-		"name": "Prince of Stride - Alternative",
-		"link": "/shows/prince-of-stride-alternative",
-		"id": 606
-	},
-	{
-		"name": "Princess Principal",
-		"link": "/shows/princess-principal",
-		"id": 930
-	},
-	{
-		"name": "PriPri Chii-chan!!",
-		"link": "/shows/pripri-chii-chan",
-		"id": 897
-	},
-	{
 		"name": "Prison School",
 		"link": "/shows/prison-school",
 		"id": 377
+	},
+	{
+		"name": "PSYCHO-PASS Extended Edition",
+		"link": "/shows/psycho-pass",
+		"id": 378
 	},
 	{
 		"name": "PSYCHO-PASS",
@@ -3620,11 +1905,6 @@
 		"id": 379
 	},
 	{
-		"name": "PSYCHO-PASS Extended Edition",
-		"link": "/shows/psycho-pass",
-		"id": 378
-	},
-	{
 		"name": "Punch Line",
 		"link": "/shows/punch-line",
 		"id": 381
@@ -3633,16 +1913,6 @@
 		"name": "Pupa",
 		"link": "/shows/pupa",
 		"id": 382
-	},
-	{
-		"name": "Puzzle and Dragons Cross",
-		"link": "/shows/puzzle-and-dragons-cross",
-		"id": 711
-	},
-	{
-		"name": "Qualidea Code",
-		"link": "/shows/qualidea-code",
-		"id": 735
 	},
 	{
 		"name": "Queen's Blade Rebellion",
@@ -3665,11 +1935,6 @@
 		"id": 386
 	},
 	{
-		"name": "Ramen Daisuki Koizumi-san",
-		"link": "/shows/ramen-daisuki-koizumi-san",
-		"id": 1009
-	},
-	{
 		"name": "Ranpo Kitan - Game of Laplace",
 		"link": "/shows/ranpo-kitan-game-of-laplace",
 		"id": 387
@@ -3678,16 +1943,6 @@
 		"name": "Re Hamatora",
 		"link": "/shows/re-hamatora",
 		"id": 388
-	},
-	{
-		"name": "Re Zero kara Hajimeru Isekai Seikatsu",
-		"link": "/shows/re-zero-kara-hajimeru-isekai-seikatsu",
-		"id": 660
-	},
-	{
-		"name": "Re-Creators",
-		"link": "/shows/re-creators",
-		"id": 883
 	},
 	{
 		"name": "Re-Kan!",
@@ -3703,26 +1958,6 @@
 		"name": "Recorder to Randoseru Mi",
 		"link": "/shows/recorder-to-randoseru-mi",
 		"id": 392
-	},
-	{
-		"name": "Regalia - The Three Sacred Stars",
-		"link": "/shows/regalia-the-three-sacred-stars",
-		"id": 725
-	},
-	{
-		"name": "ReLIFE",
-		"link": "/shows/relife",
-		"id": 697
-	},
-	{
-		"name": "Renai Boukun",
-		"link": "/shows/renai-boukun",
-		"id": 875
-	},
-	{
-		"name": "Rewrite",
-		"link": "/shows/rewrite",
-		"id": 702
 	},
 	{
 		"name": "Ro-Kyu-Bu - Fast Break!",
@@ -3750,24 +1985,9 @@
 		"id": 397
 	},
 	{
-		"name": "Rokudenashi Majutsu Koushi to Akashic Records",
-		"link": "/shows/rokudenashi-majutsu-koushi-to-akashic-records",
-		"id": 867
-	},
-	{
-		"name": "Rokuhoudou Yotsuiro Biyori",
-		"link": "/shows/rokuhoudou-yotsuiro-biyori",
-		"id": 1092
-	},
-	{
 		"name": "Rokujouma no Shinryakusha",
 		"link": "/shows/rokujouma-no-shinryakusha",
 		"id": 398
-	},
-	{
-		"name": "Room Mate",
-		"link": "/shows/room-mate",
-		"id": 892
 	},
 	{
 		"name": "Rowdy Sumo Wrestler Matsutaro",
@@ -3790,11 +2010,6 @@
 		"id": 402
 	},
 	{
-		"name": "Ryuuou no Oshigoto!",
-		"link": "/shows/ryuuou-no-oshigoto",
-		"id": 1024
-	},
-	{
 		"name": "Sabagebu!",
 		"link": "/shows/sabagebu",
 		"id": 403
@@ -3808,26 +2023,6 @@
 		"name": "Saekano",
 		"link": "/shows/saekano",
 		"id": 405
-	},
-	{
-		"name": "Saekano S2",
-		"link": "/shows/saekano-s2",
-		"id": 893
-	},
-	{
-		"name": "Sagrada Reset",
-		"link": "/shows/sagrada-reset",
-		"id": 872
-	},
-	{
-		"name": "Saijaku Muhai no Bahamut",
-		"link": "/shows/saijaku-muhai-no-bahamut",
-		"id": 637
-	},
-	{
-		"name": "Saiki Kusuo no Psi-nan",
-		"link": "/shows/saiki-kusuo-no-psi-nan",
-		"id": 739
 	},
 	{
 		"name": "Sailor Moon Crystal",
@@ -3850,19 +2045,9 @@
 		"id": 409
 	},
 	{
-		"name": "Saiyuki Reload Blast",
-		"link": "/shows/saiyuki-reload-blast",
-		"id": 920
-	},
-	{
 		"name": "Sakamichi no Apollon",
 		"link": "/shows/sakamichi-no-apollon",
 		"id": 410
-	},
-	{
-		"name": "Sakamoto desu ga",
-		"link": "/shows/sakamoto-desu-ga",
-		"id": 678
 	},
 	{
 		"name": "Saki - The Nationals",
@@ -3873,11 +2058,6 @@
 		"name": "Saki Episode of Side A",
 		"link": "/shows/saki-episode-of-side-a",
 		"id": 412
-	},
-	{
-		"name": "Sakura Quest",
-		"link": "/shows/sakura-quest",
-		"id": 870
 	},
 	{
 		"name": "Sakura Trick",
@@ -3900,41 +2080,6 @@
 		"id": 416
 	},
 	{
-		"name": "Sanrio Danshi",
-		"link": "/shows/sanrio-danshi",
-		"id": 1016
-	},
-	{
-		"name": "Sansha Sanyou",
-		"link": "/shows/sansha-sanyou",
-		"id": 682
-	},
-	{
-		"name": "Saredo Tsumibito wa Ryuu to Odoru",
-		"link": "/shows/saredo-tsumibito-wa-ryuu-to-odoru",
-		"id": 1073
-	},
-	{
-		"name": "Scared Rider Xechs",
-		"link": "/shows/scared-rider-xechs",
-		"id": 721
-	},
-	{
-		"name": "Schoolgirl Strikers - Animation Channel",
-		"link": "/shows/schoolgirl-strikers-animation-channel",
-		"id": 824
-	},
-	{
-		"name": "Schwarzesmarken",
-		"link": "/shows/schwarzesmarken",
-		"id": 633
-	},
-	{
-		"name": "Seikaisuru Kado",
-		"link": "/shows/seikaisuru-kado",
-		"id": 873
-	},
-	{
 		"name": "Seiken Tsukai no World Break",
 		"link": "/shows/seiken-tsukai-no-world-break",
 		"id": 417
@@ -3948,16 +2093,6 @@
 		"name": "Seirei Tsukai no Blade Dance",
 		"link": "/shows/seirei-tsukai-no-blade-dance",
 		"id": 419
-	},
-	{
-		"name": "Seiren",
-		"link": "/shows/seiren",
-		"id": 827
-	},
-	{
-		"name": "Seisen Cerberus",
-		"link": "/shows/seisen-cerberus",
-		"id": 666
 	},
 	{
 		"name": "Seitokai no Ichizon Lv.2",
@@ -3975,19 +2110,9 @@
 		"id": 422
 	},
 	{
-		"name": "Sekai no Yami Zukan",
-		"link": "/shows/sekai-no-yami-zukan",
-		"id": 860
-	},
-	{
 		"name": "Sekai Seifuku - Bouryaku no Zvezda",
 		"link": "/shows/sekai-seifuku-bouryaku-no-zvezda",
 		"id": 423
-	},
-	{
-		"name": "Sekkou Boys",
-		"link": "/shows/sekkou-boys",
-		"id": 620
 	},
 	{
 		"name": "selector infected WIXOSS",
@@ -4005,11 +2130,6 @@
 		"id": 426
 	},
 	{
-		"name": "Sengoku Choujuu Giga",
-		"link": "/shows/sengoku-choujuu-giga",
-		"id": 802
-	},
-	{
 		"name": "Sengoku Collection",
 		"link": "/shows/sengoku-collection",
 		"id": 427
@@ -4025,32 +2145,17 @@
 		"id": 429
 	},
 	{
-		"name": "Sengoku Night Blood",
-		"link": "/shows/sengoku-night-blood",
-		"id": 960
-	},
-	{
-		"name": "Senki Zesshou Symphogear",
-		"link": "/shows/senki-zesshou-symphogear",
-		"id": 594
-	},
-	{
-		"name": "Senki Zesshou Symphogear G",
-		"link": "/shows/senki-zesshou-symphogear-g",
-		"id": 595
-	},
-	{
 		"name": "Senki Zesshou Symphogear GX",
 		"link": "/shows/senki-zesshou-symphogear-gx",
 		"id": 430
 	},
 	{
-		"name": "Senyuu",
+		"name": "Senyuu S2",
 		"link": "/shows/senyuu",
 		"id": 431
 	},
 	{
-		"name": "Senyuu S2",
+		"name": "Senyuu",
 		"link": "/shows/senyuu",
 		"id": 431
 	},
@@ -4065,34 +2170,14 @@
 		"id": 434
 	},
 	{
-		"name": "Servamp",
-		"link": "/shows/servamp",
-		"id": 718
-	},
-	{
 		"name": "Servant x Service",
 		"link": "/shows/servant-x-service",
 		"id": 435
 	},
 	{
-		"name": "Shakunetsu no Takkyuu Musume",
-		"link": "/shows/shakunetsu-no-takkyuu-musume",
-		"id": 772
-	},
-	{
 		"name": "She and Her Cat",
 		"link": "/shows/she-and-her-cat",
 		"id": 436
-	},
-	{
-		"name": "She and Her Cat - Everything Flows",
-		"link": "/shows/she-and-her-cat-everything-flows",
-		"id": 644
-	},
-	{
-		"name": "Shelter",
-		"link": "/shows/shelter",
-		"id": 807
 	},
 	{
 		"name": "Shigatsu wa Kimi no Uso",
@@ -4125,17 +2210,12 @@
 		"id": 442
 	},
 	{
-		"name": "Shingeki no Bahamut - Virgin Soul",
-		"link": "/shows/shingeki-no-bahamut-virgin-soul",
-		"id": 881
-	},
-	{
-		"name": "Shingeki no Kyojin",
+		"name": "Shingeki no Kyojin S2",
 		"link": "/shows/shingeki-no-kyojin",
 		"id": 443
 	},
 	{
-		"name": "Shingeki no Kyojin S2",
+		"name": "Shingeki no Kyojin",
 		"link": "/shows/shingeki-no-kyojin",
 		"id": 443
 	},
@@ -4165,44 +2245,19 @@
 		"id": 448
 	},
 	{
-		"name": "Shokugeki no Soma",
-		"link": "/shows/shokugeki-no-soma",
-		"id": 449
-	},
-	{
 		"name": "Shokugeki no Soma S2",
 		"link": "/shows/shokugeki-no-soma",
 		"id": 449
 	},
 	{
-		"name": "Shokugeki no Soma S3",
-		"link": "/shows/shokugeki-no-soma-s3",
-		"id": 962
+		"name": "Shokugeki no Soma",
+		"link": "/shows/shokugeki-no-soma",
+		"id": 449
 	},
 	{
 		"name": "Shomin Sample",
 		"link": "/shows/shomin-sample",
 		"id": 450
-	},
-	{
-		"name": "Shoujo Shuumatsu Ryokou",
-		"link": "/shows/shoujo-shuumatsu-ryokou",
-		"id": 975
-	},
-	{
-		"name": "Shoujo-tachi wa Kouya wo Mezasu",
-		"link": "/shows/shoujo-tachi-wa-kouya-wo-mezasu",
-		"id": 617
-	},
-	{
-		"name": "Shoukoku no Altair",
-		"link": "/shows/shoukoku-no-altair",
-		"id": 927
-	},
-	{
-		"name": "Shounen Ashibe Go! Go! Goma-chan",
-		"link": "/shows/shounen-ashibe-go-go-goma-chan",
-		"id": 667
 	},
 	{
 		"name": "Shounen Hollywood",
@@ -4215,49 +2270,9 @@
 		"id": 452
 	},
 	{
-		"name": "Shounen Maid",
-		"link": "/shows/shounen-maid",
-		"id": 677
-	},
-	{
-		"name": "Shouwa Genroku Rakugo Shinjuu",
-		"link": "/shows/shouwa-genroku-rakugo-shinjuu",
-		"id": 624
-	},
-	{
-		"name": "Shouwa Genroku Rakugo Shinjuu S2",
-		"link": "/shows/shouwa-genroku-rakugo-shinjuu-s2",
-		"id": 826
-	},
-	{
 		"name": "Show By Rock!!",
 		"link": "/shows/show-by-rock",
 		"id": 453
-	},
-	{
-		"name": "Show By Rock!! S2",
-		"link": "/shows/show-by-rock-s2",
-		"id": 765
-	},
-	{
-		"name": "Show By Rock!! Short!!",
-		"link": "/shows/show-by-rock-short",
-		"id": 712
-	},
-	{
-		"name": "Shuumatsu Nani Shitemasuka Isogashii Desuka Sukutte Moratte Ii Desuka",
-		"link": "/shows/shuumatsu-nani-shitemasuka-isogashii-desuka-sukutte-moratte-ii-desuka",
-		"id": 889
-	},
-	{
-		"name": "Shuumatsu no Izetta",
-		"link": "/shows/shuumatsu-no-izetta",
-		"id": 757
-	},
-	{
-		"name": "Sin - Nanatsu no Taizai",
-		"link": "/shows/sin-nanatsu-no-taizai",
-		"id": 895
 	},
 	{
 		"name": "SKET Dance",
@@ -4268,11 +2283,6 @@
 		"name": "Slam Dunk",
 		"link": "/shows/slam-dunk",
 		"id": 455
-	},
-	{
-		"name": "Slow Start",
-		"link": "/shows/slow-start",
-		"id": 1018
 	},
 	{
 		"name": "So, I Can't Play H!",
@@ -4288,11 +2298,6 @@
 		"name": "Sora no Method",
 		"link": "/shows/sora-no-method",
 		"id": 458
-	},
-	{
-		"name": "Sora yori mo Tooi Basho",
-		"link": "/shows/sora-yori-mo-tooi-basho",
-		"id": 1008
 	},
 	{
 		"name": "Sore ga Seiyuu!",
@@ -4315,29 +2320,9 @@
 		"id": 461
 	},
 	{
-		"name": "Soul Buster",
-		"link": "/shows/soul-buster",
-		"id": 805
-	},
-	{
 		"name": "Soul Eater Not!",
 		"link": "/shows/soul-eater-not",
 		"id": 463
-	},
-	{
-		"name": "Sousei no Onmyouji",
-		"link": "/shows/sousei-no-onmyouji",
-		"id": 672
-	},
-	{
-		"name": "Soushin Shoujo Matoi",
-		"link": "/shows/soushin-shoujo-matoi",
-		"id": 775
-	},
-	{
-		"name": "Souten no Ken Re-Genesis",
-		"link": "/shows/souten-no-ken-re-genesis",
-		"id": 1062
 	},
 	{
 		"name": "Space Brothers",
@@ -4355,29 +2340,9 @@
 		"id": 466
 	},
 	{
-		"name": "Space Patrol Luluco",
-		"link": "/shows/space-patrol-luluco",
-		"id": 648
-	},
-	{
 		"name": "Sparrow's Hotel",
 		"link": "/shows/sparrows-hotel",
 		"id": 467
-	},
-	{
-		"name": "Spiritpact",
-		"link": "/shows/spiritpact",
-		"id": 829
-	},
-	{
-		"name": "Spiritpact S2",
-		"link": "/shows/spiritpact-s2",
-		"id": 1052
-	},
-	{
-		"name": "Steins Gate 0",
-		"link": "/shows/steins-gate-0",
-		"id": 1095
 	},
 	{
 		"name": "Steins;Gate",
@@ -4388,11 +2353,6 @@
 		"name": "Stella Jogakuin Koutouka C3-bu",
 		"link": "/shows/stella-jogakuin-koutouka-c3-bu",
 		"id": 469
-	},
-	{
-		"name": "Stella no Mahou",
-		"link": "/shows/stella-no-mahou",
-		"id": 804
 	},
 	{
 		"name": "Straight Title Robot Anime",
@@ -4420,34 +2380,14 @@
 		"id": 474
 	},
 	{
-		"name": "Suki ni Naru Sono Shunkan wo",
-		"link": "/shows/suki-ni-naru-sono-shunkan-wo",
-		"id": 903
-	},
-	{
 		"name": "Sukitte Ii na yo.",
 		"link": "/shows/sukitte-ii-na-yo",
 		"id": 475
 	},
 	{
-		"name": "Super Lovers",
-		"link": "/shows/super-lovers",
-		"id": 669
-	},
-	{
-		"name": "Super Lovers S2",
-		"link": "/shows/super-lovers-s2",
-		"id": 847
-	},
-	{
 		"name": "Sword Art Online",
 		"link": "/shows/sword-art-online",
 		"id": 476
-	},
-	{
-		"name": "Sword Art Online Alternative - Gun Gale Online",
-		"link": "/shows/sword-art-online-alternative-gun-gale-online",
-		"id": 1082
 	},
 	{
 		"name": "Sword Art Online EXTRA EDITION",
@@ -4460,59 +2400,14 @@
 		"id": 478
 	},
 	{
-		"name": "Sword Gai The Animation",
-		"link": "/shows/sword-gai-the-animation",
-		"id": 1056
-	},
-	{
-		"name": "Tabi Machi Late Show",
-		"link": "/shows/tabi-machi-late-show",
-		"id": 621
-	},
-	{
-		"name": "Taboo Tattoo",
-		"link": "/shows/taboo-tattoo",
-		"id": 715
-	},
-	{
-		"name": "Tachibanakan To Lie Angle",
-		"link": "/shows/tachibanakan-to-lie-angle",
-		"id": 1065
-	},
-	{
-		"name": "Tada-kun wa Koi wo Shinai",
-		"link": "/shows/tada-kun-wa-koi-wo-shinai",
-		"id": 1070
-	},
-	{
 		"name": "Taimadou Gakuen 35 Shiken Shoutai",
 		"link": "/shows/taimadou-gakuen-35-shiken-shoutai",
 		"id": 479
 	},
 	{
-		"name": "Taishou Chicchai-san",
-		"link": "/shows/taishou-chicchai-san",
-		"id": 971
-	},
-	{
 		"name": "Takamiya Nasuno Desu!",
 		"link": "/shows/takamiya-nasuno-desu",
 		"id": 480
-	},
-	{
-		"name": "Takunomi",
-		"link": "/shows/takunomi",
-		"id": 1043
-	},
-	{
-		"name": "Tales of Zestiria the X",
-		"link": "/shows/tales-of-zestiria-the-x",
-		"id": 709
-	},
-	{
-		"name": "Tanaka-kun wa Itsumo Kedaruge",
-		"link": "/shows/tanaka-kun-wa-itsumo-kedaruge",
-		"id": 680
 	},
 	{
 		"name": "Tantei Team KZ Jiken Note",
@@ -4530,32 +2425,7 @@
 		"id": 483
 	},
 	{
-		"name": "Teekyu S2",
-		"link": "/shows/teekyu",
-		"id": 483
-	},
-	{
-		"name": "Teekyu S3",
-		"link": "/shows/teekyu",
-		"id": 483
-	},
-	{
-		"name": "Teekyu S4",
-		"link": "/shows/teekyu",
-		"id": 483
-	},
-	{
 		"name": "Teekyu S5",
-		"link": "/shows/teekyu",
-		"id": 483
-	},
-	{
-		"name": "Teekyu S6",
-		"link": "/shows/teekyu",
-		"id": 483
-	},
-	{
-		"name": "Teekyu S7",
 		"link": "/shows/teekyu",
 		"id": 483
 	},
@@ -4565,19 +2435,34 @@
 		"id": 483
 	},
 	{
+		"name": "Teekyu S3",
+		"link": "/shows/teekyu",
+		"id": 483
+	},
+	{
+		"name": "Teekyu S7",
+		"link": "/shows/teekyu",
+		"id": 483
+	},
+	{
 		"name": "Teekyu S9",
 		"link": "/shows/teekyu",
 		"id": 483
 	},
 	{
-		"name": "Tenshi no 3P!",
-		"link": "/shows/tenshi-no-3p",
-		"id": 934
+		"name": "Teekyu S6",
+		"link": "/shows/teekyu",
+		"id": 483
 	},
 	{
-		"name": "Terra Formars",
-		"link": "/shows/terra-formars",
-		"id": 489
+		"name": "Teekyu S2",
+		"link": "/shows/teekyu",
+		"id": 483
+	},
+	{
+		"name": "Teekyu S4",
+		"link": "/shows/teekyu",
+		"id": 483
 	},
 	{
 		"name": "Terra Formars (Uncensored)",
@@ -4585,9 +2470,9 @@
 		"id": 489
 	},
 	{
-		"name": "Terra Formars S2",
-		"link": "/shows/terra-formars-s2",
-		"id": 651
+		"name": "Terra Formars",
+		"link": "/shows/terra-formars",
+		"id": 489
 	},
 	{
 		"name": "Tesagure! Bukatsumono Spin-off Purupurun Sharumu to Asobou",
@@ -4600,11 +2485,6 @@
 		"id": 492
 	},
 	{
-		"name": "The Dragon Dentist",
-		"link": "/shows/the-dragon-dentist",
-		"id": 853
-	},
-	{
 		"name": "The iDOLM@STER",
 		"link": "/shows/the-idolmster",
 		"id": 494
@@ -4613,21 +2493,6 @@
 		"name": "THE iDOLM@STER CINDERELLA GIRLS",
 		"link": "/shows/the-idolmster-cinderella-girls",
 		"id": 495
-	},
-	{
-		"name": "THE iDOLM@STER CINDERELLA GIRLS Theater (TV)",
-		"link": "/shows/the-idolmster-cinderella-girls-theater",
-		"id": 866
-	},
-	{
-		"name": "THE iDOLM@STER CINDERELLA GIRLS Theater (Web)",
-		"link": "/shows/the-idolmster-cinderella-girls-theater",
-		"id": 866
-	},
-	{
-		"name": "The iDOLM@STER Side M",
-		"link": "/shows/the-idolmster-side-m",
-		"id": 956
 	},
 	{
 		"name": "The Knight in the Area",
@@ -4655,11 +2520,6 @@
 		"id": 500
 	},
 	{
-		"name": "The Reflection",
-		"link": "/shows/the-reflection",
-		"id": 947
-	},
-	{
 		"name": "The Rolling Girls",
 		"link": "/shows/the-rolling-girls",
 		"id": 501
@@ -4670,44 +2530,9 @@
 		"id": 502
 	},
 	{
-		"name": "Thunderbolt Fantasy",
-		"link": "/shows/thunderbolt-fantasy",
-		"id": 732
-	},
-	{
-		"name": "Tiger Mask W",
-		"link": "/shows/tiger-mask-w",
-		"id": 761
-	},
-	{
-		"name": "Time Bokan 24",
-		"link": "/shows/time-bokan-24",
-		"id": 755
-	},
-	{
-		"name": "Time Bokan 24 S2",
-		"link": "/shows/time-bokan-24-s2",
-		"id": 979
-	},
-	{
-		"name": "Time Travel Shoujo",
-		"link": "/shows/time-travel-shoujo",
-		"id": 733
-	},
-	{
-		"name": "TO BE HERO",
-		"link": "/shows/to-be-hero",
-		"id": 779
-	},
-	{
 		"name": "To LOVE-Ru Darkness 2nd",
 		"link": "/shows/to-love-ru-darkness-2nd",
 		"id": 505
-	},
-	{
-		"name": "Toji no Miko",
-		"link": "/shows/toji-no-miko",
-		"id": 1012
 	},
 	{
 		"name": "Tokyo ESP",
@@ -4718,11 +2543,6 @@
 		"name": "Tokyo Ghoul",
 		"link": "/shows/tokyo-ghoul",
 		"id": 507
-	},
-	{
-		"name": "Tokyo Ghoul re",
-		"link": "/shows/tokyo-ghoul-re",
-		"id": 1068
 	},
 	{
 		"name": "Tokyo Ghoul Root A",
@@ -4740,11 +2560,6 @@
 		"id": 511
 	},
 	{
-		"name": "Tonkatsu DJ Agetarou",
-		"link": "/shows/tonkatsu-dj-agetarou",
-		"id": 683
-	},
-	{
 		"name": "Toradora! (DUB)",
 		"link": "/shows/toradora-dub",
 		"id": 512
@@ -4753,11 +2568,6 @@
 		"name": "Toriko",
 		"link": "/shows/toriko",
 		"id": 513
-	},
-	{
-		"name": "Touken Ranbu - Hanamaru",
-		"link": "/shows/touken-ranbu-hanamaru",
-		"id": 768
 	},
 	{
 		"name": "Triage X",
@@ -4770,49 +2580,14 @@
 		"id": 515
 	},
 	{
-		"name": "Trickster",
-		"link": "/shows/trickster",
-		"id": 771
-	},
-	{
 		"name": "Trinity Seven",
 		"link": "/shows/trinity-seven",
 		"id": 516
 	},
 	{
-		"name": "Trinity Seven Movie - Eternity Library and Alchemic Girl",
-		"link": "/shows/trinity-seven-movie-eternity-library-and-alchemic-girl",
-		"id": 854
-	},
-	{
-		"name": "Tsugumomo",
-		"link": "/shows/tsugumomo",
-		"id": 885
-	},
-	{
-		"name": "Tsuki ga Kirei",
-		"link": "/shows/tsuki-ga-kirei",
-		"id": 874
-	},
-	{
 		"name": "Tsukimonogatari",
 		"link": "/shows/tsukimonogatari",
 		"id": 517
-	},
-	{
-		"name": "Tsukipro The Animation",
-		"link": "/shows/tsukipro-the-animation",
-		"id": 966
-	},
-	{
-		"name": "Tsukiuta. The Animation",
-		"link": "/shows/tsukiuta-the-animation",
-		"id": 722
-	},
-	{
-		"name": "Tsurezure Children",
-		"link": "/shows/tsurezure-children",
-		"id": 917
 	},
 	{
 		"name": "Tsuritama",
@@ -4825,39 +2600,9 @@
 		"id": 519
 	},
 	{
-		"name": "Twin Angel BREAK",
-		"link": "/shows/twin-angel-break",
-		"id": 878
-	},
-	{
-		"name": "Two Car",
-		"link": "/shows/two-car",
-		"id": 986
-	},
-	{
 		"name": "Uchouten Kazoku",
 		"link": "/shows/uchouten-kazoku",
 		"id": 520
-	},
-	{
-		"name": "Uchouten Kazoku S2",
-		"link": "/shows/uchouten-kazoku-s2",
-		"id": 884
-	},
-	{
-		"name": "Uchuu Senkan Tiramisu",
-		"link": "/shows/uchuu-senkan-tiramisu",
-		"id": 1061
-	},
-	{
-		"name": "Udon no Kuni no Kiniro Kemari",
-		"link": "/shows/udon-no-kuni-no-kiniro-kemari",
-		"id": 803
-	},
-	{
-		"name": "Uma Musume - Pretty Derby",
-		"link": "/shows/uma-musume-pretty-derby",
-		"id": 1059
 	},
 	{
 		"name": "UN-GO",
@@ -4880,21 +2625,6 @@
 		"id": 525
 	},
 	{
-		"name": "UQ Holder!",
-		"link": "/shows/uq-holder",
-		"id": 958
-	},
-	{
-		"name": "URAHARA",
-		"link": "/shows/urahara",
-		"id": 964
-	},
-	{
-		"name": "Urara Meirochou",
-		"link": "/shows/urara-meirochou",
-		"id": 828
-	},
-	{
 		"name": "Urawa no Usagi-chan",
 		"link": "/shows/urawa-no-usagi-chan",
 		"id": 526
@@ -4903,11 +2633,6 @@
 		"name": "Usagi Drop",
 		"link": "/shows/usagi-drop",
 		"id": 527
-	},
-	{
-		"name": "Usakame",
-		"link": "/shows/usakame",
-		"id": 685
 	},
 	{
 		"name": "Ushinawareta Mirai wo Motomete",
@@ -4930,11 +2655,6 @@
 		"id": 531
 	},
 	{
-		"name": "Uta no Prince Sama Legend Star",
-		"link": "/shows/uta-no-prince-sama-legend-star",
-		"id": 760
-	},
-	{
 		"name": "Uta no Prince Sama Revolutions",
 		"link": "/shows/uta-no-prince-sama-revolutions",
 		"id": 532
@@ -4950,11 +2670,6 @@
 		"id": 534
 	},
 	{
-		"name": "Valkyrie Drive - Mermaid",
-		"link": "/shows/valkyrie-drive-mermaid",
-		"id": 584
-	},
-	{
 		"name": "Valvrave the Liberator",
 		"link": "/shows/valvrave-the-liberator",
 		"id": 535
@@ -4963,21 +2678,6 @@
 		"name": "Valvrave the Liberator S2",
 		"link": "/shows/valvrave-the-liberator-s2",
 		"id": 536
-	},
-	{
-		"name": "Vatican Kiseki Chousakan",
-		"link": "/shows/vatican-kiseki-chousakan",
-		"id": 925
-	},
-	{
-		"name": "Violet Evergarden",
-		"link": "/shows/violet-evergarden",
-		"id": 1034
-	},
-	{
-		"name": "Wagamama High Spec",
-		"link": "/shows/wagamama-high-spec",
-		"id": 684
 	},
 	{
 		"name": "Wakaba Girl",
@@ -5005,29 +2705,14 @@
 		"id": 541
 	},
 	{
-		"name": "Wake Up, Girls! Shin Shou",
-		"link": "/shows/wake-up-girls-shin-shou",
-		"id": 998
-	},
-	{
 		"name": "Walkure Romanze",
 		"link": "/shows/walkure-romanze",
 		"id": 543
 	},
 	{
-		"name": "Warau Salesman NEW",
-		"link": "/shows/warau-salesman-new",
-		"id": 862
-	},
-	{
 		"name": "Watamote",
 		"link": "/shows/watamote",
 		"id": 544
-	},
-	{
-		"name": "Watashi ga Motete Dousunda",
-		"link": "/shows/watashi-ga-motete-dousunda",
-		"id": 797
 	},
 	{
 		"name": "White Album 2",
@@ -5050,11 +2735,6 @@
 		"id": 548
 	},
 	{
-		"name": "Wooser no Sono Higurashi",
-		"link": "/shows/wooser-no-sono-higurashi",
-		"id": 599
-	},
-	{
 		"name": "Wooser no Sono Higurashi Kakusei-hen",
 		"link": "/shows/wooser-no-sono-higurashi-kakusei-hen",
 		"id": 549
@@ -5065,9 +2745,9 @@
 		"id": 550
 	},
 	{
-		"name": "Working!!",
-		"link": "/shows/working",
-		"id": 600
+		"name": "Working'!!",
+		"link": "/shows/working-2",
+		"id": 551
 	},
 	{
 		"name": "Working!!!",
@@ -5075,29 +2755,9 @@
 		"id": 552
 	},
 	{
-		"name": "Working'!!",
-		"link": "/shows/working-2",
-		"id": 551
-	},
-	{
-		"name": "World Fool News Part II",
-		"link": "/shows/world-fool-news-part-ii",
-		"id": 858
-	},
-	{
 		"name": "World Trigger",
 		"link": "/shows/world-trigger",
 		"id": 553
-	},
-	{
-		"name": "Wotaku ni Koi wa Muzukashii",
-		"link": "/shows/wotaku-ni-koi-wa-muzukashii",
-		"id": 1098
-	},
-	{
-		"name": "WWW.Working!!",
-		"link": "/shows/www-working",
-		"id": 758
 	},
 	{
 		"name": "Yahari Ore no Seishun Love Come wa Machigatteiru",
@@ -5135,39 +2795,9 @@
 		"id": 560
 	},
 	{
-		"name": "Yami Shibai - Japanese Ghost Stories 3",
-		"link": "/shows/yami-shibai-japanese-ghost-stories-3",
-		"id": 634
-	},
-	{
-		"name": "Yami Shibai - Japanese Ghost Stories 4",
-		"link": "/shows/yami-shibai-japanese-ghost-stories-4",
-		"id": 849
-	},
-	{
-		"name": "Yami Shibai - Japanese Ghost Stories 5",
-		"link": "/shows/yami-shibai-japanese-ghost-stories-5",
-		"id": 911
-	},
-	{
 		"name": "Yoru no Yatterman",
 		"link": "/shows/yoru-no-yatterman",
 		"id": 561
-	},
-	{
-		"name": "Youjo Senki",
-		"link": "/shows/youjo-senki",
-		"id": 821
-	},
-	{
-		"name": "Youkai Apartment no Yuuga na Nichijou",
-		"link": "/shows/youkai-apartment-no-yuuga-na-nichijou",
-		"id": 914
-	},
-	{
-		"name": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
-		"link": "/shows/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e",
-		"id": 942
 	},
 	{
 		"name": "Young Black Jack",
@@ -5180,39 +2810,9 @@
 		"id": 563
 	},
 	{
-		"name": "Yowamushi Pedal - Glory Line",
-		"link": "/shows/yowamushi-pedal-glory-line",
-		"id": 1029
-	},
-	{
 		"name": "Yowamushi Pedal - Grande Road",
 		"link": "/shows/yowamushi-pedal-grande-road",
 		"id": 564
-	},
-	{
-		"name": "Yowamushi Pedal - New Generation",
-		"link": "/shows/yowamushi-pedal-new-generation",
-		"id": 837
-	},
-	{
-		"name": "Yowamushi Pedal Re RIDE",
-		"link": "/shows/yowamushi-pedal-movies",
-		"id": 691
-	},
-	{
-		"name": "Yowamushi Pedal Re ROAD",
-		"link": "/shows/yowamushi-pedal-movies",
-		"id": 691
-	},
-	{
-		"name": "Yowamushi Pedal The Movie",
-		"link": "/shows/yowamushi-pedal-movies",
-		"id": 691
-	},
-	{
-		"name": "Yu-Gi-Oh! VRAINS",
-		"link": "/shows/yu-gi-oh-vrains",
-		"id": 901
 	},
 	{
 		"name": "Yuki Yuna wa Yusha de Aru",
@@ -5220,29 +2820,9 @@
 		"id": 565
 	},
 	{
-		"name": "Yuki Yuna wa Yusha de Aru - Washio Sumi no Shou",
-		"link": "/shows/yuki-yuna-wa-yusha-de-aru-washio-sumi-no-shou",
-		"id": 976
-	},
-	{
-		"name": "Yuki Yuna wa Yusha de Aru - Yusha no Shou",
-		"link": "/shows/yuki-yuna-wa-yusha-de-aru-yusha-no-shou",
-		"id": 1006
-	},
-	{
 		"name": "Yuri Kuma Arashi",
 		"link": "/shows/yuri-kuma-arashi",
 		"id": 566
-	},
-	{
-		"name": "Yuri!!! on Ice",
-		"link": "/shows/yuri-on-ice",
-		"id": 789
-	},
-	{
-		"name": "Yuru Camp",
-		"link": "/shows/yuru-camp",
-		"id": 1010
 	},
 	{
 		"name": "Yurumate3Dei",
@@ -5280,11 +2860,6 @@
 		"id": 573
 	},
 	{
-		"name": "Zero kara Hajimeru Mahou no Sho",
-		"link": "/shows/zero-kara-hajimeru-mahou-no-sho",
-		"id": 886
-	},
-	{
 		"name": "Zero no Tsukaima Final",
 		"link": "/shows/zero-no-tsukaima-final",
 		"id": 574
@@ -5305,9 +2880,879 @@
 		"id": 578
 	},
 	{
-		"name": "Zoku Touken Ranbu - Hanamaru",
-		"link": "/shows/zoku-touken-ranbu-hanamaru",
-		"id": 1048
+		"name": "ZX IGNITION",
+		"link": "/shows/zx-ignition",
+		"id": 579
+	},
+	{
+		"name": "Cardfight!! Vanguard G GIRS Crisis",
+		"link": "/shows/cardfight-vanguard-g-girs-crisis",
+		"id": 580
+	},
+	{
+		"name": "Cardfight!! Vanguard G Stride Gate",
+		"link": "/shows/cardfight-vanguard-g-girs-crisis",
+		"id": 580
+	},
+	{
+		"name": "Ame-iro Cocoa S2",
+		"link": "/shows/ame-iro-cocoa-s2",
+		"id": 581
+	},
+	{
+		"name": "Brave Beats",
+		"link": "/shows/brave-beats",
+		"id": 582
+	},
+	{
+		"name": "Ani Tore! EX",
+		"link": "/shows/ani-tore-ex",
+		"id": 583
+	},
+	{
+		"name": "Valkyrie Drive - Mermaid",
+		"link": "/shows/valkyrie-drive-mermaid",
+		"id": 584
+	},
+	{
+		"name": "Hidan no Aria AA",
+		"link": "/shows/hidan-no-aria-aa",
+		"id": 585
+	},
+	{
+		"name": "Kateikyoushi Hitman Reborn!",
+		"link": "/shows/kateikyoushi-hitman-reborn",
+		"id": 587
+	},
+	{
+		"name": "Digimon Adventure tri",
+		"link": "/shows/digimon-adventure-tri",
+		"id": 588
+	},
+	{
+		"name": "Digimon Xros Wars S2",
+		"link": "/shows/digimon-xros-wars",
+		"id": 590
+	},
+	{
+		"name": "Digimon Xros Wars",
+		"link": "/shows/digimon-xros-wars",
+		"id": 590
+	},
+	{
+		"name": "Senki Zesshou Symphogear",
+		"link": "/shows/senki-zesshou-symphogear",
+		"id": 594
+	},
+	{
+		"name": "Senki Zesshou Symphogear G",
+		"link": "/shows/senki-zesshou-symphogear-g",
+		"id": 595
+	},
+	{
+		"name": "Love Live! The School Idol Movie",
+		"link": "/shows/love-live-the-school-idol-movie",
+		"id": 597
+	},
+	{
+		"name": "Wooser no Sono Higurashi",
+		"link": "/shows/wooser-no-sono-higurashi",
+		"id": 599
+	},
+	{
+		"name": "Working!!",
+		"link": "/shows/working",
+		"id": 600
+	},
+	{
+		"name": "Mobile Suit Gundam Thunderbolt",
+		"link": "/shows/mobile-suit-gundam-thunderbolt",
+		"id": 602
+	},
+	{
+		"name": "Durarara!!",
+		"link": "/shows/durarara",
+		"id": 603
+	},
+	{
+		"name": "Musaigen no Phantom World",
+		"link": "/shows/musaigen-no-phantom-world",
+		"id": 605
+	},
+	{
+		"name": "Prince of Stride - Alternative",
+		"link": "/shows/prince-of-stride-alternative",
+		"id": 606
+	},
+	{
+		"name": "Haruchika",
+		"link": "/shows/haruchika",
+		"id": 607
+	},
+	{
+		"name": "Active Raid",
+		"link": "/shows/active-raid",
+		"id": 608
+	},
+	{
+		"name": "Assassination Classroom S2",
+		"link": "/shows/assassination-classroom-s2",
+		"id": 609
+	},
+	{
+		"name": "Lupin III (2015)",
+		"link": "/shows/lupin-iii-2015",
+		"id": 610
+	},
+	{
+		"name": "Boku dake ga Inai Machi",
+		"link": "/shows/boku-dake-ga-inai-machi",
+		"id": 611
+	},
+	{
+		"name": "Ojisan to Marshmallow",
+		"link": "/shows/ojisan-to-marshmallow",
+		"id": 612
+	},
+	{
+		"name": "Lupin III Part I",
+		"link": "/shows/lupin-iii-part-i",
+		"id": 613
+	},
+	{
+		"name": "Lupin III Part II",
+		"link": "/shows/lupin-iii-part-ii",
+		"id": 614
+	},
+	{
+		"name": "Lupin III Part III",
+		"link": "/shows/lupin-iii-part-iii",
+		"id": 615
+	},
+	{
+		"name": "Norn9 - Norn+Nonet",
+		"link": "/shows/norn9-norn-nonet",
+		"id": 616
+	},
+	{
+		"name": "Shoujo-tachi wa Kouya wo Mezasu",
+		"link": "/shows/shoujo-tachi-wa-kouya-wo-mezasu",
+		"id": 617
+	},
+	{
+		"name": "Divine Gate",
+		"link": "/shows/divine-gate",
+		"id": 618
+	},
+	{
+		"name": "Oshiete! Galko-chan",
+		"link": "/shows/oshiete-galko-chan",
+		"id": 619
+	},
+	{
+		"name": "Sekkou Boys",
+		"link": "/shows/sekkou-boys",
+		"id": 620
+	},
+	{
+		"name": "Tabi Machi Late Show",
+		"link": "/shows/tabi-machi-late-show",
+		"id": 621
+	},
+	{
+		"name": "Koukaku no Pandora",
+		"link": "/shows/koukaku-no-pandora",
+		"id": 622
+	},
+	{
+		"name": "Shouwa Genroku Rakugo Shinjuu",
+		"link": "/shows/shouwa-genroku-rakugo-shinjuu",
+		"id": 624
+	},
+	{
+		"name": "Phantasy Star Online 2 The Animation",
+		"link": "/shows/phantasy-star-online-2-the-animation",
+		"id": 625
+	},
+	{
+		"name": "Bubuki Buranki",
+		"link": "/shows/bubuki-buranki",
+		"id": 626
+	},
+	{
+		"name": "Luck & Logic",
+		"link": "/shows/luck-logic",
+		"id": 627
+	},
+	{
+		"name": "Nurse Witch Komugi-chan R",
+		"link": "/shows/nurse-witch-komugi-chan-r",
+		"id": 628
+	},
+	{
+		"name": "Ooyasan wa Shishunki!",
+		"link": "/shows/ooyasan-wa-shishunki",
+		"id": 629
+	},
+	{
+		"name": "Hai to Gensou no Grimgar",
+		"link": "/shows/hai-to-gensou-no-grimgar",
+		"id": 630
+	},
+	{
+		"name": "Dimension W",
+		"link": "/shows/dimension-w",
+		"id": 631
+	},
+	{
+		"name": "Nijiiro Days",
+		"link": "/shows/nijiiro-days",
+		"id": 632
+	},
+	{
+		"name": "Schwarzesmarken",
+		"link": "/shows/schwarzesmarken",
+		"id": 633
+	},
+	{
+		"name": "Yami Shibai - Japanese Ghost Stories 3",
+		"link": "/shows/yami-shibai-japanese-ghost-stories-3",
+		"id": 634
+	},
+	{
+		"name": "Mahou Shoujo Nante Mou Ii Desukara",
+		"link": "/shows/mahou-shoujo-nante-mou-ii-desukara",
+		"id": 635
+	},
+	{
+		"name": "Saijaku Muhai no Bahamut",
+		"link": "/shows/saijaku-muhai-no-bahamut",
+		"id": 637
+	},
+	{
+		"name": "Ao no Kanata no Four Rhythm",
+		"link": "/shows/ao-no-kanata-no-four-rhythm",
+		"id": 638
+	},
+	{
+		"name": "Dagashi Kashi",
+		"link": "/shows/dagashi-kashi",
+		"id": 639
+	},
+	{
+		"name": "Kono Subarashii Sekai ni Shukufuku wo!",
+		"link": "/shows/kono-subarashii-sekai-ni-shukufuku-wo",
+		"id": 640
+	},
+	{
+		"name": "Glass no Hana to Kowasu Sekai",
+		"link": "/shows/glass-no-hana-to-kowasu-sekai",
+		"id": 641
+	},
+	{
+		"name": "Noblesse - Awakening",
+		"link": "/shows/noblesse-awakening",
+		"id": 642
+	},
+	{
+		"name": "Kono Danshi, Mahou ga Oshigoto Desu",
+		"link": "/shows/kono-danshi-mahou-ga-oshigoto-desu",
+		"id": 643
+	},
+	{
+		"name": "She and Her Cat - Everything Flows",
+		"link": "/shows/she-and-her-cat-everything-flows",
+		"id": 644
+	},
+	{
+		"name": "DD Hokuto no Ken",
+		"link": "/shows/dd-hokuto-no-ken",
+		"id": 645
+	},
+	{
+		"name": "Hidan no Aria",
+		"link": "/shows/hidan-no-aria",
+		"id": 646
+	},
+	{
+		"name": "Brotherhood - Final Fantasy XV",
+		"link": "/shows/brotherhood-final-fantasy-xv",
+		"id": 647
+	},
+	{
+		"name": "Space Patrol Luluco",
+		"link": "/shows/space-patrol-luluco",
+		"id": 648
+	},
+	{
+		"name": "JoJo's Bizarre Adventure - Diamond is Unbreakable",
+		"link": "/shows/jojos-bizarre-adventure-diamond-is-unbreakable",
+		"id": 650
+	},
+	{
+		"name": "Terra Formars S2",
+		"link": "/shows/terra-formars-s2",
+		"id": 651
+	},
+	{
+		"name": "Mayoiga",
+		"link": "/shows/mayoiga",
+		"id": 653
+	},
+	{
+		"name": "Ace Attorney",
+		"link": "/shows/ace-attorney",
+		"id": 654
+	},
+	{
+		"name": "Kiznaiver",
+		"link": "/shows/kiznaiver",
+		"id": 655
+	},
+	{
+		"name": "Endride",
+		"link": "/shows/endride",
+		"id": 657
+	},
+	{
+		"name": "Mobile Suit Gundam Unicorn RE 0096",
+		"link": "/shows/mobile-suit-gundam-unicorn-re-0096",
+		"id": 658
+	},
+	{
+		"name": "Boku no Hero Academia",
+		"link": "/shows/boku-no-hero-academia",
+		"id": 659
+	},
+	{
+		"name": "Re Zero kara Hajimeru Isekai Seikatsu",
+		"link": "/shows/re-zero-kara-hajimeru-isekai-seikatsu",
+		"id": 660
+	},
+	{
+		"name": "Pan de Peace!",
+		"link": "/shows/pan-de-peace",
+		"id": 661
+	},
+	{
+		"name": "Kuma Miko",
+		"link": "/shows/kuma-miko",
+		"id": 662
+	},
+	{
+		"name": "Macross Delta",
+		"link": "/shows/macross-delta",
+		"id": 663
+	},
+	{
+		"name": "Hundred",
+		"link": "/shows/hundred",
+		"id": 664
+	},
+	{
+		"name": "Bakuon!!",
+		"link": "/shows/bakuon",
+		"id": 665
+	},
+	{
+		"name": "Seisen Cerberus",
+		"link": "/shows/seisen-cerberus",
+		"id": 666
+	},
+	{
+		"name": "Shounen Ashibe Go! Go! Goma-chan",
+		"link": "/shows/shounen-ashibe-go-go-goma-chan",
+		"id": 667
+	},
+	{
+		"name": "Joker Game",
+		"link": "/shows/joker-game",
+		"id": 668
+	},
+	{
+		"name": "Super Lovers",
+		"link": "/shows/super-lovers",
+		"id": 669
+	},
+	{
+		"name": "Bungou Stray Dogs",
+		"link": "/shows/bungou-stray-dogs",
+		"id": 670
+	},
+	{
+		"name": "Bishoujo Yuugi Unit Crane Game Girls",
+		"link": "/shows/bishoujo-yuugi-unit-crane-game-girls",
+		"id": 671
+	},
+	{
+		"name": "Sousei no Onmyouji",
+		"link": "/shows/sousei-no-onmyouji",
+		"id": 672
+	},
+	{
+		"name": "Anne Happy",
+		"link": "/shows/anne-happy",
+		"id": 673
+	},
+	{
+		"name": "Netoge no Yome wa Onnanoko ja Nai to Omotta",
+		"link": "/shows/netoge-no-yome-wa-onnanoko-ja-nai-to-omotta",
+		"id": 674
+	},
+	{
+		"name": "Kabaneri of the Iron Fortress",
+		"link": "/shows/kabaneri-of-the-iron-fortress",
+		"id": 676
+	},
+	{
+		"name": "Shounen Maid",
+		"link": "/shows/shounen-maid",
+		"id": 677
+	},
+	{
+		"name": "Sakamoto desu ga",
+		"link": "/shows/sakamoto-desu-ga",
+		"id": 678
+	},
+	{
+		"name": "Flying Witch",
+		"link": "/shows/flying-witch",
+		"id": 679
+	},
+	{
+		"name": "Tanaka-kun wa Itsumo Kedaruge",
+		"link": "/shows/tanaka-kun-wa-itsumo-kedaruge",
+		"id": 680
+	},
+	{
+		"name": "Haifuri",
+		"link": "/shows/haifuri",
+		"id": 681
+	},
+	{
+		"name": "Sansha Sanyou",
+		"link": "/shows/sansha-sanyou",
+		"id": 682
+	},
+	{
+		"name": "Tonkatsu DJ Agetarou",
+		"link": "/shows/tonkatsu-dj-agetarou",
+		"id": 683
+	},
+	{
+		"name": "Wagamama High Spec",
+		"link": "/shows/wagamama-high-spec",
+		"id": 684
+	},
+	{
+		"name": "Usakame",
+		"link": "/shows/usakame",
+		"id": 685
+	},
+	{
+		"name": "Kuromukuro",
+		"link": "/shows/kuromukuro",
+		"id": 686
+	},
+	{
+		"name": "Onigiri",
+		"link": "/shows/onigiri",
+		"id": 687
+	},
+	{
+		"name": "Big Order",
+		"link": "/shows/big-order",
+		"id": 688
+	},
+	{
+		"name": "Yowamushi Pedal Re RIDE",
+		"link": "/shows/yowamushi-pedal-movies",
+		"id": 691
+	},
+	{
+		"name": "Yowamushi Pedal Re ROAD",
+		"link": "/shows/yowamushi-pedal-movies",
+		"id": 691
+	},
+	{
+		"name": "Yowamushi Pedal The Movie",
+		"link": "/shows/yowamushi-pedal-movies",
+		"id": 691
+	},
+	{
+		"name": "Bonobono",
+		"link": "/shows/bonobono",
+		"id": 694
+	},
+	{
+		"name": "Berserk",
+		"link": "/shows/berserk",
+		"id": 696
+	},
+	{
+		"name": "ReLIFE",
+		"link": "/shows/relife",
+		"id": 697
+	},
+	{
+		"name": "Momokuri",
+		"link": "/shows/momokuri",
+		"id": 698
+	},
+	{
+		"name": "Love Live! Sunshine!!",
+		"link": "/shows/love-live-sunshine",
+		"id": 700
+	},
+	{
+		"name": "Rewrite",
+		"link": "/shows/rewrite",
+		"id": 702
+	},
+	{
+		"name": "Hatsukoi Monster",
+		"link": "/shows/hatsukoi-monster",
+		"id": 703
+	},
+	{
+		"name": "B-Project",
+		"link": "/shows/b-project",
+		"id": 704
+	},
+	{
+		"name": "DAYS",
+		"link": "/shows/days",
+		"id": 705
+	},
+	{
+		"name": "Orange",
+		"link": "/shows/orange",
+		"id": 706
+	},
+	{
+		"name": "Fukigen na Mononokean",
+		"link": "/shows/fukigen-na-mononokean",
+		"id": 708
+	},
+	{
+		"name": "Tales of Zestiria the X",
+		"link": "/shows/tales-of-zestiria-the-x",
+		"id": 709
+	},
+	{
+		"name": "Bananya",
+		"link": "/shows/bananya",
+		"id": 710
+	},
+	{
+		"name": "Puzzle and Dragons Cross",
+		"link": "/shows/puzzle-and-dragons-cross",
+		"id": 711
+	},
+	{
+		"name": "Show By Rock!! Short!!",
+		"link": "/shows/show-by-rock-short",
+		"id": 712
+	},
+	{
+		"name": "Amaama to Inazuma",
+		"link": "/shows/amaama-to-inazuma",
+		"id": 713
+	},
+	{
+		"name": "D.Gray-man Hallow",
+		"link": "/shows/d-gray-man-hallow",
+		"id": 714
+	},
+	{
+		"name": "Taboo Tattoo",
+		"link": "/shows/taboo-tattoo",
+		"id": 715
+	},
+	{
+		"name": "Cheer Danshi!!",
+		"link": "/shows/cheer-danshi",
+		"id": 716
+	},
+	{
+		"name": "Fudanshi Koukou Seikatsu",
+		"link": "/shows/fudanshi-koukou-seikatsu",
+		"id": 717
+	},
+	{
+		"name": "Servamp",
+		"link": "/shows/servamp",
+		"id": 718
+	},
+	{
+		"name": "New Game!",
+		"link": "/shows/new-game",
+		"id": 719
+	},
+	{
+		"name": "Masou Gakuen HxH",
+		"link": "/shows/masou-gakuen-hxh",
+		"id": 720
+	},
+	{
+		"name": "Scared Rider Xechs",
+		"link": "/shows/scared-rider-xechs",
+		"id": 721
+	},
+	{
+		"name": "Tsukiuta. The Animation",
+		"link": "/shows/tsukiuta-the-animation",
+		"id": 722
+	},
+	{
+		"name": "Ozmafia!!",
+		"link": "/shows/ozmafia",
+		"id": 723
+	},
+	{
+		"name": "Fate Kaleid Liner PRISMA ILLYA 3rei!!",
+		"link": "/shows/fate-kaleid-liner-prisma-illya-3rei",
+		"id": 724
+	},
+	{
+		"name": "Regalia - The Three Sacred Stars",
+		"link": "/shows/regalia-the-three-sacred-stars",
+		"id": 725
+	},
+	{
+		"name": "Binan Koukou Chikyuu Bouei-bu Love! S2",
+		"link": "/shows/binan-koukou-chikyuu-bouei-bu-love-s2",
+		"id": 726
+	},
+	{
+		"name": "Kono Bijutsubu ni wa Mondai ga Aru!",
+		"link": "/shows/kono-bijutsubu-ni-wa-mondai-ga-aru",
+		"id": 727
+	},
+	{
+		"name": "Planetarian",
+		"link": "/shows/planetarian",
+		"id": 728
+	},
+	{
+		"name": "Amanchu!",
+		"link": "/shows/amanchu",
+		"id": 729
+	},
+	{
+		"name": "Alderamin on the Sky",
+		"link": "/shows/alderamin-on-the-sky",
+		"id": 730
+	},
+	{
+		"name": "91 Days",
+		"link": "/shows/91-days",
+		"id": 731
+	},
+	{
+		"name": "Thunderbolt Fantasy",
+		"link": "/shows/thunderbolt-fantasy",
+		"id": 732
+	},
+	{
+		"name": "Time Travel Shoujo",
+		"link": "/shows/time-travel-shoujo",
+		"id": 733
+	},
+	{
+		"name": "Handa-kun",
+		"link": "/shows/handa-kun",
+		"id": 734
+	},
+	{
+		"name": "Qualidea Code",
+		"link": "/shows/qualidea-code",
+		"id": 735
+	},
+	{
+		"name": "Hitori no Shita - The Outcast",
+		"link": "/shows/hitori-no-shita-the-outcast",
+		"id": 736
+	},
+	{
+		"name": "Ange Vierge",
+		"link": "/shows/ange-vierge",
+		"id": 737
+	},
+	{
+		"name": "Active Raid S2",
+		"link": "/shows/active-raid-s2",
+		"id": 738
+	},
+	{
+		"name": "Saiki Kusuo no Psi-nan",
+		"link": "/shows/saiki-kusuo-no-psi-nan",
+		"id": 739
+	},
+	{
+		"name": "Danganronpa 3 - Future Arc",
+		"link": "/shows/danganronpa-3-future-arc",
+		"id": 740
+	},
+	{
+		"name": "Mob Psycho 100",
+		"link": "/shows/mob-psycho-100",
+		"id": 741
+	},
+	{
+		"name": "Mob Pyscho 100 OVA",
+		"link": "/shows/mob-psycho-100",
+		"id": 741
+	},
+	{
+		"name": "Mahou Shoujo Naria Girls",
+		"link": "/shows/mahou-shoujo-naria-girls",
+		"id": 742
+	},
+	{
+		"name": "Danganronpa 3 - Despair Arc",
+		"link": "/shows/danganronpa-3-despair-arc",
+		"id": 743
+	},
+	{
+		"name": "Battery",
+		"link": "/shows/battery",
+		"id": 744
+	},
+	{
+		"name": "One Piece - Heart of Gold",
+		"link": "/shows/one-piece-heart-of-gold",
+		"id": 745
+	},
+	{
+		"name": "Gundam Build Fighters Try Island Wars",
+		"link": "/shows/gundam-build-fighters-try-island-wars",
+		"id": 746
+	},
+	{
+		"name": "Persona 5 - THE DAY BREAKERS",
+		"link": "/shows/persona-5-the-day-breakers",
+		"id": 747
+	},
+	{
+		"name": "Mahoutsukai no Yome OVA",
+		"link": "/shows/mahoutsukai-no-yome-ova",
+		"id": 749
+	},
+	{
+		"name": "Heybot!",
+		"link": "/shows/heybot",
+		"id": 750
+	},
+	{
+		"name": "Dream Festival!",
+		"link": "/shows/dream-festival",
+		"id": 751
+	},
+	{
+		"name": "Nyanbo!",
+		"link": "/shows/nyanbo",
+		"id": 752
+	},
+	{
+		"name": "Kaijuu Girls",
+		"link": "/shows/kaijuu-girls",
+		"id": 753
+	},
+	{
+		"name": "Danganronpa 3 - Hope Arc",
+		"link": "/shows/danganronpa-3-hope-arc",
+		"id": 754
+	},
+	{
+		"name": "Time Bokan 24",
+		"link": "/shows/time-bokan-24",
+		"id": 755
+	},
+	{
+		"name": "Bloodivores",
+		"link": "/shows/bloodivores",
+		"id": 756
+	},
+	{
+		"name": "Shuumatsu no Izetta",
+		"link": "/shows/shuumatsu-no-izetta",
+		"id": 757
+	},
+	{
+		"name": "WWW.Working!!",
+		"link": "/shows/www-working",
+		"id": 758
+	},
+	{
+		"name": "Mahou Shoujo Ikusei Keikaku",
+		"link": "/shows/mahou-shoujo-ikusei-keikaku",
+		"id": 759
+	},
+	{
+		"name": "Uta no Prince Sama Legend Star",
+		"link": "/shows/uta-no-prince-sama-legend-star",
+		"id": 760
+	},
+	{
+		"name": "Tiger Mask W",
+		"link": "/shows/tiger-mask-w",
+		"id": 761
+	},
+	{
+		"name": "Cardfight!! Vanguard G NEXT",
+		"link": "/shows/cardfight-vanguard-g-next",
+		"id": 762
+	},
+	{
+		"name": "Monster Hunter Stories Ride On",
+		"link": "/shows/monster-hunter-stories-ride-on",
+		"id": 763
+	},
+	{
+		"name": "Show By Rock!! S2",
+		"link": "/shows/show-by-rock-s2",
+		"id": 765
+	},
+	{
+		"name": "Magic-Kyun! Renaissance",
+		"link": "/shows/magic-kyun-renaissance",
+		"id": 766
+	},
+	{
+		"name": "Okusama ga Seitokaichou! S2 (Uncensored)",
+		"link": "/shows/okusama-ga-seitokaichou-s2-uncensored",
+		"id": 767
+	},
+	{
+		"name": "Touken Ranbu - Hanamaru",
+		"link": "/shows/touken-ranbu-hanamaru",
+		"id": 768
+	},
+	{
+		"name": "Ao Oni The Animation",
+		"link": "/shows/ao-oni-the-animation",
+		"id": 769
+	},
+	{
+		"name": "Gakuen Handsome",
+		"link": "/shows/gakuen-handsome",
+		"id": 770
+	},
+	{
+		"name": "Trickster",
+		"link": "/shows/trickster",
+		"id": 771
+	},
+	{
+		"name": "Shakunetsu no Takkyuu Musume",
+		"link": "/shows/shakunetsu-no-takkyuu-musume",
+		"id": 772
+	},
+	{
+		"name": "Nobunaga no Shinobi",
+		"link": "/shows/nobunaga-no-shinobi",
+		"id": 773
 	},
 	{
 		"name": "Zutto Mae kara Suki deshita",
@@ -5315,9 +3760,599 @@
 		"id": 774
 	},
 	{
-		"name": "ZX IGNITION",
-		"link": "/shows/zx-ignition",
-		"id": 579
+		"name": "Soushin Shoujo Matoi",
+		"link": "/shows/soushin-shoujo-matoi",
+		"id": 775
+	},
+	{
+		"name": "Natsume Yuujinchou Go",
+		"link": "/shows/natsume-yuujinchou-go",
+		"id": 776
+	},
+	{
+		"name": "Natsume Yuujinchou Go Specials",
+		"link": "/shows/natsume-yuujinchou-go",
+		"id": 776
+	},
+	{
+		"name": "Nanbaka",
+		"link": "/shows/nanbaka",
+		"id": 777
+	},
+	{
+		"name": "Cheating Craft",
+		"link": "/shows/cheating-craft",
+		"id": 778
+	},
+	{
+		"name": "TO BE HERO",
+		"link": "/shows/to-be-hero",
+		"id": 779
+	},
+	{
+		"name": "Mahou Shoujo Nante Mou Ii Desukara S2",
+		"link": "/shows/mahou-shoujo-nante-mou-ii-desukara-s2",
+		"id": 781
+	},
+	{
+		"name": "Ani Tore! XX",
+		"link": "/shows/ani-tore-xx",
+		"id": 782
+	},
+	{
+		"name": "Kiitarou Shounen no Youkai Enikki",
+		"link": "/shows/kiitarou-shounen-no-youkai-enikki",
+		"id": 783
+	},
+	{
+		"name": "Bishoujo Yuugi Unit Crane Game Girls Galaxy",
+		"link": "/shows/bishoujo-yuugi-unit-crane-game-girls-galaxy",
+		"id": 784
+	},
+	{
+		"name": "Nazotokine",
+		"link": "/shows/nazotokine",
+		"id": 785
+	},
+	{
+		"name": "Hibike! Euphonium S2",
+		"link": "/shows/hibike-euphonium-s2",
+		"id": 786
+	},
+	{
+		"name": "Brave Witches",
+		"link": "/shows/brave-witches",
+		"id": 788
+	},
+	{
+		"name": "Yuri!!! on Ice",
+		"link": "/shows/yuri-on-ice",
+		"id": 789
+	},
+	{
+		"name": "Flip Flappers",
+		"link": "/shows/flip-flappers",
+		"id": 790
+	},
+	{
+		"name": "Keijo!!!!!!!!",
+		"link": "/shows/keijo",
+		"id": 791
+	},
+	{
+		"name": "All Out!!",
+		"link": "/shows/all-out",
+		"id": 792
+	},
+	{
+		"name": "Bernard Jou Iwaku.",
+		"link": "/shows/bernard-jou-iwaku",
+		"id": 793
+	},
+	{
+		"name": "Drifters",
+		"link": "/shows/drifters",
+		"id": 794
+	},
+	{
+		"name": "Lostorage incited WIXOSS",
+		"link": "/shows/lostorage-incited-wixoss",
+		"id": 795
+	},
+	{
+		"name": "Haikyuu!! S3",
+		"link": "/shows/haikyuu-s3",
+		"id": 796
+	},
+	{
+		"name": "Watashi ga Motete Dousunda",
+		"link": "/shows/watashi-ga-motete-dousunda",
+		"id": 797
+	},
+	{
+		"name": "ClassicaLoid",
+		"link": "/shows/classicaloid",
+		"id": 798
+	},
+	{
+		"name": "Long Riders!",
+		"link": "/shows/long-riders",
+		"id": 799
+	},
+	{
+		"name": "3-gatsu no Lion",
+		"link": "/shows/3-gatsu-no-lion",
+		"id": 800
+	},
+	{
+		"name": "Occultic;Nine",
+		"link": "/shows/occulticnine",
+		"id": 801
+	},
+	{
+		"name": "Sengoku Choujuu Giga",
+		"link": "/shows/sengoku-choujuu-giga",
+		"id": 802
+	},
+	{
+		"name": "Udon no Kuni no Kiniro Kemari",
+		"link": "/shows/udon-no-kuni-no-kiniro-kemari",
+		"id": 803
+	},
+	{
+		"name": "Stella no Mahou",
+		"link": "/shows/stella-no-mahou",
+		"id": 804
+	},
+	{
+		"name": "Soul Buster",
+		"link": "/shows/soul-buster",
+		"id": 805
+	},
+	{
+		"name": "Girlish Number",
+		"link": "/shows/girlish-number",
+		"id": 806
+	},
+	{
+		"name": "Shelter",
+		"link": "/shows/shelter",
+		"id": 807
+	},
+	{
+		"name": "3-Nen D-Gumi Glass no Kamen",
+		"link": "/shows/3-nen-d-gumi-glass-no-kamen",
+		"id": 808
+	},
+	{
+		"name": "Dragon Ball Super",
+		"link": "/shows/dragon-ball-super",
+		"id": 809
+	},
+	{
+		"name": "Kuroko's Basketball Winter Cup Highlights",
+		"link": "/shows/kurokos-basketball-winter-cup-highlights",
+		"id": 810
+	},
+	{
+		"name": "Natsume Yuujinchou - Nyanko-sensei to Hajimete no Otsukai",
+		"link": "/shows/natsume-yuujinchou-nyanko-sensei-to-hajimete-no-otsukai",
+		"id": 811
+	},
+	{
+		"name": "Hagane Orchestra",
+		"link": "/shows/hagane-orchestra",
+		"id": 812
+	},
+	{
+		"name": "Osomatsu-san - Ouma de Kobanashi",
+		"link": "/shows/osomatsu-san-ouma-de-kobanashi",
+		"id": 813
+	},
+	{
+		"name": "Chain Chronicle - Haecceitas no Hikari (Movie)",
+		"link": "/shows/chain-chronicle-haecceitas-no-hikari-movie",
+		"id": 814
+	},
+	{
+		"name": "Koro-sensei Quest!",
+		"link": "/shows/koro-sensei-quest",
+		"id": 815
+	},
+	{
+		"name": "Fate Grand Order - First Order",
+		"link": "/shows/fate-grand-order-first-order",
+		"id": 816
+	},
+	{
+		"name": "Ai-Mai-Mi - Surgical Friends",
+		"link": "/shows/ai-mai-mi-surgical-friends",
+		"id": 817
+	},
+	{
+		"name": "Akiba's Trip The Animation",
+		"link": "/shows/akibas-trip-the-animation",
+		"id": 818
+	},
+	{
+		"name": "Masamune-kun no Revenge",
+		"link": "/shows/masamune-kun-no-revenge",
+		"id": 819
+	},
+	{
+		"name": "Youjo Senki",
+		"link": "/shows/youjo-senki",
+		"id": 821
+	},
+	{
+		"name": "Minami Kamakura Koukou Joshi Jitensha-bu",
+		"link": "/shows/minami-kamakura-koukou-joshi-jitensha-bu",
+		"id": 822
+	},
+	{
+		"name": "Fuuka",
+		"link": "/shows/fuuka",
+		"id": 823
+	},
+	{
+		"name": "Schoolgirl Strikers - Animation Channel",
+		"link": "/shows/schoolgirl-strikers-animation-channel",
+		"id": 824
+	},
+	{
+		"name": "Ao no Exorcist - Kyoto Fujouou-hen",
+		"link": "/shows/ao-no-exorcist-kyoto-fujouou-hen",
+		"id": 825
+	},
+	{
+		"name": "Shouwa Genroku Rakugo Shinjuu S2",
+		"link": "/shows/shouwa-genroku-rakugo-shinjuu-s2",
+		"id": 826
+	},
+	{
+		"name": "Seiren",
+		"link": "/shows/seiren",
+		"id": 827
+	},
+	{
+		"name": "Urara Meirochou",
+		"link": "/shows/urara-meirochou",
+		"id": 828
+	},
+	{
+		"name": "Spiritpact",
+		"link": "/shows/spiritpact",
+		"id": 829
+	},
+	{
+		"name": "Demi-chan wa Kataritai",
+		"link": "/shows/demi-chan-wa-kataritai",
+		"id": 830
+	},
+	{
+		"name": "Chain Chronicle - Haecceitas no Hikari (TV)",
+		"link": "/shows/chain-chronicle-haecceitas-no-hikari-tv",
+		"id": 831
+	},
+	{
+		"name": "Idol Jihen",
+		"link": "/shows/idol-jihen",
+		"id": 832
+	},
+	{
+		"name": "Nyanko Days",
+		"link": "/shows/nyanko-days",
+		"id": 833
+	},
+	{
+		"name": "elDLIVE",
+		"link": "/shows/eldlive",
+		"id": 834
+	},
+	{
+		"name": "Gabriel DropOut",
+		"link": "/shows/gabriel-dropout",
+		"id": 835
+	},
+	{
+		"name": "Chiruran - Nibun no Ichi",
+		"link": "/shows/chiruran-nibun-no-ichi",
+		"id": 836
+	},
+	{
+		"name": "Yowamushi Pedal - New Generation",
+		"link": "/shows/yowamushi-pedal-new-generation",
+		"id": 837
+	},
+	{
+		"name": "ACCA - 13-ku Kansatsu-ka",
+		"link": "/shows/acca-13-ku-kansatsu-ka",
+		"id": 838
+	},
+	{
+		"name": "Hand Shakers",
+		"link": "/shows/hand-shakers",
+		"id": 839
+	},
+	{
+		"name": "Kemono Friends",
+		"link": "/shows/kemono-friends",
+		"id": 840
+	},
+	{
+		"name": "Kobayashi-san Chi no Maid Dragon",
+		"link": "/shows/kobayashi-san-chi-no-maid-dragon",
+		"id": 841
+	},
+	{
+		"name": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+		"link": "/shows/kono-subarashii-sekai-ni-shukufuku-wo-2",
+		"id": 842
+	},
+	{
+		"name": "One Room",
+		"link": "/shows/one-room",
+		"id": 843
+	},
+	{
+		"name": "Piace - Watashi no Italian",
+		"link": "/shows/piace-watashi-no-italian",
+		"id": 844
+	},
+	{
+		"name": "ChaoS;Child",
+		"link": "/shows/chaoschild",
+		"id": 845
+	},
+	{
+		"name": "Marginal#4 - Kiss kara Tsukuru Big Bang",
+		"link": "/shows/marginal4-kiss-kara-tsukuru-big-bang",
+		"id": 846
+	},
+	{
+		"name": "Super Lovers S2",
+		"link": "/shows/super-lovers-s2",
+		"id": 847
+	},
+	{
+		"name": "Kuzu no Honkai",
+		"link": "/shows/kuzu-no-honkai",
+		"id": 848
+	},
+	{
+		"name": "Yami Shibai - Japanese Ghost Stories 4",
+		"link": "/shows/yami-shibai-japanese-ghost-stories-4",
+		"id": 849
+	},
+	{
+		"name": "Granblue Fantasy The Animation",
+		"link": "/shows/granblue-fantasy-the-animation",
+		"id": 850
+	},
+	{
+		"name": "BanG Dream!",
+		"link": "/shows/bang-dream",
+		"id": 851
+	},
+	{
+		"name": "Ao Oni The Animation Movie",
+		"link": "/shows/ao-oni-the-animation-movie",
+		"id": 852
+	},
+	{
+		"name": "The Dragon Dentist",
+		"link": "/shows/the-dragon-dentist",
+		"id": 853
+	},
+	{
+		"name": "Trinity Seven Movie - Eternity Library and Alchemic Girl",
+		"link": "/shows/trinity-seven-movie-eternity-library-and-alchemic-girl",
+		"id": 854
+	},
+	{
+		"name": "Monster Strike 2",
+		"link": "/shows/monster-strike-2",
+		"id": 855
+	},
+	{
+		"name": "Gin no Guardian",
+		"link": "/shows/gin-no-guardian",
+		"id": 856
+	},
+	{
+		"name": "Folktales from Japan S2",
+		"link": "/shows/folktales-from-japan-s2",
+		"id": 857
+	},
+	{
+		"name": "World Fool News Part II",
+		"link": "/shows/world-fool-news-part-ii",
+		"id": 858
+	},
+	{
+		"name": "Alice to Zouroku",
+		"link": "/shows/alice-to-zouroku",
+		"id": 859
+	},
+	{
+		"name": "Sekai no Yami Zukan",
+		"link": "/shows/sekai-no-yami-zukan",
+		"id": 860
+	},
+	{
+		"name": "Warau Salesman NEW",
+		"link": "/shows/warau-salesman-new",
+		"id": 862
+	},
+	{
+		"name": "High School Star Musical S2",
+		"link": "/shows/high-school-star-musical-s2",
+		"id": 863
+	},
+	{
+		"name": "Frame Arms Girl",
+		"link": "/shows/frame-arms-girl",
+		"id": 864
+	},
+	{
+		"name": "THE iDOLM@STER CINDERELLA GIRLS Theater (Web)",
+		"link": "/shows/the-idolmster-cinderella-girls-theater",
+		"id": 866
+	},
+	{
+		"name": "THE iDOLM@STER CINDERELLA GIRLS Theater (TV)",
+		"link": "/shows/the-idolmster-cinderella-girls-theater",
+		"id": 866
+	},
+	{
+		"name": "Rokudenashi Majutsu Koushi to Akashic Records",
+		"link": "/shows/rokudenashi-majutsu-koushi-to-akashic-records",
+		"id": 867
+	},
+	{
+		"name": "Oushitsu Kyoushi Haine",
+		"link": "/shows/oushitsu-kyoushi-haine",
+		"id": 868
+	},
+	{
+		"name": "Boruto - Naruto Next Generations",
+		"link": "/shows/boruto-naruto-next-generations",
+		"id": 869
+	},
+	{
+		"name": "Sakura Quest",
+		"link": "/shows/sakura-quest",
+		"id": 870
+	},
+	{
+		"name": "Busou Shoujo Machiavellianism",
+		"link": "/shows/busou-shoujo-machiavellianism",
+		"id": 871
+	},
+	{
+		"name": "Sagrada Reset",
+		"link": "/shows/sagrada-reset",
+		"id": 872
+	},
+	{
+		"name": "Seikaisuru Kado",
+		"link": "/shows/seikaisuru-kado",
+		"id": 873
+	},
+	{
+		"name": "Tsuki ga Kirei",
+		"link": "/shows/tsuki-ga-kirei",
+		"id": 874
+	},
+	{
+		"name": "Renai Boukun",
+		"link": "/shows/renai-boukun",
+		"id": 875
+	},
+	{
+		"name": "Clockwork Planet",
+		"link": "/shows/clockwork-planet",
+		"id": 876
+	},
+	{
+		"name": "Hinako Note",
+		"link": "/shows/hinako-note",
+		"id": 877
+	},
+	{
+		"name": "Twin Angel BREAK",
+		"link": "/shows/twin-angel-break",
+		"id": 878
+	},
+	{
+		"name": "Love Kome - We Love Rice",
+		"link": "/shows/love-kome-we-love-rice",
+		"id": 879
+	},
+	{
+		"name": "Kabukibu!",
+		"link": "/shows/kabukibu",
+		"id": 880
+	},
+	{
+		"name": "Shingeki no Bahamut - Virgin Soul",
+		"link": "/shows/shingeki-no-bahamut-virgin-soul",
+		"id": 881
+	},
+	{
+		"name": "Eromanga-sensei",
+		"link": "/shows/eromanga-sensei",
+		"id": 882
+	},
+	{
+		"name": "Re-Creators",
+		"link": "/shows/re-creators",
+		"id": 883
+	},
+	{
+		"name": "Uchouten Kazoku S2",
+		"link": "/shows/uchouten-kazoku-s2",
+		"id": 884
+	},
+	{
+		"name": "Tsugumomo",
+		"link": "/shows/tsugumomo",
+		"id": 885
+	},
+	{
+		"name": "Zero kara Hajimeru Mahou no Sho",
+		"link": "/shows/zero-kara-hajimeru-mahou-no-sho",
+		"id": 886
+	},
+	{
+		"name": "Makeruna!! Aku no Gundan!",
+		"link": "/shows/makeruna-aku-no-gundan",
+		"id": 887
+	},
+	{
+		"name": "Fukumenkei Noise",
+		"link": "/shows/fukumenkei-noise",
+		"id": 888
+	},
+	{
+		"name": "Shuumatsu Nani Shitemasuka Isogashii Desuka Sukutte Moratte Ii Desuka",
+		"link": "/shows/shuumatsu-nani-shitemasuka-isogashii-desuka-sukutte-moratte-ii-desuka",
+		"id": 889
+	},
+	{
+		"name": "Natsume Yuujinchou Roku Specials",
+		"link": "/shows/natsume-yuujinchou-roku",
+		"id": 890
+	},
+	{
+		"name": "Natsume Yuujinchou Roku",
+		"link": "/shows/natsume-yuujinchou-roku",
+		"id": 890
+	},
+	{
+		"name": "Kenka Banchou Otome - Girl Beats Boys",
+		"link": "/shows/kenka-banchou-otome-girl-beats-boys",
+		"id": 891
+	},
+	{
+		"name": "Room Mate",
+		"link": "/shows/room-mate",
+		"id": 892
+	},
+	{
+		"name": "Saekano S2",
+		"link": "/shows/saekano-s2",
+		"id": 893
+	},
+	{
+		"name": "DanMachi Gaiden - Sword Oratoria",
+		"link": "/shows/danmachi-gaiden-sword-oratoria",
+		"id": 894
+	},
+	{
+		"name": "Sin - Nanatsu no Taizai",
+		"link": "/shows/sin-nanatsu-no-taizai",
+		"id": 895
 	},
 	{
 		"name": "100% Pascal-sensei",
@@ -5325,11 +4360,976 @@
 		"id": 896
 	},
 	{
+		"name": "PriPri Chii-chan!!",
+		"link": "/shows/pripri-chii-chan",
+		"id": 897
+	},
+	{
+		"name": "Atom - The Beginning",
+		"link": "/shows/atom-the-beginning",
+		"id": 898
+	},
+	{
+		"name": "Blame! Movie",
+		"link": "/shows/blame-movie",
+		"id": 899
+	},
+	{
+		"name": "Koe no Katachi",
+		"link": "/shows/koe-no-katachi",
+		"id": 900
+	},
+	{
+		"name": "Yu-Gi-Oh! VRAINS",
+		"link": "/shows/yu-gi-oh-vrains",
+		"id": 901
+	},
+	{
+		"name": "Monster Strike The Movie",
+		"link": "/shows/monster-strike-the-movie",
+		"id": 902
+	},
+	{
+		"name": "Suki ni Naru Sono Shunkan wo",
+		"link": "/shows/suki-ni-naru-sono-shunkan-wo",
+		"id": 903
+	},
+	{
+		"name": "Hina Logi - From Luck & Logic",
+		"link": "/shows/hina-logi-from-luck-logic",
+		"id": 904
+	},
+	{
+		"name": "Enmusubi no Youko-chan",
+		"link": "/shows/enmusubi-no-youko-chan",
+		"id": 907
+	},
+	{
+		"name": "Katsugeki Touken Ranbu",
+		"link": "/shows/katsugeki-touken-ranbu",
+		"id": 908
+	},
+	{
+		"name": "Knight's & Magic",
+		"link": "/shows/knights-magic",
+		"id": 909
+	},
+	{
+		"name": "Keppeki Danshi! Aoyama-kun",
+		"link": "/shows/keppeki-danshi-aoyama-kun",
+		"id": 910
+	},
+	{
+		"name": "Yami Shibai - Japanese Ghost Stories 5",
+		"link": "/shows/yami-shibai-japanese-ghost-stories-5",
+		"id": 911
+	},
+	{
+		"name": "Battle Girl High School",
+		"link": "/shows/battle-girl-high-school",
+		"id": 912
+	},
+	{
+		"name": "Isekai Shokudou",
+		"link": "/shows/isekai-shokudou",
+		"id": 913
+	},
+	{
+		"name": "Youkai Apartment no Yuuga na Nichijou",
+		"link": "/shows/youkai-apartment-no-yuuga-na-nichijou",
+		"id": 914
+	},
+	{
+		"name": "Koi to Uso",
+		"link": "/shows/koi-to-uso",
+		"id": 915
+	},
+	{
+		"name": "Aho Girl",
+		"link": "/shows/aho-girl",
+		"id": 916
+	},
+	{
+		"name": "Tsurezure Children",
+		"link": "/shows/tsurezure-children",
+		"id": 917
+	},
+	{
+		"name": "Nana Maru San Batsu",
+		"link": "/shows/nana-maru-san-batsu",
+		"id": 918
+	},
+	{
+		"name": "Netsuzou TRap - NTR",
+		"link": "/shows/netsuzou-trap-ntr",
+		"id": 919
+	},
+	{
+		"name": "Saiyuki Reload Blast",
+		"link": "/shows/saiyuki-reload-blast",
+		"id": 920
+	},
+	{
+		"name": "Dive!!",
+		"link": "/shows/dive",
+		"id": 921
+	},
+	{
+		"name": "Konbini Kareshi",
+		"link": "/shows/konbini-kareshi",
+		"id": 922
+	},
+	{
+		"name": "Made in Abyss",
+		"link": "/shows/made-in-abyss",
+		"id": 924
+	},
+	{
+		"name": "Vatican Kiseki Chousakan",
+		"link": "/shows/vatican-kiseki-chousakan",
+		"id": 925
+	},
+	{
+		"name": "Ballroom e Youkoso",
+		"link": "/shows/ballroom-e-youkoso",
+		"id": 926
+	},
+	{
+		"name": "Shoukoku no Altair",
+		"link": "/shows/shoukoku-no-altair",
+		"id": 927
+	},
+	{
+		"name": "18if",
+		"link": "/shows/18if",
+		"id": 928
+	},
+	{
 		"name": "JoJo's Bizarre Adventure - Stardust Crusaders Egypt Arc",
 		"link": "/shows/JoJo's Bizarre Adventure - Stardust Crusaders"
 	},
 	{
+		"name": "Hitorijime My Hero",
+		"link": "/shows/hitorijime-my-hero",
+		"id": 929
+	},
+	{
+		"name": "Princess Principal",
+		"link": "/shows/princess-principal",
+		"id": 930
+	},
+	{
+		"name": "Centaur no Nayami",
+		"link": "/shows/centaur-no-nayami",
+		"id": 931
+	},
+	{
+		"name": "Jikan no Shihaisha",
+		"link": "/shows/jikan-no-shihaisha",
+		"id": 932
+	},
+	{
+		"name": "Action Heroine Cheer Fruits",
+		"link": "/shows/action-heroine-cheer-fruits",
+		"id": 933
+	},
+	{
+		"name": "Tenshi no 3P!",
+		"link": "/shows/tenshi-no-3p",
+		"id": 934
+	},
+	{
+		"name": "Isekai wa Smartphone to Tomo ni.",
+		"link": "/shows/isekai-wa-smartphone-to-tomo-ni",
+		"id": 935
+	},
+	{
+		"name": "New Game!!",
+		"link": "/shows/new-game-2",
+		"id": 936
+	},
+	{
+		"name": "Mahoujin Guru Guru (2017)",
+		"link": "/shows/mahoujin-guru-guru-2017",
+		"id": 937
+	},
+	{
+		"name": "Clione no Akari",
+		"link": "/shows/clione-no-akari",
+		"id": 938
+	},
+	{
+		"name": "Hajimete no Gal",
+		"link": "/shows/hajimete-no-gal",
+		"id": 939
+	},
+	{
+		"name": "Ikemen Sengoku",
+		"link": "/shows/ikemen-sengoku",
+		"id": 940
+	},
+	{
+		"name": "Nora to Oujo to Noraneko Heart",
+		"link": "/shows/nora-to-oujo-to-noraneko-heart",
+		"id": 941
+	},
+	{
+		"name": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+		"link": "/shows/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e",
+		"id": 942
+	},
+	{
+		"name": "Musekinin Galaxy Tylor",
+		"link": "/shows/musekinin-galaxy-tylor",
+		"id": 943
+	},
+	{
+		"name": "Gamers!",
+		"link": "/shows/gamers",
+		"id": 945
+	},
+	{
+		"name": "Jigoku Shoujo - Yoi no Togi",
+		"link": "/shows/jigoku-shoujo-yoi-no-togi",
+		"id": 946
+	},
+	{
+		"name": "The Reflection",
+		"link": "/shows/the-reflection",
+		"id": 947
+	},
+	{
+		"name": "Gundam Build Fighters Battlogue",
+		"link": "/shows/gundam-build-fighters-battlogue",
+		"id": 949
+	},
+	{
+		"name": "Owarimonogatari S2",
+		"link": "/shows/owarimonogatari-s2",
+		"id": 950
+	},
+	{
+		"name": "Little Witch Academia",
+		"link": "/shows/little-witch-academia",
+		"id": 951
+	},
+	{
+		"name": "Dream Festival! R",
+		"link": "/shows/dream-festival-r",
+		"id": 952
+	},
+	{
+		"name": "Gundam Build Fighters GM's Counterattack",
+		"link": "/shows/gundam-build-fighters-gms-counterattack",
+		"id": 953
+	},
+	{
+		"name": "One Piece - Episode of East Blue",
+		"link": "/shows/one-piece-episode-of-east-blue",
+		"id": 954
+	},
+	{
+		"name": "Blade Runner Black Out 2022",
+		"link": "/shows/blade-runner-black-out-2022",
+		"id": 955
+	},
+	{
+		"name": "The iDOLM@STER Side M",
+		"link": "/shows/the-idolmster-side-m",
+		"id": 956
+	},
+	{
+		"name": "Osomatsu-san S2",
+		"link": "/shows/osomatsu-san-s2",
+		"id": 957
+	},
+	{
+		"name": "UQ Holder!",
+		"link": "/shows/uq-holder",
+		"id": 958
+	},
+	{
+		"name": "Black Clover",
+		"link": "/shows/black-clover",
+		"id": 959
+	},
+	{
+		"name": "Sengoku Night Blood",
+		"link": "/shows/sengoku-night-blood",
+		"id": 960
+	},
+	{
+		"name": "Juuni Taisen",
+		"link": "/shows/juuni-taisen",
+		"id": 961
+	},
+	{
+		"name": "Shokugeki no Soma S3",
+		"link": "/shows/shokugeki-no-soma-s3",
+		"id": 962
+	},
+	{
+		"name": "Osake wa Fuufu ni Natte Kara",
+		"link": "/shows/osake-wa-fuufu-ni-natte-kara",
+		"id": 963
+	},
+	{
+		"name": "URAHARA",
+		"link": "/shows/urahara",
+		"id": 964
+	},
+	{
+		"name": "Konohana Kitan",
+		"link": "/shows/konohana-kitan",
+		"id": 965
+	},
+	{
+		"name": "Tsukipro The Animation",
+		"link": "/shows/tsukipro-the-animation",
+		"id": 966
+	},
+	{
+		"name": "Ousama Game",
+		"link": "/shows/ousama-game",
+		"id": 967
+	},
+	{
+		"name": "Just Because!",
+		"link": "/shows/just-because",
+		"id": 968
+	},
+	{
+		"name": "Ame-con!!",
+		"link": "/shows/ame-con",
+		"id": 969
+	},
+	{
+		"name": "Pikotarou no Lullaby Lullaby (Web)",
+		"link": "/shows/pikotarou-no-lullaby-lullaby-web",
+		"id": 970
+	},
+	{
+		"name": "Taishou Chicchai-san",
+		"link": "/shows/taishou-chicchai-san",
+		"id": 971
+	},
+	{
+		"name": "Net-juu no Susume",
+		"link": "/shows/net-juu-no-susume",
+		"id": 972
+	},
+	{
+		"name": "Kino no Tabi (2017)",
+		"link": "/shows/kino-no-tabi-2017",
+		"id": 973
+	},
+	{
+		"name": "Dies Irae",
+		"link": "/shows/dies-irae",
+		"id": 974
+	},
+	{
+		"name": "Shoujo Shuumatsu Ryokou",
+		"link": "/shows/shoujo-shuumatsu-ryokou",
+		"id": 975
+	},
+	{
+		"name": "Yuki Yuna wa Yusha de Aru - Washio Sumi no Shou",
+		"link": "/shows/yuki-yuna-wa-yusha-de-aru-washio-sumi-no-shou",
+		"id": 976
+	},
+	{
+		"name": "ID-0",
+		"link": "/shows/id-0",
+		"id": 978
+	},
+	{
+		"name": "Time Bokan 24 S2",
+		"link": "/shows/time-bokan-24-s2",
+		"id": 979
+	},
+	{
+		"name": "Code Realize - Sousei no Himegimi",
+		"link": "/shows/code-realize-sousei-no-himegimi",
+		"id": 980
+	},
+	{
+		"name": "Garo - Vanishing Line",
+		"link": "/shows/garo-vanishing-line",
+		"id": 981
+	},
+	{
+		"name": "ClassicaLoid S2",
+		"link": "/shows/classicaloid-s2",
+		"id": 982
+	},
+	{
+		"name": "Dynamic Chord",
+		"link": "/shows/dynamic-chord",
+		"id": 983
+	},
+	{
+		"name": "Love Live! Sunshine!! S2",
+		"link": "/shows/love-live-sunshine-s2",
+		"id": 984
+	},
+	{
+		"name": "Monster Strike 3",
+		"link": "/shows/monster-strike-3",
+		"id": 985
+	},
+	{
+		"name": "Two Car",
+		"link": "/shows/two-car",
+		"id": 986
+	},
+	{
+		"name": "Blend S",
+		"link": "/shows/blend-s",
+		"id": 987
+	},
+	{
+		"name": "Mahoutsukai no Yome",
+		"link": "/shows/mahoutsukai-no-yome",
+		"id": 988
+	},
+	{
+		"name": "Houseki no Kuni",
+		"link": "/shows/houseki-no-kuni",
+		"id": 989
+	},
+	{
+		"name": "Kekkai Sensen & Beyond",
+		"link": "/shows/kekkai-sensen-beyond",
+		"id": 990
+	},
+	{
+		"name": "Hozuki no Reitetsu S2",
+		"link": "/shows/hozuki-no-reitetsu-s2",
+		"id": 991
+	},
+	{
+		"name": "Cardfight!! Vanguard G Z",
+		"link": "/shows/cardfight-vanguard-g-z",
+		"id": 992
+	},
+	{
+		"name": "Animegataris",
+		"link": "/shows/animegataris",
+		"id": 993
+	},
+	{
+		"name": "Imouto sae Ireba Ii.",
+		"link": "/shows/imouto-sae-ireba-ii",
+		"id": 994
+	},
+	{
+		"name": "Himouto! Umaru-chan R",
+		"link": "/shows/himouto-umaru-chan-r",
+		"id": 995
+	},
+	{
+		"name": "Love Kome S2",
+		"link": "/shows/love-kome-s2",
+		"id": 996
+	},
+	{
+		"name": "Wake Up, Girls! Shin Shou",
+		"link": "/shows/wake-up-girls-shin-shou",
+		"id": 998
+	},
+	{
+		"name": "Evil or Live",
+		"link": "/shows/evil-or-live",
+		"id": 999
+	},
+	{
+		"name": "Onyankopon",
+		"link": "/shows/onyankopon",
+		"id": 1000
+	},
+	{
+		"name": "Boku no Kanojo ga Majimesugiru Sho-bitch na Ken",
+		"link": "/shows/boku-no-kanojo-ga-majimesugiru-sho-bitch-na-ken",
+		"id": 1001
+	},
+	{
+		"name": "Inuyashiki",
+		"link": "/shows/inuyashiki",
+		"id": 1002
+	},
+	{
+		"name": "IDOLiSH7",
+		"link": "/shows/idolish7",
+		"id": 1004
+	},
+	{
+		"name": "Binan Koukou Chikyuu Bouei-bu Love! Love! Love!",
+		"link": "/shows/binan-koukou-chikyuu-bouei-bu-love-love-love",
+		"id": 1005
+	},
+	{
+		"name": "Yuki Yuna wa Yusha de Aru - Yusha no Shou",
+		"link": "/shows/yuki-yuna-wa-yusha-de-aru-yusha-no-shou",
+		"id": 1006
+	},
+	{
+		"name": "Itsudatte Bokura no Koi wa 10 cm Datta.",
+		"link": "/shows/itsudatte-bokura-no-koi-wa-10-cm-datta",
+		"id": 1007
+	},
+	{
+		"name": "Sora yori mo Tooi Basho",
+		"link": "/shows/sora-yori-mo-tooi-basho",
+		"id": 1008
+	},
+	{
+		"name": "Ramen Daisuki Koizumi-san",
+		"link": "/shows/ramen-daisuki-koizumi-san",
+		"id": 1009
+	},
+	{
+		"name": "Yuru Camp",
+		"link": "/shows/yuru-camp",
+		"id": 1010
+	},
+	{
+		"name": "Devilman Crybaby",
+		"link": "/shows/devilman-crybaby",
+		"id": 1011
+	},
+	{
+		"name": "Toji no Miko",
+		"link": "/shows/toji-no-miko",
+		"id": 1012
+	},
+	{
+		"name": "Grancrest Senki",
+		"link": "/shows/grancrest-senki",
+		"id": 1013
+	},
+	{
+		"name": "Ito Junji Collection",
+		"link": "/shows/ito-junji-collection",
+		"id": 1014
+	},
+	{
+		"name": "Hataraku Onii-san!",
+		"link": "/shows/hataraku-onii-san",
+		"id": 1015
+	},
+	{
+		"name": "Sanrio Danshi",
+		"link": "/shows/sanrio-danshi",
+		"id": 1016
+	},
+	{
+		"name": "Citrus",
+		"link": "/shows/citrus",
+		"id": 1017
+	},
+	{
+		"name": "Slow Start",
+		"link": "/shows/slow-start",
+		"id": 1018
+	},
+	{
+		"name": "Pop Team Epic",
+		"link": "/shows/pop-team-epic",
+		"id": 1019
+	},
+	{
+		"name": "Cardcaptor Sakura Clear Card",
+		"link": "/shows/cardcaptor-sakura-clear-card",
+		"id": 1020
+	},
+	{
+		"name": "Mitsuboshi Colors",
+		"link": "/shows/mitsuboshi-colors",
+		"id": 1021
+	},
+	{
+		"name": "Gakuen Babysitters",
+		"link": "/shows/gakuen-babysitters",
+		"id": 1022
+	},
+	{
+		"name": "Kokkoku",
+		"link": "/shows/kokkoku",
+		"id": 1023
+	},
+	{
+		"name": "Ryuuou no Oshigoto!",
+		"link": "/shows/ryuuou-no-oshigoto",
+		"id": 1024
+	},
+	{
+		"name": "Karakai Jouzu no Takagi-san",
+		"link": "/shows/karakai-jouzu-no-takagi-san",
+		"id": 1025
+	},
+	{
+		"name": "Micchiri Neko",
+		"link": "/shows/micchiri-neko",
+		"id": 1026
+	},
+	{
+		"name": "Basilisk - Ouka Ninpouchou",
+		"link": "/shows/basilisk-ouka-ninpouchou",
+		"id": 1027
+	},
+	{
+		"name": "Yowamushi Pedal - Glory Line",
+		"link": "/shows/yowamushi-pedal-glory-line",
+		"id": 1029
+	},
+	{
+		"name": "Overlord II",
+		"link": "/shows/overlord-ii",
+		"id": 1030
+	},
+	{
+		"name": "Kaijuu Girls S2",
+		"link": "/shows/kaijuu-girls-s2",
+		"id": 1031
+	},
+	{
+		"name": "Hitori no Shita - The Outcast S2",
+		"link": "/shows/hitori-no-shita-the-outcast-s2",
+		"id": 1032
+	},
+	{
+		"name": "Dame x Prince Anime Caravan",
+		"link": "/shows/dame-x-prince-anime-caravan",
+		"id": 1033
+	},
+	{
+		"name": "Violet Evergarden",
+		"link": "/shows/violet-evergarden",
+		"id": 1034
+	},
+	{
+		"name": "Death March kara Hajimaru Isekai Kyousoukyoku",
+		"link": "/shows/death-march-kara-hajimaru-isekai-kyousoukyoku",
+		"id": 1035
+	},
+	{
+		"name": "Koi wa Ameagari no You ni",
+		"link": "/shows/koi-wa-ameagari-no-you-ni",
+		"id": 1036
+	},
+	{
+		"name": "Marchen Madchen",
+		"link": "/shows/marchen-madchen",
+		"id": 1037
+	},
+	{
+		"name": "Miira no Kaikata",
+		"link": "/shows/miira-no-kaikata",
+		"id": 1038
+	},
+	{
+		"name": "Hakumei to Mikochi",
+		"link": "/shows/hakumei-to-mikochi",
+		"id": 1039
+	},
+	{
+		"name": "Hakata Tonkotsu Ramens",
+		"link": "/shows/hakata-tonkotsu-ramens",
+		"id": 1040
+	},
+	{
+		"name": "Killing Bites",
+		"link": "/shows/killing-bites",
+		"id": 1041
+	},
+	{
+		"name": "Hakyuu Houshin Engi",
+		"link": "/shows/hakyuu-houshin-engi",
+		"id": 1042
+	},
+	{
+		"name": "Takunomi",
+		"link": "/shows/takunomi",
+		"id": 1043
+	},
+	{
+		"name": "Gegege no Kitarou (2018)",
+		"link": "/shows/gegege-no-kitarou-2018",
+		"id": 1058
+	},
+	{
 		"name": "Wake Up, Girls! New Chapter",
 		"link": "/shows/wake-up-girls-new-chapter"
+	},
+	{
+		"name": "Gin no Guardian S2",
+		"link": "/shows/gin-no-guardian-s2",
+		"id": 1044
+	},
+	{
+		"name": "Godzilla - Kaijuu Wakusei",
+		"link": "/shows/godzilla-kaijuu-wakusei",
+		"id": 1050
+	},
+	{
+		"name": "Golden Kamuy",
+		"link": "/shows/golden-kamuy",
+		"id": 1090
+	},
+	{
+		"name": "Fumikiri Jikan",
+		"link": "/shows/fumikiri-jikan",
+		"id": 1091
+	},
+	{
+		"name": "Full Metal Panic! Invisible Victory",
+		"link": "/shows/full-metal-panic-invisible-victory",
+		"id": 1100
+	},
+	{
+		"name": "Wotaku ni Koi wa Muzukashii",
+		"link": "/shows/wotaku-ni-koi-wa-muzukashii",
+		"id": 1098
+	},
+	{
+		"name": "Gundam Build Divers",
+		"link": "/shows/gundam-build-divers",
+		"id": 1063
+	},
+	{
+		"name": "Emiya-san Chi no Kyou no Gohan",
+		"link": "/shows/emiya-san-chi-no-kyou-no-gohan",
+		"id": 1051
+	},
+	{
+		"name": "Gurazeni",
+		"link": "/shows/gurazeni",
+		"id": 1074
+	},
+	{
+		"name": "High School DxD Hero",
+		"link": "/shows/high-school-dxd-hero",
+		"id": 1096
+	},
+	{
+		"name": "Dorei-ku The Animation",
+		"link": "/shows/dorei-ku-the-animation",
+		"id": 1097
+	},
+	{
+		"name": "Hinamatsuri",
+		"link": "/shows/hinamatsuri",
+		"id": 1078
+	},
+	{
+		"name": "Devils Line",
+		"link": "/shows/devils-line",
+		"id": 1080
+	},
+	{
+		"name": "Isekai Izakaya - Koto Aitheria no Izakaya Nobu",
+		"link": "/shows/isekai-izakaya-koto-aitheria-no-izakaya-nobu",
+		"id": 1099
+	},
+	{
+		"name": "Kakuriyo no Yadomeshi",
+		"link": "/shows/kakuriyo-no-yadomeshi",
+		"id": 1060
+	},
+	{
+		"name": "Darling in the FranXX",
+		"link": "/shows/darling-in-the-franxx",
+		"id": 1045
+	},
+	{
+		"name": "Uma Musume - Pretty Derby",
+		"link": "/shows/uma-musume-pretty-derby",
+		"id": 1059
+	},
+	{
+		"name": "Dagashi Kashi S2",
+		"link": "/shows/dagashi-kashi-s2",
+		"id": 1046
+	},
+	{
+		"name": "Cutie Honey Universe",
+		"link": "/shows/cutie-honey-universe",
+		"id": 1087
+	},
+	{
+		"name": "Comic Girls",
+		"link": "/shows/comic-girls",
+		"id": 1072
+	},
+	{
+		"name": "Uchuu Senkan Tiramisu",
+		"link": "/shows/uchuu-senkan-tiramisu",
+		"id": 1061
+	},
+	{
+		"name": "Last Period - Owarinaki Rasen no Monogatari",
+		"link": "/shows/last-period-owarinaki-rasen-no-monogatari",
+		"id": 1093
+	},
+	{
+		"name": "Legend of the Galactic Heroes - Die Neue These",
+		"link": "/shows/legend-of-the-galactic-heroes-die-neue-these",
+		"id": 1064
+	},
+	{
+		"name": "Lostorage Conflated WIXOSS",
+		"link": "/shows/lostorage-conflated-wixoss",
+		"id": 1076
+	},
+	{
+		"name": "Lupin III Part V",
+		"link": "/shows/lupin-iii-part-v",
+		"id": 1066
+	},
+	{
+		"name": "Mahou Shoujo Site",
+		"link": "/shows/mahou-shoujo-site",
+		"id": 1077
+	},
+	{
+		"name": "gdgd men's party",
+		"link": "/shows/gdgd-mens-party",
+		"id": 1049
+	},
+	{
+		"name": "Major 2nd",
+		"link": "/shows/major-2nd",
+		"id": 1079
+	},
+	{
+		"name": "Megalo Box",
+		"link": "/shows/megalo-box",
+		"id": 1071
+	},
+	{
+		"name": "Tokyo Ghoul re",
+		"link": "/shows/tokyo-ghoul-re",
+		"id": 1068
+	},
+	{
+		"name": "Caligula",
+		"link": "/shows/caligula",
+		"id": 1086
+	},
+	{
+		"name": "Nil Admirari no Tenbin - Teito Genwaku Kitan",
+		"link": "/shows/nil-admirari-no-tenbin-teito-genwaku-kitan",
+		"id": 1085
+	},
+	{
+		"name": "Omae wa Mada Gunma wo Shiranai",
+		"link": "/shows/omae-wa-mada-gunma-wo-shiranai",
+		"id": 1081
+	},
+	{
+		"name": "Butlers - Chitose Momotose Monogatari",
+		"link": "/shows/butlers-chitose-momotose-monogatari",
+		"id": 1094
+	},
+	{
+		"name": "Persona 5 The Animation",
+		"link": "/shows/persona-5-the-animation",
+		"id": 1084
+	},
+	{
+		"name": "Rokuhoudou Yotsuiro Biyori",
+		"link": "/shows/rokuhoudou-yotsuiro-biyori",
+		"id": 1092
+	},
+	{
+		"name": "Saredo Tsumibito wa Ryuu to Odoru",
+		"link": "/shows/saredo-tsumibito-wa-ryuu-to-odoru",
+		"id": 1073
+	},
+	{
+		"name": "Souten no Ken Re-Genesis",
+		"link": "/shows/souten-no-ken-re-genesis",
+		"id": 1062
+	},
+	{
+		"name": "Spiritpact S2",
+		"link": "/shows/spiritpact-s2",
+		"id": 1052
+	},
+	{
+		"name": "Binan Koukou Chikyuu Bouei-bu Love! S3",
+		"link": "/shows/binan-koukou-chikyuu-bouei-bu-love-s3",
+		"id": 1088
+	},
+	{
+		"name": "Steins Gate 0",
+		"link": "/shows/steins-gate-0",
+		"id": 1095
+	},
+	{
+		"name": "Beatless",
+		"link": "/shows/beatless",
+		"id": 1047
+	},
+	{
+		"name": "Sword Art Online Alternative - Gun Gale Online",
+		"link": "/shows/sword-art-online-alternative-gun-gale-online",
+		"id": 1082
+	},
+	{
+		"name": "B - The Beginning",
+		"link": "/shows/b-the-beginning",
+		"id": 1053
+	},
+	{
+		"name": "Sword Gai The Animation",
+		"link": "/shows/sword-gai-the-animation",
+		"id": 1056
+	},
+	{
+		"name": "Tachibanakan To Lie Angle",
+		"link": "/shows/tachibanakan-to-lie-angle",
+		"id": 1065
+	},
+	{
+		"name": "Amanchu! Advance",
+		"link": "/shows/amanchu-advance",
+		"id": 1083
+	},
+	{
+		"name": "Alice or Alice",
+		"link": "/shows/alice-or-alice",
+		"id": 1069
+	},
+	{
+		"name": "Zoku Touken Ranbu - Hanamaru",
+		"link": "/shows/zoku-touken-ranbu-hanamaru",
+		"id": 1048
+	},
+	{
+		"name": "Akkun to Kanojo",
+		"link": "/shows/akkun-to-kanojo",
+		"id": 1075
+	},
+	{
+		"name": "Tada-kun wa Koi wo Shinai",
+		"link": "/shows/tada-kun-wa-koi-wo-shinai",
+		"id": 1070
+	},
+	{
+		"name": "A.I.C.O. - Incarnation",
+		"link": "/shows/a-i-c-o-incarnation",
+		"id": 1054
+	},
+	{
+		"name": "3D Kanojo Real Girl",
+		"link": "/shows/3d-kanojo-real-girl",
+		"id": 1067
+	},
+	{
+		"name": "Chi's Sweet Adventure S2",
+		"link": "/shows/chis-sweet-adventure-s2",
+		"id": 1089
 	}
 ]

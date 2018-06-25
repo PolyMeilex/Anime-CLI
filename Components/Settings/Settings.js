@@ -4,14 +4,18 @@ let SettingsOBJ = null;
 
 class Settings {
   constructor() {
-    this.fileData = fs.readFileSync(__dirname + "/Settings.json", "utf8");
+    if (!fs.existsSync(cfgPath + "/Settings.json")) {
+      let def = fs.readFileSync(__dirname + "/Def-Settings.json", "utf8");
+      fs.writeFileSync(cfgPath + "/Settings.json", def);
+    }
+    this.fileData = fs.readFileSync(cfgPath + "/Settings.json", "utf8");
     this.fileData = JSON.parse(this.fileData);
   }
 
   Write(k, v) {
     this.fileData[k] = v;
     fs.writeFileSync(
-      __dirname + "/Settings.json",
+      cfgPath + "/Settings.json",
       JSON.stringify(this.fileData, null, "\t")
     );
   }
