@@ -43,7 +43,7 @@ const EpisodeParser = async AnimeObj => {
   console.log("Link Parser... Timeout = " + Conf.Read("Link-Timeout") + "ms");
 
   list = await getLinks(list, AnimeObj.BaseURL);
-  list = await getRawLinks(list);
+  // list = await getRawLinks(list);
 
   const name = AnimeObj.text;
   const obj = { name, eps: list };
