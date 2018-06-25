@@ -28,8 +28,8 @@ It will be fixed in future (-:~~
 
 # Supported Hostings
 - KissAnime
-- Anime GOGo
-- ~~HorribleSubs Torrents~~ (Coming Soon)
+- Anime GOGO
+- ~~HorribleSubs Torrents~~ (Comming Soon)
 
 # Small Notes
 
