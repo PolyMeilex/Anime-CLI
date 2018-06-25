@@ -138,7 +138,7 @@ module.exports = async () => {
 
     new Line(outputBuffer)
       .column("Name", 20, [clc.cyan])
-      .column("Percent", 20, [clc.cyan])
+      .column("Speed", 20, [clc.cyan])
       .column("Progress", 50, [clc.cyan])
       .fill()
       .store();
@@ -153,7 +153,7 @@ module.exports = async () => {
 
       new Line(outputBuffer)
         .column(d.name, 20)
-        .column(`${Math.round(state.percent * 100 * 1000) / 1000}`, 20)
+        .column(`${Math.round(state.speed * 0.000001 * 100) / 100} Mbps`, 20)
         .column(thisProgressBar.update(state.percent * 100, 100), 50)
         .fill()
         .store();
@@ -218,8 +218,13 @@ module.exports = async () => {
     }
   }
 
-  if (obj.host == "KA" || obj.host == null) {
+  if (obj.host == null) {
     const GetRawLinks = require("../Hostings/KA/LinkParsers/GetRawLinks");
+    list = await GetRawLinks(list);
+  } else {
+    const GetRawLinks = require("../Hostings/" +
+      obj.host +
+      "/LinkParsers/GetRawLinks");
     list = await GetRawLinks(list);
   }
 

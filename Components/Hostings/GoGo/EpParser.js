@@ -7,6 +7,8 @@ const Spinner = CLI.Spinner;
 
 const Conf = require("../../Settings/Settings");
 
+const getRawLinks = require("./LinkParsers/GetRawLinks");
+
 const EpisodeParser = async AnimeObj => {
   let body = await rp(`${AnimeObj.BaseURL}/${AnimeObj.url}`);
 
@@ -66,33 +68,6 @@ const getLinks = (list, BaseURL) => {
           // console.log(links);
           downloaded++;
           countdown.message("Parsed " + downloaded + " Links...  ");
-
-          if (downloaded == list.length) {
-            countdown.stop();
-            res(list);
-          }
-        });
-      };
-      setTimeout(func, i * Conf.Read("Link-Timeout"));
-    }
-  });
-};
-
-const getRawLinks = list => {
-  return new Promise((res, rej) => {
-    let downloaded = 0;
-    let countdown = new Spinner("Starting...  ");
-
-    countdown.start();
-
-    for (let i = 0; i < list.length; i++) {
-      let func = () => {
-        rp(list[i].Downloadlink).then(body => {
-          let $ = cheerio.load(body);
-          list[i].rawLink = $(".dowload a").attr("href");
-          // console.log(links);
-          downloaded++;
-          countdown.message("Parsed " + downloaded + " Raw Links...  ");
 
           if (downloaded == list.length) {
             countdown.stop();

@@ -45,6 +45,8 @@ try {
 //
 const rp = require("request-promise-native");
 
+let ui = new inquirer.ui.BottomBar();
+
 const start = async () => {
   let latest = null;
   let current = null;
@@ -60,8 +62,8 @@ const start = async () => {
   } catch (e) {}
 
   if (latest != current) {
-    process.stdout.write(
-      chalk.red("  This version is outdated, run 'npm i -g anime-cli' ")
+    ui.updateBottomBar(
+      chalk.red("This version is outdated, run 'npm i -g anime-cli' ")
     );
   }
 };

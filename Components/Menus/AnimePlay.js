@@ -44,6 +44,11 @@ module.exports = async () => {
       obj.eps[i].link
     );
     obj.eps[i].rawLink = RawLink;
+  } else {
+    let RawLink = await require("../Hostings/" +
+      obj.host +
+      "/LinkParsers/GetRawLink")(obj.eps[i]);
+    obj.eps[i].rawLink = RawLink;
   }
 
   opn(obj.eps[i].rawLink);
