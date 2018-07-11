@@ -182,8 +182,13 @@ module.exports = async () => {
         d.state = state;
         this.draw();
       });
+      d.progress.on("error", err => {});
       d.progress.on("end", () => {
-        d.state.percent = 1;
+        if (d.state) d.state.percent = 1;
+        else {
+          d.state = {};
+          d.state.percent = 0;
+        }
         d.done = true;
 
         // this.Dobjects.splice(i, 1);
@@ -232,6 +237,10 @@ module.exports = async () => {
   list = list.map(ep => new Dobject(ep));
 
   let Allowed = true;
+
+  //
+  // Overwrite Check
+  //
 
   try {
     const dir = fs.readdirSync(DownloadPath + "/Downloads/" + AnimeName);
