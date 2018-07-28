@@ -79,13 +79,14 @@ const start = async () => {
 };
 
 // start();
-const mode = "web-ui";
-// const mode = "cli";
+// const mode = "web-ui";
+const mode = "cli";
 
 if (mode === "cli") {
   start();
   inquirerMenager.OpenMainMenu(" ");
 } else if (mode === "web-ui") {
+  console.log(CliLogo);
   require("./Components/WebServer/server")();
 }
 
