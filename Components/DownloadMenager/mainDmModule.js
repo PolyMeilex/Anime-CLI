@@ -4,9 +4,13 @@ const fs = require("fs");
 
 
 class DownloadMenager {
-  constructor(Dobjects,webMode) {
+  constructor(AnimeName,Dobjects,webMode) {
     if(!webMode) webMode = false;
 
+    const mkdirp = require("mkdirp");
+    mkdirp.sync(DownloadPath + "/Downloads/" + AnimeName);
+
+    this.AnimeName = AnimeName;
     this.webMode = webMode;
     this.Dobjects = Dobjects;
     this.LastDownloading = 0;
@@ -14,14 +18,10 @@ class DownloadMenager {
 
   draw() {
     if(!this.webMode){
-        var drawMod = require("./CliRenderer");
+        let drawMod = require("./CliRenderer");
+        let binded = drawMod.bind(this);
+        binded();
     }
-    else{
-        var drawMod = require("./WebWrapper");
-    }
-    
-    let binded = drawMod.bind(this);
-    binded();
   }
 
   InitDownload(i = 0) {
@@ -55,7 +55,7 @@ class DownloadMenager {
 
     d.progress.pipe(
       fs.createWriteStream(
-        DownloadPath + "/Downloads/" + AnimeName + "/" + d.name + ".mp4"
+        DownloadPath + "/Downloads/" + this.AnimeName + "/" + d.name + ".mp4"
       )
     );
     this.LastDownloading = i;

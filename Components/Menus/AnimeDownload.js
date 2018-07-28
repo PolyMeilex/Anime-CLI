@@ -171,7 +171,7 @@ module.exports = async () => {
 
 
   if (Allowed) {
-    let dm = new DownloadMenager(list);
+    let dm = new DownloadMenager(AnimeName,list);
     dm.draw();
 
     for (let i = 0; i < Conf.Read("Max-Downloads"); i++) dm.InitDownload(i);
