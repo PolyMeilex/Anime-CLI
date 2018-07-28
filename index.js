@@ -78,8 +78,17 @@ const start = async () => {
   }
 };
 
-start();
+// start();
+const mode = "web-ui";
+// const mode = "cli";
 
-inquirerMenager.OpenMainMenu(" ");
+if (mode === "cli") {
+  start();
+  inquirerMenager.OpenMainMenu(" ");
+} else if (mode === "web-ui") {
+  require("./Components/WebServer/server")();
+}
+
+// inquirerMenager.OpenMainMenu(" ");
 
 // require("./Components/Menus/AddAnime")();
