@@ -28,11 +28,11 @@ app.get("/add", async (req, res) => {
 
   const addfromKa = require("../Hostings/KA/AddFromKAModule");
 
-  await addfromKa(name,cookie);
+  await addfromKa(name, cookie);
 
   res.set("Access-Control-Allow-Origin", "*");
   res.json(true);
-})
+});
 
 app.get("/remove", async (req, res) => {
   const FileName = req.param("name", "");
@@ -41,14 +41,14 @@ app.get("/remove", async (req, res) => {
 
   res.set("Access-Control-Allow-Origin", "*");
   res.json(true);
-})
+});
 
 app.get("/getfiles", async (req, res) => {
   let dir = fs.readdirSync(cfgPath + "/Anime");
   dir = dir.filter(name => path.extname(name) == ".json");
 
   dir = dir.map(anime => {
-    let obj = JSON.parse(fs.readFileSync(cfgPath + "/Anime/" + anime, "utf8"))
+    let obj = JSON.parse(fs.readFileSync(cfgPath + "/Anime/" + anime, "utf8"));
     obj.filename = anime;
     return obj;
   });
@@ -57,12 +57,11 @@ app.get("/getfiles", async (req, res) => {
   res.json(dir);
 });
 
-
 //
 // D M
 //
 
-let DownloadMenager;
+let DownloadMenager = {};
 
 app.get("/startDM", async (req, res) => {
   let obj = req.param("obj", null);
@@ -73,14 +72,12 @@ app.get("/startDM", async (req, res) => {
 
   res.set("Access-Control-Allow-Origin", "*");
   res.json(DownloadMenager);
-})
-
+});
 
 app.get("/getdm", async (req, res) => {
   res.set("Access-Control-Allow-Origin", "*");
   res.json(DownloadMenager);
-})
-
+});
 
 const start = () => {
   app.listen(3131, () => console.log("App Running on port 3131!"));

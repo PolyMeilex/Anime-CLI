@@ -17,7 +17,7 @@ const wrapp = async obj => {
 
   let list = obj.eps.map(ep => new Dobject(ep));
 
-  let dm = new DownloadMenager(obj.name,list);
+  let dm = new DownloadMenager(obj.name, list, true);
   dm.draw();
 
   for (let i = 0; i < Conf.Read("Max-Downloads"); i++) dm.InitDownload(i);
