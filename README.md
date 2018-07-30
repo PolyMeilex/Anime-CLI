@@ -29,4 +29,11 @@ It will be fixed in future (-:~~
 # Supported Hostings
 - KissAnime
 - Anime GOGO
-- ~~HorribleSubs Torrents~~ (Comming Soon)
+- ~~HorribleSubs Torrents~~ ~~(Comming Soon)~~
+
+# WIP
+## HorribleSubs Torrents (On Hold)
+
+## Web Panel 
+![Preview](https://i.imgur.com/kqcBLTg.png)
+
