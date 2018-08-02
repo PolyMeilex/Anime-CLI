@@ -1,7 +1,12 @@
 const express = require("express");
+const bodyParser = require("body-parser");
+const cors = require("cors");
+
 let cookie;
 
 const app = express();
+app.use(bodyParser.json());
+app.use(cors());
 
 const fs = require("fs");
 const path = require("path");
@@ -9,7 +14,7 @@ const path = require("path");
 app.get("/getcookie", async (req, res) => {
   const cookieGet = await require("../Hostings/KA/CookeParser")();
   cookie = cookieGet + " ";
-  res.set("Access-Control-Allow-Origin", "*");
+
   res.send(cookieGet + " ");
 });
 
@@ -19,7 +24,6 @@ app.get("/find", async (req, res) => {
 
   let re = await require("../Hostings/KA/AnimeSearchModule")(keyword, cookie);
 
-  res.set("Access-Control-Allow-Origin", "*");
   res.json(re);
 });
 
@@ -30,7 +34,6 @@ app.get("/add", async (req, res) => {
 
   await addfromKa(name, cookie);
 
-  res.set("Access-Control-Allow-Origin", "*");
   res.json(true);
 });
 
@@ -39,7 +42,6 @@ app.get("/remove", async (req, res) => {
 
   fs.unlinkSync(cfgPath + "/Anime/" + FileName);
 
-  res.set("Access-Control-Allow-Origin", "*");
   res.json(true);
 });
 
@@ -53,7 +55,6 @@ app.get("/getfiles", async (req, res) => {
     return obj;
   });
 
-  res.set("Access-Control-Allow-Origin", "*");
   res.json(dir);
 });
 
@@ -61,22 +62,34 @@ app.get("/getfiles", async (req, res) => {
 // D M
 //
 
-let DownloadMenager = {};
+let DownloadMenager = null;
 
-app.get("/startDM", async (req, res) => {
-  let obj = req.param("obj", null);
+app.post("/startDM", async (req, res) => {
+  const obj = req.body;
+  const force = req.param("force", 0);
 
-  obj = JSON.parse(obj);
+  let output = null;
 
-  DownloadMenager = await require("../DownloadMenager/WebWrapper")(obj);
+  if (DownloadMenager == null || force == 1) {
+    DownloadMenager = await require("../DownloadMenager/WebWrapper")(obj);
+    output = DownloadMenager;
+  } else {
+    output = {
+      e:
+        "Server detected another download menager in background, there is no function to chcek if all downloads in this DM are done. Do you want to overwrite old DM ? "
+    };
+  }
 
-  res.set("Access-Control-Allow-Origin", "*");
-  res.json(DownloadMenager);
+  res.json(output);
 });
 
 app.get("/getdm", async (req, res) => {
-  res.set("Access-Control-Allow-Origin", "*");
-  res.json(DownloadMenager);
+  let output = null;
+
+  if (DownloadMenager == null) output = {};
+  else output = DownloadMenager;
+
+  res.json(output);
 });
 
 const start = () => {

@@ -19,11 +19,13 @@
   },
   "dependencies": {
     "application-config-path": "^0.1.0",
+    "body-parser": "^1.18.3",
     "chalk": "^2.4.1",
     "cheerio": "^1.0.0-rc.2",
     "clear": "^0.1.0",
     "cloudscraper": "^1.5.0",
     "clui": "^0.3.6",
+    "cors": "^2.8.4",
     "express": "^4.16.3",
     "inquirer": "^6.0.0",
     "inquirer-autocomplete-prompt": "^0.12.2",
