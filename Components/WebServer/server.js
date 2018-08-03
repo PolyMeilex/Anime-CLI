@@ -11,11 +11,7 @@ app.use(cors());
 const fs = require("fs");
 const path = require("path");
 
-app.use(express.static(__dirname + "/Frontend/dist/spa-mat"));
-
-// app.get("/", function(req, res) {
-//   res.sendFile(__dirname + "/FrontEndApp/index.html");
-// });
+app.use(express.static(__dirname + "/Anime-CLI-Web-UI/dist/spa-mat"));
 
 app.get("/getcookie", async (req, res) => {
   const cookieGet = await require("../Hostings/KA/CookeParser")();
@@ -99,7 +95,9 @@ app.get("/getdm", async (req, res) => {
 });
 
 const start = () => {
-  app.listen(3131, () => console.log("App Running on port 3131!"));
+  app.listen(3131, () =>
+    console.log("App Running on port http://localhost:3131 !")
+  );
 };
 
 module.exports = start;
