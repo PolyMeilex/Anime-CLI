@@ -11,6 +11,12 @@ app.use(cors());
 const fs = require("fs");
 const path = require("path");
 
+app.use(express.static(__dirname + "/Frontend/dist/spa-mat"));
+
+// app.get("/", function(req, res) {
+//   res.sendFile(__dirname + "/FrontEndApp/index.html");
+// });
+
 app.get("/getcookie", async (req, res) => {
   const cookieGet = await require("../Hostings/KA/CookeParser")();
   cookie = cookieGet + " ";
