@@ -79,8 +79,10 @@ const start = async () => {
 };
 
 // start();
-const mode = "web-ui";
-// const mode = "cli";
+// const mode = "web-ui";
+let mode = "cli";
+
+if (process.argv[process.argv.length - 1] == "web-ui") mode = "web-ui";
 
 if (mode === "cli") {
   start();
