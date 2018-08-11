@@ -35,5 +35,13 @@ It will be fixed in future (-:~~
 ## HorribleSubs Torrents (On Hold)
 
 ## Web Panel 
+To test Web Panel run
+```
+npm i -g anime-cli@next 
+```
+And
+```
+anime-cli web-ui 
+```
 ![Preview](https://i.imgur.com/kqcBLTg.png)
 
