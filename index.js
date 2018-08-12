@@ -78,8 +78,20 @@ const start = async () => {
   }
 };
 
-start();
+// start();
+// const mode = "web-ui";
+let mode = "cli";
 
-inquirerMenager.OpenMainMenu(" ");
+if (process.argv[process.argv.length - 1] == "web-ui") mode = "web-ui";
+
+if (mode === "cli") {
+  start();
+  inquirerMenager.OpenMainMenu(" ");
+} else if (mode === "web-ui") {
+  console.log(CliLogo);
+  require("./Components/WebServer/server")();
+}
+
+// inquirerMenager.OpenMainMenu(" ");
 
 // require("./Components/Menus/AddAnime")();

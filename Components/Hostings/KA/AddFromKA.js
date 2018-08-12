@@ -3,7 +3,8 @@
 //
 
 const AnimeSearch = require("./AnimeSearch");
-const EpParser = require("./EpParser");
+// const EpParser = require("./EpParser");
+const AddFromKAModule = require("./AddFromKAModule");
 
 const CookieParser = require("./CookeParser");
 
@@ -24,21 +25,22 @@ module.exports = async () => {
   console.log(name);
   console.log("");
 
-  const obj = await EpParser(name, Cookie);
+  const res = await AddFromKAModule(name,Cookie);
+  // const obj = await EpParser(name, Cookie);
 
-  if (!obj) {
-    inquirerMenager.OpenMainMenu(
-      chalk.red("Sorry but this hosting blocked me, please try again")
-    );
-    return;
-  }
+  // if (!obj) {
+  //   inquirerMenager.OpenMainMenu(
+  //     chalk.red("Sorry but this hosting blocked me, please try again")
+  //   );
+  //   return;
+  // }
 
-  obj.host = "KA";
+  // obj.host = "KA";
 
-  fs.writeFileSync(
-    cfgPath + "/Anime/" + obj.name + ".json",
-    JSON.stringify(obj, null, "\t")
-  );
+  // fs.writeFileSync(
+  //   cfgPath + "/Anime/" + obj.name + ".json",
+  //   JSON.stringify(obj, null, "\t")
+  // );
 
   inquirerMenager.OpenMainMenu(
     chalk.green("Done! Direct Links Were Saved To Storage")

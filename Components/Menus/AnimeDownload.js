@@ -5,8 +5,16 @@
 const AnimeSelect = require("./AnimeSelect");
 const fs = require("fs");
 
-const request = require("request");
-const progress = require("request-progress");
+// const request = require("request");
+// const progress = require("request-progress");
+
+// const CLI = require("clui"),
+//   clc = require("cli-color");
+
+// let Line = CLI.Line,
+//   LineBuffer = CLI.LineBuffer;
+
+// let Progress = CLI.Progress;
 
 const Conf = require("../Settings/Settings");
 
@@ -50,14 +58,6 @@ module.exports = async () => {
   } catch (e) {}
 
   clear();
-
-  const CLI = require("clui"),
-    clc = require("cli-color");
-
-  let Line = CLI.Line,
-    LineBuffer = CLI.LineBuffer;
-
-  let Progress = CLI.Progress;
 
   require("../Utils/EpDisplay")(obj);
 
@@ -120,110 +120,6 @@ module.exports = async () => {
 
   clear();
 
-  function drawMod() {
-    let outputBuffer = new LineBuffer({
-      x: 0,
-      y: 0,
-      width: "console",
-      height: "console"
-    });
-
-    new Line(outputBuffer).fill().store();
-
-    new Line(outputBuffer)
-      .column(obj.name, 50, [clc.green])
-      .fill()
-      .store();
-
-    new Line(outputBuffer).fill().store();
-
-    new Line(outputBuffer)
-      .column("Name", 20, [clc.cyan])
-      .column("Speed", 20, [clc.cyan])
-      .column("Progress", 50, [clc.cyan])
-      .fill()
-      .store();
-
-    this.Dobjects.forEach(d => {
-      if (d.done) return;
-      let thisProgressBar = new Progress(20);
-
-      let state;
-      if (d.state) state = d.state;
-      else state = { percent: 0 };
-
-      new Line(outputBuffer)
-        .column(d.name, 20)
-        .column(`${Math.round(state.speed * 0.000001 * 100) / 100} Mbps`, 20)
-        .column(thisProgressBar.update(state.percent * 100, 100), 50)
-        .fill()
-        .store();
-    });
-    outputBuffer.output();
-  }
-
-  class DownloadMenager {
-    constructor(Dobjects) {
-      this.Dobjects = Dobjects;
-      this.LastDownloading = 0;
-    }
-
-    draw() {
-      let binded = drawMod.bind(this);
-      binded();
-    }
-
-    InitDownload(i = 0) {
-      const d = this.Dobjects[i];
-      if (!d) return;
-      if (d.PlaceHolder) return;
-      d.StartDownload();
-      d.progress.on("progress", state => {
-        d.state = state;
-        this.draw();
-      });
-      d.progress.on("error", err => {});
-      d.progress.on("end", () => {
-        if (d.state) d.state.percent = 1;
-        else {
-          d.state = {};
-          d.state.percent = 0;
-        }
-        d.done = true;
-
-        // this.Dobjects.splice(i, 1);
-        this.Dobjects.push({
-          PlaceHolder: true,
-          name: d.name,
-          state: d.state
-        });
-
-        this.InitDownload(this.LastDownloading + 1);
-      });
-
-      d.progress.pipe(
-        fs.createWriteStream(
-          DownloadPath + "/Downloads/" + AnimeName + "/" + d.name + ".mp4"
-        )
-      );
-      this.LastDownloading = i;
-    }
-  }
-
-  class Dobject {
-    constructor(ep) {
-      this.name = ep.name;
-      this.rawLink = ep.rawLink;
-      this.progress = null;
-      this.state = null;
-      this.done = false;
-      this.moved = false;
-    }
-    StartDownload() {
-      this.progress = progress(request(this.rawLink));
-    }
-  }
-
   if (obj.host == null) {
     const GetRawLinks = require("../Hostings/KA/LinkParsers/GetRawLinks");
     list = await GetRawLinks(list);
@@ -234,13 +130,10 @@ module.exports = async () => {
     list = await GetRawLinks(list);
   }
 
-  list = list.map(ep => new Dobject(ep));
-
-  let Allowed = true;
-
   //
   // Overwrite Check
   //
+  let Allowed = true;
 
   try {
     const dir = fs.readdirSync(DownloadPath + "/Downloads/" + AnimeName);
@@ -270,10 +163,18 @@ module.exports = async () => {
     }
   } catch (e) {}
 
+  const DownloadMenager = require("../DownloadMenager/mainDmModule")
+    .DownloadMenager;
+  const Dobject = require("../DownloadMenager/mainDmModule").Dobject;
+
+  list = list.map(ep => new Dobject(ep));
+
+
   if (Allowed) {
-    let dm = new DownloadMenager(list);
+    let dm = new DownloadMenager(AnimeName,list);
     dm.draw();
 
     for (let i = 0; i < Conf.Read("Max-Downloads"); i++) dm.InitDownload(i);
+    
   }
 };
